@@ -102,7 +102,7 @@ class Settings(object):
                 })
 
 
-def load_settings(fn, defaults):
+def load_settings(fn, defaults=None):
 
     global _Settings_instance
     with open(fn, 'r') as inf:
@@ -110,9 +110,9 @@ def load_settings(fn, defaults):
             t = json.load(inf)
         except ValueError:
             t = None
-
+    print(t)
     if t is None:
-        t = defaults
+        t = defaults if defaults else dict()
         with open(fn, 'w') as outf:
             outf.write(json.dumps(t))
 
@@ -128,11 +128,3 @@ def get_settings():
 
     return _Settings_instance
 
-
-if __name__ == '__main__':
-    import pprint
-
-    t = Settings()
-    t.add_namespace('blah', defaults={'foo':1, 'bar': 2, 'baz': 3})
-    x = eval(repr(t))
-    pprint.pprint(x)

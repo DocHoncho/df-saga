@@ -21,11 +21,14 @@ DEFAULT_APP_SETTINGS = {
 class App(object):
 
     def __init__(self, config):
-        s = config.get_namespace('app')
-
-        self.hostname = config['app/hostname']
-        self.port = config['app/port']
-        self.static_dir = config['app/static_dir']
+        #s = config.get_namespace('app')
+        print(config)
+        self.hostname = config['hostname']
+        self.port = config['port']
+        self.static_dir = config['static_dir']
+        self.data_dir = '.'
+        self.debug = config['debug']
+        self.reloader = config['reloader']
 
     def dispatch_request(self, request):
         return Response('Hello World')
@@ -40,21 +43,10 @@ class App(object):
 
 def create_app(settings):
     app = App(settings)
-    if static_dir is not None:
+    if settings['static_dir'] is not None:
         app.wsgi_app = SharedDataMiddleware(app.wsgi_app, {
-            '/static': static_dir
+            '/static': settings['static_dir']
             })
     return app
 
-if __name__ == '__main__':
-    from werkzeug.serving import run_simple
-
-    settings = load_settings('settings.json', DEFAULT_APP_SETTINGS)
-
-    app = create_app(settings['static_dir'])
-    run_simple(settings['hostname'],
-               settings['port'],
-               app,
-               use_debugger=settings['debug'],
-               use_reloader=settings['reloader'])
 

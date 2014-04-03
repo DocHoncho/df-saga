@@ -1,1 +1,1 @@
-{    "static_dir": "static",     "debug": true,     "port": 5000,     "hostname": "127.0.0.1",     "reloader": true        "data_dir": }
+{    "hostname": "127.0.0.1",    "port": 5000,    "static_dir": "static",    "debug": "true",    "reloader": "true"}
