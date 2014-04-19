@@ -22,7 +22,6 @@ class Settings(object):
         if not ignore_defaults:
             t = dict()
             for name, data in _DEFAULT_NAMESPACES:
-                print(name, data)
                 t[name] = Settings(data[0], data[1], data[2], ignore_defaults=True)
 
             self._ns = t
@@ -82,7 +81,6 @@ class Settings(object):
 
     @classmethod
     def from_json(cls, data):
-        print(cls, type(data))
         t = Settings({}, data['defaults'], data['data'])
         for key, value in data['namespaces']:
             t.add_hive(key, Settings.from_json(value))
@@ -110,7 +108,6 @@ def load_settings(fn, defaults=None):
             t = json.load(inf)
         except ValueError:
             t = None
-    print(t)
     if t is None:
         t = defaults if defaults else dict()
         with open(fn, 'w') as outf:
