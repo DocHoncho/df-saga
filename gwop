@@ -1,0 +1,2576 @@
+00001033 : <Element historical_figure at 0x25ba878>id <Element id at 0x25b8990>
+race <Element race at 0x25b8878>
+caste <Element caste at 0x25b8940>
+appeared <Element appeared at 0x25b8a30>
+birth_year <Element birth_year at 0x25b8ad0>
+death_year <Element death_year at 0x25b8b20>
+associated_type <Element associated_type at 0x25b8a08>
+skill <Element skill at 0x25bdb20>
+total_ip <Element total_ip at 0x25bdb70>
+birth_seconds72 <Element birth_seconds72 at 0x25b8c60>
+death_seconds72 <Element death_seconds72 at 0x25b8d50>
+('historical_figure', {'id': 8881, 'race': DRAGON, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -179, 'caste': FEMALE})
+00001067 : <Element historical_figure at 0x25be0f8>id <Element id at 0x25be120>
+race <Element race at 0x25be1c0>
+caste <Element caste at 0x25be210>
+appeared <Element appeared at 0x25be260>
+birth_year <Element birth_year at 0x25be2b0>
+death_year <Element death_year at 0x25be350>
+associated_type <Element associated_type at 0x25be3f0>
+skill <Element skill at 0x25be508>
+total_ip <Element total_ip at 0x25be558>
+birth_seconds72 <Element birth_seconds72 at 0x25be300>
+death_seconds72 <Element death_seconds72 at 0x25be3a0>
+('historical_figure', {'id': 8882, 'race': FORGOTTEN_BEAST_1, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -222, 'caste': DEFAULT})
+00001102 : <Element historical_figure at 0x25beb98>id <Element id at 0x25bebc0>
+race <Element race at 0x25bec60>
+caste <Element caste at 0x25becb0>
+appeared <Element appeared at 0x25bed00>
+birth_year <Element birth_year at 0x25bed50>
+death_year <Element death_year at 0x25bedf0>
+associated_type <Element associated_type at 0x25bee90>
+skill <Element skill at 0x25bf030>
+total_ip <Element total_ip at 0x25bf080>
+birth_seconds72 <Element birth_seconds72 at 0x25beda0>
+death_seconds72 <Element death_seconds72 at 0x25bee40>
+('historical_figure', {'id': 8883, 'race': FORGOTTEN_BEAST_2, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -168, 'caste': DEFAULT})
+00001137 : <Element historical_figure at 0x25bf6c0>id <Element id at 0x25b7710>
+race <Element race at 0x25b7918>
+caste <Element caste at 0x25bf7d8>
+appeared <Element appeared at 0x25bf828>
+birth_year <Element birth_year at 0x25bf878>
+death_year <Element death_year at 0x25bf918>
+associated_type <Element associated_type at 0x25bf9b8>
+skill <Element skill at 0x25bfb20>
+total_ip <Element total_ip at 0x25bfb70>
+birth_seconds72 <Element birth_seconds72 at 0x25bf8c8>
+death_seconds72 <Element death_seconds72 at 0x25bf968>
+('historical_figure', {'id': 8884, 'race': FORGOTTEN_BEAST_3, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -219, 'caste': DEFAULT})
+00001172 : <Element historical_figure at 0x25c01e8>id <Element id at 0x25c0210>
+race <Element race at 0x25c02b0>
+caste <Element caste at 0x25c0300>
+appeared <Element appeared at 0x25c0350>
+birth_year <Element birth_year at 0x25c03a0>
+death_year <Element death_year at 0x25c0440>
+associated_type <Element associated_type at 0x25c04e0>
+skill <Element skill at 0x25c0648>
+total_ip <Element total_ip at 0x25c0698>
+birth_seconds72 <Element birth_seconds72 at 0x25c03f0>
+death_seconds72 <Element death_seconds72 at 0x25c0490>
+('historical_figure', {'id': 8885, 'race': FORGOTTEN_BEAST_4, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -188, 'caste': DEFAULT})
+00001227 : <Element historical_figure at 0x25c0cd8>id <Element id at 0x25b70d0>
+race <Element race at 0x25b72d8>
+caste <Element caste at 0x25b7328>
+appeared <Element appeared at 0x25b7378>
+birth_year <Element birth_year at 0x25b7418>
+death_year <Element death_year at 0x25b7468>
+associated_type <Element associated_type at 0x25b74b8>
+skill <Element skill at 0x25b7508>
+total_ip <Element total_ip at 0x25b75f8>
+birth_seconds72 <Element birth_seconds72 at 0x25b75a8>
+death_seconds72 <Element death_seconds72 at 0x25b7698>
+('historical_figure', {'id': 8886, 'race': FORGOTTEN_BEAST_5, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -284, 'caste': DEFAULT})
+00001261 : <Element historical_figure at 0x25c1e40>id <Element id at 0x25b7508>
+race <Element race at 0x25b78a0>
+caste <Element caste at 0x25b7c38>
+appeared <Element appeared at 0x25b7c88>
+birth_year <Element birth_year at 0x25b7bc0>
+death_year <Element death_year at 0x25b7d78>
+associated_type <Element associated_type at 0x25b7dc8>
+skill <Element skill at 0x25b7e18>
+total_ip <Element total_ip at 0x25b7f08>
+birth_seconds72 <Element birth_seconds72 at 0x25b7d50>
+death_seconds72 <Element death_seconds72 at 0x25b7fa8>
+('historical_figure', {'id': 8887, 'race': FORGOTTEN_BEAST_6, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -260, 'caste': DEFAULT})
+00001295 : <Element historical_figure at 0x25c2918>id <Element id at 0x25b5c88>
+race <Element race at 0x25c29e0>
+caste <Element caste at 0x25b7698>
+appeared <Element appeared at 0x25b7fa8>
+birth_year <Element birth_year at 0x25b7d50>
+death_year <Element death_year at 0x25b7f08>
+associated_type <Element associated_type at 0x25b7f58>
+skill <Element skill at 0x25c00f8>
+total_ip <Element total_ip at 0x25c0148>
+birth_seconds72 <Element birth_seconds72 at 0x25b7e68>
+death_seconds72 <Element death_seconds72 at 0x25b7e18>
+('historical_figure', {'id': 8888, 'race': FORGOTTEN_BEAST_7, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -279, 'caste': DEFAULT})
+00001330 : <Element historical_figure at 0x25c0788>id <Element id at 0x25c0710>
+race <Element race at 0x25c0878>
+caste <Element caste at 0x25c0800>
+appeared <Element appeared at 0x25c0918>
+birth_year <Element birth_year at 0x25c0968>
+death_year <Element death_year at 0x25c0a08>
+associated_type <Element associated_type at 0x25c09e0>
+skill <Element skill at 0x25c0c38>
+total_ip <Element total_ip at 0x25c0bc0>
+birth_seconds72 <Element birth_seconds72 at 0x25c08f0>
+death_seconds72 <Element death_seconds72 at 0x25c0a58>
+('historical_figure', {'id': 8889, 'race': FORGOTTEN_BEAST_8, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -279, 'caste': DEFAULT})
+00001365 : <Element historical_figure at 0x25c1fa8>id <Element id at 0x25c1d28>
+race <Element race at 0x25c1170>
+caste <Element caste at 0x25c11c0>
+appeared <Element appeared at 0x25c1148>
+birth_year <Element birth_year at 0x25c1260>
+death_year <Element death_year at 0x25c1238>
+associated_type <Element associated_type at 0x25c13a0>
+skill <Element skill at 0x25c1530>
+total_ip <Element total_ip at 0x25c1580>
+birth_seconds72 <Element birth_seconds72 at 0x25c12b0>
+death_seconds72 <Element death_seconds72 at 0x25c1350>
+('historical_figure', {'id': 8890, 'race': FORGOTTEN_BEAST_9, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -180, 'caste': DEFAULT})
+00001400 : <Element historical_figure at 0x25c1b48>id <Element id at 0x25c1b98>
+race <Element race at 0x25c1c38>
+caste <Element caste at 0x25c1c88>
+appeared <Element appeared at 0x25c1cd8>
+birth_year <Element birth_year at 0x25c10a8>
+death_year <Element death_year at 0x25bd030>
+associated_type <Element associated_type at 0x25bd120>
+skill <Element skill at 0x25bd710>
+total_ip <Element total_ip at 0x25bd698>
+birth_seconds72 <Element birth_seconds72 at 0x25c1058>
+death_seconds72 <Element death_seconds72 at 0x25bd080>
+('historical_figure', {'id': 8891, 'race': FORGOTTEN_BEAST_10, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -191, 'caste': DEFAULT})
+00001435 : <Element historical_figure at 0x25bdd50>id <Element id at 0x25bdcd8>
+race <Element race at 0x25bde40>
+caste <Element caste at 0x25bddc8>
+appeared <Element appeared at 0x25bdee0>
+birth_year <Element birth_year at 0x25bdf30>
+death_year <Element death_year at 0x25bdfd0>
+associated_type <Element associated_type at 0x25b8030>
+skill <Element skill at 0x25b80a8>
+total_ip <Element total_ip at 0x25b8260>
+birth_seconds72 <Element birth_seconds72 at 0x25bdeb8>
+death_seconds72 <Element death_seconds72 at 0x25bdfa8>
+('historical_figure', {'id': 8892, 'race': FORGOTTEN_BEAST_11, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -256, 'caste': DEFAULT})
+00001469 : <Element historical_figure at 0x25b86e8>id <Element id at 0x25b8d50>
+race <Element race at 0x25b8a08>
+caste <Element caste at 0x25b8b20>
+appeared <Element appeared at 0x25b8c10>
+birth_year <Element birth_year at 0x25b8b98>
+death_year <Element death_year at 0x25b8df0>
+associated_type <Element associated_type at 0x25b8d28>
+skill <Element skill at 0x25b8fd0>
+total_ip <Element total_ip at 0x25b8eb8>
+birth_seconds72 <Element birth_seconds72 at 0x25b8da0>
+death_seconds72 <Element death_seconds72 at 0x25b8e40>
+('historical_figure', {'id': 8893, 'race': FORGOTTEN_BEAST_12, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -257, 'caste': DEFAULT})
+00001503 : <Element historical_figure at 0x25be5d0>id <Element id at 0x25be6e8>
+race <Element race at 0x25be6c0>
+caste <Element caste at 0x25be7d8>
+appeared <Element appeared at 0x25be828>
+birth_year <Element birth_year at 0x25be7b0>
+death_year <Element death_year at 0x25be918>
+associated_type <Element associated_type at 0x25be9b8>
+skill <Element skill at 0x25beaf8>
+total_ip <Element total_ip at 0x25bea80>
+birth_seconds72 <Element birth_seconds72 at 0x25be8c8>
+death_seconds72 <Element death_seconds72 at 0x25be8a0>
+('historical_figure', {'id': 8894, 'race': FORGOTTEN_BEAST_13, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -172, 'caste': DEFAULT})
+00001538 : <Element historical_figure at 0x25bf878>id <Element id at 0x25bf8c8>
+race <Element race at 0x25bf968>
+caste <Element caste at 0x25bf9b8>
+appeared <Element appeared at 0x25bfa08>
+birth_year <Element birth_year at 0x25bfa58>
+death_year <Element death_year at 0x25bfb20>
+associated_type <Element associated_type at 0x25bfaf8>
+skill <Element skill at 0x25bfd50>
+total_ip <Element total_ip at 0x25bfcd8>
+birth_seconds72 <Element birth_seconds72 at 0x25bfaa8>
+death_seconds72 <Element death_seconds72 at 0x25bfb70>
+('historical_figure', {'id': 8895, 'race': FORGOTTEN_BEAST_14, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -249, 'caste': DEFAULT})
+00001573 : <Element historical_figure at 0x25bf300>id <Element id at 0x25bf350>
+race <Element race at 0x25bf3f0>
+caste <Element caste at 0x25bf440>
+appeared <Element appeared at 0x25bf3c8>
+birth_year <Element birth_year at 0x25bf4e0>
+death_year <Element death_year at 0x25bf4b8>
+associated_type <Element associated_type at 0x25bf620>
+skill <Element skill at 0x25b90f8>
+total_ip <Element total_ip at 0x25b9148>
+birth_seconds72 <Element birth_seconds72 at 0x25bf530>
+death_seconds72 <Element death_seconds72 at 0x25bf5d0>
+('historical_figure', {'id': 8896, 'race': FORGOTTEN_BEAST_15, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -176, 'caste': DEFAULT})
+00001608 : <Element historical_figure at 0x25b9be8>id <Element id at 0x25b9c38>
+race <Element race at 0x25b9b70>
+caste <Element caste at 0x25b9dc8>
+appeared <Element appeared at 0x25ba878>
+birth_year <Element birth_year at 0x25ba080>
+death_year <Element death_year at 0x25ba2b0>
+associated_type <Element associated_type at 0x25ba1e8>
+skill <Element skill at 0x25ba378>
+total_ip <Element total_ip at 0x25ba530>
+birth_seconds72 <Element birth_seconds72 at 0x25ba260>
+death_seconds72 <Element death_seconds72 at 0x25ba300>
+('historical_figure', {'id': 8897, 'race': FORGOTTEN_BEAST_16, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -178, 'caste': DEFAULT})
+00001643 : <Element historical_figure at 0x25bab70>id <Element id at 0x25babe8>
+race <Element race at 0x25babc0>
+caste <Element caste at 0x25bacd8>
+appeared <Element appeared at 0x25bad28>
+birth_year <Element birth_year at 0x25bacb0>
+death_year <Element death_year at 0x25bae18>
+associated_type <Element associated_type at 0x25baeb8>
+skill <Element skill at 0x25aa030>
+total_ip <Element total_ip at 0x25aa080>
+birth_seconds72 <Element birth_seconds72 at 0x25badc8>
+death_seconds72 <Element death_seconds72 at 0x25bada0>
+('historical_figure', {'id': 8898, 'race': FORGOTTEN_BEAST_17, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -195, 'caste': DEFAULT})
+00001697 : <Element historical_figure at 0x25aa2d8>id <Element id at 0x25aa3a0>
+race <Element race at 0x25aa3f0>
+caste <Element caste at 0x25aa378>
+appeared <Element appeared at 0x25aa440>
+birth_year <Element birth_year at 0x25aa468>
+death_year <Element death_year at 0x25aa418>
+associated_type <Element associated_type at 0x25aa508>
+skill <Element skill at 0x25aa5a8>
+total_ip <Element total_ip at 0x25aa5d0>
+birth_seconds72 <Element birth_seconds72 at 0x25aa490>
+death_seconds72 <Element death_seconds72 at 0x25aa4e0>
+('historical_figure', {'id': 8899, 'race': FORGOTTEN_BEAST_18, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -274, 'caste': DEFAULT})
+00001732 : <Element historical_figure at 0x25bb210>id <Element id at 0x25bb198>
+race <Element race at 0x25bb300>
+caste <Element caste at 0x25bb288>
+appeared <Element appeared at 0x25bb3a0>
+birth_year <Element birth_year at 0x25bb3f0>
+death_year <Element death_year at 0x25bb490>
+associated_type <Element associated_type at 0x25bb468>
+skill <Element skill at 0x25bb6c0>
+total_ip <Element total_ip at 0x25bb648>
+birth_seconds72 <Element birth_seconds72 at 0x25bb378>
+death_seconds72 <Element death_seconds72 at 0x25bb4e0>
+('historical_figure', {'id': 8900, 'race': FORGOTTEN_BEAST_19, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -211, 'caste': DEFAULT})
+00001767 : <Element historical_figure at 0x25bbd00>id <Element id at 0x25bbd50>
+race <Element race at 0x25bbdf0>
+caste <Element caste at 0x25bbe40>
+appeared <Element appeared at 0x25bbdc8>
+birth_year <Element birth_year at 0x25bbee0>
+death_year <Element death_year at 0x25bbeb8>
+associated_type <Element associated_type at 0x25bbfa8>
+skill <Element skill at 0x25bc670>
+total_ip <Element total_ip at 0x25bc788>
+birth_seconds72 <Element birth_seconds72 at 0x25bbf30>
+death_seconds72 <Element death_seconds72 at 0x25bbfd0>
+('historical_figure', {'id': 8901, 'race': FORGOTTEN_BEAST_20, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -279, 'caste': DEFAULT})
+00001802 : <Element historical_figure at 0x25bcd78>id <Element id at 0x25b5698>
+race <Element race at 0x25b55d0>
+caste <Element caste at 0x25b5788>
+appeared <Element appeared at 0x25b57d8>
+birth_year <Element birth_year at 0x25b5878>
+death_year <Element death_year at 0x25b5760>
+associated_type <Element associated_type at 0x25b5918>
+skill <Element skill at 0x25b5968>
+total_ip <Element total_ip at 0x25b58f0>
+birth_seconds72 <Element birth_seconds72 at 0x25b5a08>
+death_seconds72 <Element death_seconds72 at 0x25b5b48>
+('historical_figure', {'id': 8902, 'race': FORGOTTEN_BEAST_21, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -215, 'caste': DEFAULT})
+00001837 : <Element historical_figure at 0x25ab2d8>id <Element id at 0x25ab328>
+race <Element race at 0x25ab2b0>
+caste <Element caste at 0x25ab418>
+appeared <Element appeared at 0x25ab468>
+birth_year <Element birth_year at 0x25ab4b8>
+death_year <Element death_year at 0x25ab558>
+associated_type <Element associated_type at 0x25ab530>
+skill <Element skill at 0x25ab7d8>
+total_ip <Element total_ip at 0x25ab828>
+birth_seconds72 <Element birth_seconds72 at 0x25ab3f0>
+death_seconds72 <Element death_seconds72 at 0x25ab5a8>
+('historical_figure', {'id': 8903, 'race': FORGOTTEN_BEAST_22, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -187, 'caste': DEFAULT})
+00001871 : <Element historical_figure at 0x25abe18>id <Element id at 0x25abe68>
+race <Element race at 0x25abdf0>
+caste <Element caste at 0x25abf58>
+appeared <Element appeared at 0x25abfa8>
+birth_year <Element birth_year at 0x25abf30>
+death_year <Element death_year at 0x25ac0d0>
+associated_type <Element associated_type at 0x25ac170>
+skill <Element skill at 0x25ac2b0>
+total_ip <Element total_ip at 0x25ac1e8>
+birth_seconds72 <Element birth_seconds72 at 0x25ac030>
+death_seconds72 <Element death_seconds72 at 0x25ac120>
+('historical_figure', {'id': 8904, 'race': FORGOTTEN_BEAST_23, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -282, 'caste': DEFAULT})
+00001906 : <Element historical_figure at 0x25ac8f0>id <Element id at 0x25ac828>
+race <Element race at 0x25ac9e0>
+caste <Element caste at 0x25aca30>
+appeared <Element appeared at 0x25ac968>
+birth_year <Element birth_year at 0x25acad0>
+death_year <Element death_year at 0x25acb70>
+associated_type <Element associated_type at 0x25acc10>
+skill <Element skill at 0x25acda0>
+total_ip <Element total_ip at 0x25acdf0>
+birth_seconds72 <Element birth_seconds72 at 0x25acb20>
+death_seconds72 <Element death_seconds72 at 0x25acaa8>
+('historical_figure', {'id': 8905, 'race': FORGOTTEN_BEAST_24, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -186, 'caste': DEFAULT})
+00001940 : <Element historical_figure at 0x25ad418>id <Element id at 0x25ad468>
+race <Element race at 0x25ad508>
+caste <Element caste at 0x25ad558>
+appeared <Element appeared at 0x25ad5a8>
+birth_year <Element birth_year at 0x25ad4e0>
+death_year <Element death_year at 0x25ad698>
+associated_type <Element associated_type at 0x25ad620>
+skill <Element skill at 0x25ad760>
+total_ip <Element total_ip at 0x25ad8c8>
+birth_seconds72 <Element birth_seconds72 at 0x25ad648>
+death_seconds72 <Element death_seconds72 at 0x25ad6e8>
+('historical_figure', {'id': 8906, 'race': FORGOTTEN_BEAST_25, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -233, 'caste': DEFAULT})
+00001975 : <Element historical_figure at 0x25adda0>id <Element id at 0x25adf08>
+race <Element race at 0x25adfa8>
+caste <Element caste at 0x25adee0>
+appeared <Element appeared at 0x259efa8>
+birth_year <Element birth_year at 0x259efd0>
+death_year <Element death_year at 0x259ef58>
+associated_type <Element associated_type at 0x25af0a8>
+skill <Element skill at 0x25af288>
+total_ip <Element total_ip at 0x25af2d8>
+birth_seconds72 <Element birth_seconds72 at 0x259ef80>
+death_seconds72 <Element death_seconds72 at 0x25af058>
+('historical_figure', {'id': 8907, 'race': FORGOTTEN_BEAST_26, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -187, 'caste': DEFAULT})
+00002029 : <Element historical_figure at 0x25af8c8>id <Element id at 0x25af918>
+race <Element race at 0x25af8a0>
+caste <Element caste at 0x25afa08>
+appeared <Element appeared at 0x25afa58>
+birth_year <Element birth_year at 0x25afaa8>
+death_year <Element death_year at 0x25afb48>
+associated_type <Element associated_type at 0x25afbe8>
+skill <Element skill at 0x25afd28>
+total_ip <Element total_ip at 0x25afc60>
+birth_seconds72 <Element birth_seconds72 at 0x25af9e0>
+death_seconds72 <Element death_seconds72 at 0x25afb98>
+('historical_figure', {'id': 8908, 'race': FORGOTTEN_BEAST_27, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -181, 'caste': DEFAULT})
+00002132 : <Element historical_figure at 0x25b09e0>id <Element id at 0x25c0210>
+race <Element race at 0x25c00d0>
+caste <Element caste at 0x25c0300>
+appeared <Element appeared at 0x25c0350>
+birth_year <Element birth_year at 0x25c03f0>
+death_year <Element death_year at 0x25c0440>
+associated_type <Element associated_type at 0x25c0530>
+skill <Element skill at 0x25ae440>
+total_ip <Element total_ip at 0x25ae490>
+birth_seconds72 <Element birth_seconds72 at 0x25c0a08>
+death_seconds72 <Element death_seconds72 at 0x25c0af8>
+('historical_figure', {'id': 8909, 'race': TITAN_1, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 18000, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -274, 'caste': DEFAULT})
+00002168 : <Element historical_figure at 0x25aea80>id <Element id at 0x25aead0>
+race <Element race at 0x25aea58>
+caste <Element caste at 0x25aebc0>
+appeared <Element appeared at 0x25aec10>
+birth_year <Element birth_year at 0x25aec60>
+death_year <Element death_year at 0x25aed50>
+associated_type <Element associated_type at 0x25aedf0>
+skill <Element skill at 0x25aeee0>
+total_ip <Element total_ip at 0x25aef30>
+birth_seconds72 <Element birth_seconds72 at 0x25aeb98>
+death_seconds72 <Element death_seconds72 at 0x25aeda0>
+('historical_figure', {'id': 8910, 'race': DEMON_8, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 16100, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -196, 'caste': DEFAULT})
+00002204 : <Element historical_figure at 0x25b2580>id <Element id at 0x25ab5f8>
+race <Element race at 0x25ab198>
+caste <Element caste at 0x25ab0f8>
+appeared <Element appeared at 0x25ab238>
+birth_year <Element birth_year at 0x25ab1e8>
+death_year <Element death_year at 0x25ab328>
+associated_type <Element associated_type at 0x25ab378>
+skill <Element skill at 0x25ab2b0>
+total_ip <Element total_ip at 0x25ab4b8>
+birth_seconds72 <Element birth_seconds72 at 0x25ab468>
+death_seconds72 <Element death_seconds72 at 0x25ab558>
+('historical_figure', {'id': 8911, 'race': DEMON_7, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 16100, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -219, 'caste': DEFAULT})
+00002259 : <Element historical_figure at 0x25b3148>id <Element id at 0x25b59b8>
+race <Element race at 0x25b5968>
+caste <Element caste at 0x25b5e18>
+appeared <Element appeared at 0x25b3f58>
+birth_year <Element birth_year at 0x25b30f8>
+death_year <Element death_year at 0x25b3198>
+associated_type <Element associated_type at 0x25b31e8>
+skill <Element skill at 0x25b3080>
+total_ip <Element total_ip at 0x25b3328>
+birth_seconds72 <Element birth_seconds72 at 0x25b32d8>
+death_seconds72 <Element death_seconds72 at 0x25b3260>
+('historical_figure', {'id': 8912, 'race': DEMON_6, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 16100, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -195, 'caste': MALE})
+00002334 : <Element historical_figure at 0x25b42b0>id <Element id at 0x25bb828>
+race <Element race at 0x25bb990>
+caste <Element caste at 0x25bb918>
+appeared <Element appeared at 0x25bb940>
+birth_year <Element birth_year at 0x25bba08>
+death_year <Element death_year at 0x25bba30>
+associated_type <Element associated_type at 0x25bbb70>
+skill <Element skill at 0x25bbaf8>
+total_ip <Element total_ip at 0x25bbbe8>
+birth_seconds72 <Element birth_seconds72 at 0x25bbc60>
+death_seconds72 <Element death_seconds72 at 0x25bb210>
+('historical_figure', {'id': 8913, 'race': DEMON_6, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 16100, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -214, 'caste': FEMALE})
+00002371 : <Element historical_figure at 0x25b4f30>id <Element id at 0x25b4f80>
+race <Element race at 0x25b4f08>
+caste <Element caste at 0x25b4fd0>
+appeared <Element appeared at 0x25b4df0>
+birth_year <Element birth_year at 0x25b4030>
+death_year <Element death_year at 0x25b4a80>
+associated_type <Element associated_type at 0x25b48c8>
+skill <Element skill at 0x25b4c60>
+total_ip <Element total_ip at 0x25b4cb0>
+birth_seconds72 <Element birth_seconds72 at 0x25b49e0>
+death_seconds72 <Element death_seconds72 at 0x25b4ad0>
+('historical_figure', {'id': 8914, 'race': DEMON_5, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 16100, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -243, 'caste': DEFAULT})
+00002460 : <Element historical_figure at 0x25b4418>id <Element id at 0x25b45d0>
+race <Element race at 0x25b46c0>
+caste <Element caste at 0x25b4620>
+appeared <Element appeared at 0x25b4760>
+birth_year <Element birth_year at 0x25b47b0>
+death_year <Element death_year at 0x25b4850>
+associated_type <Element associated_type at 0x25b48f0>
+skill <Element skill at 0x25ab698>
+total_ip <Element total_ip at 0x25ab6e8>
+birth_seconds72 <Element birth_seconds72 at 0x25b45a8>
+death_seconds72 <Element death_seconds72 at 0x25b4738>
+('historical_figure', {'id': 8915, 'race': NIGHT_CREATURE_10, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -194, 'caste': MALE})
+00002564 : <Element historical_figure at 0x25abeb8>id <Element id at 0x25abdf0>
+race <Element race at 0x25abfa8>
+caste <Element caste at 0x25abf30>
+appeared <Element appeared at 0x25c0af8>
+birth_year <Element birth_year at 0x25c0a08>
+death_year <Element death_year at 0x25c0440>
+associated_type <Element associated_type at 0x25c09e0>
+skill <Element skill at 0x25b2a80>
+total_ip <Element total_ip at 0x25b2bc0>
+birth_seconds72 <Element birth_seconds72 at 0x25c0530>
+death_seconds72 <Element death_seconds72 at 0x25c08f0>
+('historical_figure', {'id': 8916, 'race': NIGHT_CREATURE_9, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -185, 'caste': MALE})
+00002647 : <Element historical_figure at 0x25b21c0>id <Element id at 0x25b2300>
+race <Element race at 0x25b22b0>
+caste <Element caste at 0x25b23f0>
+appeared <Element appeared at 0x25b2440>
+birth_year <Element birth_year at 0x25b2288>
+death_year <Element death_year at 0x25b2530>
+associated_type <Element associated_type at 0x25b25d0>
+skill <Element skill at 0x25acf30>
+total_ip <Element total_ip at 0x25acfa8>
+birth_seconds72 <Element birth_seconds72 at 0x25b23c8>
+death_seconds72 <Element death_seconds72 at 0x25b2490>
+('historical_figure', {'id': 8917, 'race': NIGHT_CREATURE_8, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -170, 'caste': FEMALE})
+00002751 : <Element historical_figure at 0x259ef58>id <Element id at 0x25c1d78>
+race <Element race at 0x25c11c0>
+caste <Element caste at 0x25c1148>
+appeared <Element appeared at 0x25c1260>
+birth_year <Element birth_year at 0x25c12b0>
+death_year <Element death_year at 0x25c1350>
+associated_type <Element associated_type at 0x25c1328>
+skill <Element skill at 0x25adda0>
+total_ip <Element total_ip at 0x25c29e0>
+birth_seconds72 <Element birth_seconds72 at 0x25c1238>
+death_seconds72 <Element death_seconds72 at 0x25c13a0>
+('historical_figure', {'id': 8918, 'race': NIGHT_CREATURE_7, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -175, 'caste': FEMALE})
+00002855 : <Element historical_figure at 0x25c2f80>id <Element id at 0x25b7ee0>
+race <Element race at 0x25b5260>
+caste <Element caste at 0x25b53c8>
+appeared <Element appeared at 0x25b52d8>
+birth_year <Element birth_year at 0x25b51e8>
+death_year <Element death_year at 0x25b50f8>
+associated_type <Element associated_type at 0x25b5328>
+skill <Element skill at 0x25b5288>
+total_ip <Element total_ip at 0x25b5148>
+birth_seconds72 <Element birth_seconds72 at 0x25b50d0>
+death_seconds72 <Element death_seconds72 at 0x25b5058>
+('historical_figure', {'id': 8919, 'race': NIGHT_CREATURE_6, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -269, 'caste': MALE})
+00002908 : <Element historical_figure at 0x25b1198>id <Element id at 0x25b10d0>
+race <Element race at 0x25b1288>
+caste <Element caste at 0x25b12d8>
+appeared <Element appeared at 0x25b1238>
+birth_year <Element birth_year at 0x25b1378>
+death_year <Element death_year at 0x25b1210>
+associated_type <Element associated_type at 0x25b14b8>
+skill <Element skill at 0x25b1a08>
+total_ip <Element total_ip at 0x25b1a58>
+birth_seconds72 <Element birth_seconds72 at 0x25b13c8>
+death_seconds72 <Element death_seconds72 at 0x25b1350>
+('historical_figure', {'id': 8920, 'race': NIGHT_CREATURE_5, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': 24, 'associated_type': STANDARD, 'birth_year': -215, 'caste': FEMALE})
+00002988 : <Element historical_figure at 0x25bd120>id <Element id at 0x25bd4e0>
+race <Element race at 0x25bdb20>
+caste <Element caste at 0x25bda58>
+appeared <Element appeared at 0x25bdaf8>
+birth_year <Element birth_year at 0x25bdc10>
+death_year <Element death_year at 0x25bdbe8>
+associated_type <Element associated_type at 0x25bdc60>
+skill <Element skill at 0x25b8d28>
+total_ip <Element total_ip at 0x25b8ee0>
+birth_seconds72 <Element birth_seconds72 at 0x25bdb70>
+death_seconds72 <Element death_seconds72 at 0x25bdd00>
+('historical_figure', {'id': 8921, 'race': NIGHT_CREATURE_4, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -187, 'caste': FEMALE})
+00003107 : <Element historical_figure at 0x25be738>id <Element id at 0x25be6c0>
+race <Element race at 0x25be828>
+caste <Element caste at 0x25be7b0>
+appeared <Element appeared at 0x25be8c8>
+birth_year <Element birth_year at 0x25be918>
+death_year <Element death_year at 0x25be9b8>
+associated_type <Element associated_type at 0x25be990>
+skill <Element skill at 0x25bf918>
+total_ip <Element total_ip at 0x25bf968>
+birth_seconds72 <Element birth_seconds72 at 0x25be8a0>
+death_seconds72 <Element death_seconds72 at 0x25bea08>
+('historical_figure', {'id': 8922, 'race': NIGHT_CREATURE_3, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -230, 'caste': MALE})
+00003208 : <Element historical_figure at 0x25bf788>id <Element id at 0x25b1d78>
+race <Element race at 0x25b1fd0>
+caste <Element caste at 0x25b1d50>
+appeared <Element appeared at 0x25b1058>
+birth_year <Element birth_year at 0x25b1f58>
+death_year <Element death_year at 0x25b1198>
+associated_type <Element associated_type at 0x25bc3c8>
+skill <Element skill at 0x25cc8c8>
+total_ip <Element total_ip at 0x25cc8f0>
+birth_seconds72 <Element birth_seconds72 at 0x25bc580>
+death_seconds72 <Element death_seconds72 at 0x25bcf08>
+('historical_figure', {'id': 8923, 'race': NIGHT_CREATURE_2, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -199, 'caste': MALE})
+00003285 : <Element historical_figure at 0x25ccf08>id <Element id at 0x25b9850>
+race <Element race at 0x25b99e0>
+caste <Element caste at 0x25b9aa8>
+appeared <Element appeared at 0x25b9af8>
+birth_year <Element birth_year at 0x25b9b98>
+death_year <Element death_year at 0x25b9b70>
+associated_type <Element associated_type at 0x25b9dc8>
+skill <Element skill at 0x25b9c88>
+total_ip <Element total_ip at 0x25aa080>
+birth_seconds72 <Element birth_seconds72 at 0x25bb300>
+death_seconds72 <Element death_seconds72 at 0x25bb3f0>
+('historical_figure', {'id': 8924, 'race': NIGHT_CREATURE_1, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -268, 'caste': MALE})
+00003298 : <Element historical_figure at 0x25aa490>id <Element id at 0x25aa418>
+race <Element race at 0x25aa508>
+caste <Element caste at 0x25aa530>
+appeared <Element appeared at 0x25aa4b8>
+birth_year <Element birth_year at 0x25aa5a8>
+death_year <Element death_year at 0x25aa580>
+birth_seconds72 <Element birth_seconds72 at 0x25aa5d0>
+death_seconds72 <Element death_seconds72 at 0x25aa620>
+('historical_figure', {'id': 8925, 'race': BIRD_FALCON_PEREGRINE, 'birth_seconds72': -1, 'appeared': -1, 'death_seconds72': -1, 'death_year': -1, 'birth_year': -1, 'caste': MALE})
+00003310 : <Element historical_figure at 0x25aa760>id <Element id at 0x25aa6c0>
+race <Element race at 0x25aa738>
+caste <Element caste at 0x25aa7b0>
+appeared <Element appeared at 0x25aa8f0>
+birth_year <Element birth_year at 0x25aa940>
+death_year <Element death_year at 0x25aa9e0>
+birth_seconds72 <Element birth_seconds72 at 0x25aa8a0>
+death_seconds72 <Element death_seconds72 at 0x25aaa30>
+('historical_figure', {'id': 8926, 'race': DWARF, 'birth_seconds72': -1, 'appeared': -1, 'death_seconds72': -1, 'death_year': -1, 'birth_year': -1, 'caste': FEMALE})
+00003322 : <Element historical_figure at 0x25aab20>id <Element id at 0x25aaa80>
+race <Element race at 0x25aabc0>
+caste <Element caste at 0x25aaaf8>
+appeared <Element appeared at 0x25aac60>
+birth_year <Element birth_year at 0x25aacb0>
+death_year <Element death_year at 0x25aac38>
+birth_seconds72 <Element birth_seconds72 at 0x25aad00>
+death_seconds72 <Element death_seconds72 at 0x25aada0>
+('historical_figure', {'id': 8927, 'race': DWARF, 'birth_seconds72': -1, 'appeared': -1, 'death_seconds72': -1, 'death_year': -1, 'birth_year': -1, 'caste': MALE})
+00003336 : <Element historical_figure at 0x25aad78>id <Element id at 0x25b9148>
+race <Element race at 0x25b9788>
+caste <Element caste at 0x25aaeb8>
+appeared <Element appeared at 0x25aa2d8>
+birth_year <Element birth_year at 0x25ce030>
+death_year <Element death_year at 0x25ce0d0>
+birth_seconds72 <Element birth_seconds72 at 0x25ce058>
+death_seconds72 <Element death_seconds72 at 0x25ce210>
+('historical_figure', {'id': 8928, 'race': DWARF, 'birth_seconds72': -1, 'appeared': -1, 'death_seconds72': -1, 'death_year': -1, 'birth_year': -1, 'caste': MALE})
+00003348 : <Element historical_figure at 0x25ce3a0>id <Element id at 0x25ce3c8>
+race <Element race at 0x25ce418>
+caste <Element caste at 0x25ce440>
+appeared <Element appeared at 0x25ce468>
+birth_year <Element birth_year at 0x25ce490>
+death_year <Element death_year at 0x25ce4e0>
+birth_seconds72 <Element birth_seconds72 at 0x25ce4b8>
+death_seconds72 <Element death_seconds72 at 0x25ce508>
+('historical_figure', {'id': 8929, 'race': DWARF, 'birth_seconds72': -1, 'appeared': -1, 'death_seconds72': -1, 'death_year': -1, 'birth_year': -1, 'caste': MALE})
+00003360 : <Element historical_figure at 0x25ce580>id <Element id at 0x25b5968>
+race <Element race at 0x25b97d8>
+caste <Element caste at 0x25b9c88>
+appeared <Element appeared at 0x25b9dc8>
+birth_year <Element birth_year at 0x25bb300>
+death_year <Element death_year at 0x25ce968>
+birth_seconds72 <Element birth_seconds72 at 0x25b9dc8>
+death_seconds72 <Element death_seconds72 at 0x25ce058>
+('historical_figure', {'id': 8930, 'race': DWARF, 'birth_seconds72': -1, 'appeared': -1, 'death_seconds72': -1, 'death_year': -1, 'birth_year': -1, 'caste': FEMALE})
+00003442 : <Element historical_figure at 0x25ce990>id <Element id at 0x25af3c8>
+race <Element race at 0x25af260>
+caste <Element caste at 0x25af3a0>
+appeared <Element appeared at 0x25af418>
+birth_year <Element birth_year at 0x25af5a8>
+death_year <Element death_year at 0x25af508>
+associated_type <Element associated_type at 0x25af558>
+skill <Element skill at 0x25af698>
+total_ip <Element total_ip at 0x25b7ee0>
+birth_seconds72 <Element birth_seconds72 at 0x25af788>
+death_seconds72 <Element death_seconds72 at 0x25af760>
+('historical_figure', {'id': 8931, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 12500, 'skill': DESIGNBUILDING}, 'death_year': -1, 'associated_type': ARCHITECT, 'birth_year': -51, 'caste': FEMALE})
+00003496 : <Element historical_figure at 0x25ce468>id <Element id at 0x25ce490>
+race <Element race at 0x25ce4e0>
+caste <Element caste at 0x25ce508>
+appeared <Element appeared at 0x25ce530>
+birth_year <Element birth_year at 0x25ce558>
+death_year <Element death_year at 0x25ce5a8>
+associated_type <Element associated_type at 0x25ce760>
+skill <Element skill at 0x25aa170>
+total_ip <Element total_ip at 0x25aa120>
+birth_seconds72 <Element birth_seconds72 at 0x25ce3a0>
+death_seconds72 <Element death_seconds72 at 0x25ce620>
+('historical_figure', {'id': 8932, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 12500, 'skill': SIEGEOPERATE}, 'death_year': 10, 'associated_type': STANDARD, 'birth_year': -78, 'caste': MALE})
+00003547 : <Element historical_figure at 0x25aa5d0>id <Element id at 0x25aa580>
+race <Element race at 0x25aa670>
+caste <Element caste at 0x25aa558>
+appeared <Element appeared at 0x25aa5f8>
+birth_year <Element birth_year at 0x25aa490>
+death_year <Element death_year at 0x25aa800>
+associated_type <Element associated_type at 0x25aa7b0>
+skill <Element skill at 0x25cc300>
+total_ip <Element total_ip at 0x25cc1e8>
+birth_seconds72 <Element birth_seconds72 at 0x25aa6c0>
+death_seconds72 <Element death_seconds72 at 0x25aa738>
+('historical_figure', {'id': 8933, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1800, 'skill': CROSSBOW}, 'death_year': 3, 'associated_type': STANDARD, 'birth_year': -86, 'caste': FEMALE})
+00003646 : <Element historical_figure at 0x25cc8c8>id <Element id at 0x25cc8f0>
+race <Element race at 0x25cc940>
+caste <Element caste at 0x25cc968>
+appeared <Element appeared at 0x25cc918>
+birth_year <Element birth_year at 0x25cc9b8>
+death_year <Element death_year at 0x25cc990>
+associated_type <Element associated_type at 0x25cca58>
+skill <Element skill at 0x25b18c8>
+total_ip <Element total_ip at 0x25b1af8>
+birth_seconds72 <Element birth_seconds72 at 0x25cc9e0>
+death_seconds72 <Element death_seconds72 at 0x25cca30>
+('historical_figure', {'id': 8934, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1500, 'skill': MECHANICS}, 'death_year': 41, 'associated_type': STANDARD, 'birth_year': -76, 'caste': MALE})
+00003727 : <Element historical_figure at 0x25ba378>id <Element id at 0x25ba530>
+race <Element race at 0x25ba5d0>
+caste <Element caste at 0x25ba620>
+appeared <Element appeared at 0x25ba490>
+birth_year <Element birth_year at 0x25ba6c0>
+death_year <Element death_year at 0x25ba580>
+associated_type <Element associated_type at 0x25ba698>
+skill <Element skill at 0x25b87b0>
+total_ip <Element total_ip at 0x25b8800>
+birth_seconds72 <Element birth_seconds72 at 0x25ba710>
+death_seconds72 <Element death_seconds72 at 0x25ba7b0>
+('historical_figure', {'id': 8935, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 500, 'skill': MILLING}, 'death_year': 30, 'associated_type': STANDARD, 'birth_year': -85, 'caste': MALE})
+00003802 : <Element historical_figure at 0x25b32d8>id <Element id at 0x25b3288>
+race <Element race at 0x25b3418>
+caste <Element caste at 0x25b3468>
+appeared <Element appeared at 0x25b3378>
+birth_year <Element birth_year at 0x25b33f0>
+death_year <Element death_year at 0x25b3508>
+associated_type <Element associated_type at 0x25b3698>
+skill <Element skill at 0x25bddc8>
+total_ip <Element total_ip at 0x25bdfa8>
+birth_seconds72 <Element birth_seconds72 at 0x25b35a8>
+death_seconds72 <Element death_seconds72 at 0x25b3648>
+('historical_figure', {'id': 8936, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 2100, 'skill': CROSSBOW}, 'death_year': 33, 'associated_type': STANDARD, 'birth_year': -82, 'caste': FEMALE})
+00003864 : <Element historical_figure at 0x25b41c0>id <Element id at 0x25b4300>
+race <Element race at 0x25b40f8>
+caste <Element caste at 0x25b4288>
+appeared <Element appeared at 0x25b4440>
+birth_year <Element birth_year at 0x25b43a0>
+death_year <Element death_year at 0x25b4530>
+associated_type <Element associated_type at 0x25b4f30>
+skill <Element skill at 0x25c0d50>
+total_ip <Element total_ip at 0x25c0da0>
+birth_seconds72 <Element birth_seconds72 at 0x25b44e0>
+death_seconds72 <Element death_seconds72 at 0x25b4490>
+('historical_figure', {'id': 8937, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 500, 'skill': FISH}, 'death_year': 47, 'associated_type': STANDARD, 'birth_year': -78, 'caste': MALE})
+00003936 : <Element historical_figure at 0x25c44e0>id <Element id at 0x25c45d0>
+race <Element race at 0x25c4558>
+caste <Element caste at 0x25c4828>
+appeared <Element appeared at 0x25c4850>
+birth_year <Element birth_year at 0x25c4800>
+death_year <Element death_year at 0x25c48c8>
+associated_type <Element associated_type at 0x25c4918>
+skill <Element skill at 0x25c4f58>
+total_ip <Element total_ip at 0x25c4fd0>
+birth_seconds72 <Element birth_seconds72 at 0x25c48a0>
+death_seconds72 <Element death_seconds72 at 0x25c4878>
+('historical_figure', {'id': 8938, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 3200, 'skill': CROSSBOW}, 'death_year': 36, 'associated_type': STANDARD, 'birth_year': -53, 'caste': FEMALE})
+00004016 : <Element historical_figure at 0x25beaf8>id <Element id at 0x25af968>
+race <Element race at 0x25af918>
+caste <Element caste at 0x25afa58>
+appeared <Element appeared at 0x25afaa8>
+birth_year <Element birth_year at 0x25afb48>
+death_year <Element death_year at 0x25afb98>
+associated_type <Element associated_type at 0x25af9e0>
+skill <Element skill at 0x25bfeb8>
+total_ip <Element total_ip at 0x25bfdf0>
+birth_seconds72 <Element birth_seconds72 at 0x25afc60>
+death_seconds72 <Element death_seconds72 at 0x25afe68>
+('historical_figure', {'id': 8939, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 500, 'skill': ANIMALTRAIN}, 'death_year': -1, 'associated_type': CROSSBOWMAN, 'birth_year': -77, 'caste': MALE})
+00004099 : <Element historical_figure at 0x25d13a0>id <Element id at 0x25d13c8>
+race <Element race at 0x25d1418>
+caste <Element caste at 0x25d1440>
+appeared <Element appeared at 0x25d1490>
+birth_year <Element birth_year at 0x25d14b8>
+death_year <Element death_year at 0x25d1508>
+associated_type <Element associated_type at 0x25d1558>
+skill <Element skill at 0x25ae440>
+total_ip <Element total_ip at 0x25ae490>
+birth_seconds72 <Element birth_seconds72 at 0x25d14e0>
+death_seconds72 <Element death_seconds72 at 0x25d1530>
+('historical_figure', {'id': 8940, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 500, 'skill': TANNER}, 'death_year': 16, 'associated_type': STANDARD, 'birth_year': -78, 'caste': FEMALE})
+00004111 : <Element historical_figure at 0x25aebc0>id <Element id at 0x25aec10>
+race <Element race at 0x25aeb98>
+caste <Element caste at 0x25aed50>
+appeared <Element appeared at 0x25aec60>
+birth_year <Element birth_year at 0x25aedf0>
+death_year <Element death_year at 0x25aeda0>
+birth_seconds72 <Element birth_seconds72 at 0x25aed28>
+death_seconds72 <Element death_seconds72 at 0x25aef30>
+('historical_figure', {'id': 8941, 'race': HUMAN, 'birth_seconds72': -1, 'appeared': -1, 'death_seconds72': -1, 'death_year': -1, 'birth_year': -1, 'caste': FEMALE})
+00004123 : <Element historical_figure at 0x25aefa8>id <Element id at 0x25aee68>
+race <Element race at 0x25aea80>
+caste <Element caste at 0x25aed00>
+appeared <Element appeared at 0x25ab468>
+birth_year <Element birth_year at 0x25ab418>
+death_year <Element death_year at 0x25ab3f0>
+birth_seconds72 <Element birth_seconds72 at 0x25ab558>
+death_seconds72 <Element death_seconds72 at 0x25ab5a8>
+('historical_figure', {'id': 8942, 'race': HUMAN, 'birth_seconds72': -1, 'appeared': -1, 'death_seconds72': -1, 'death_year': -1, 'birth_year': -1, 'caste': FEMALE})
+00004135 : <Element historical_figure at 0x25ab6e8>id <Element id at 0x25ab530>
+race <Element race at 0x25ab828>
+caste <Element caste at 0x25ab738>
+appeared <Element appeared at 0x25ab7b0>
+birth_year <Element birth_year at 0x25ab918>
+death_year <Element death_year at 0x25ab9b8>
+birth_seconds72 <Element birth_seconds72 at 0x25ab670>
+death_seconds72 <Element death_seconds72 at 0x25ab8f0>
+('historical_figure', {'id': 8943, 'race': HUMAN, 'birth_seconds72': -1, 'appeared': -1, 'death_seconds72': -1, 'death_year': -1, 'birth_year': -1, 'caste': FEMALE})
+00004149 : <Element historical_figure at 0x25abaf8>id <Element id at 0x25ab968>
+race <Element race at 0x25abbe8>
+caste <Element caste at 0x25aba58>
+appeared <Element appeared at 0x25abb70>
+birth_year <Element birth_year at 0x25abcd8>
+death_year <Element death_year at 0x25abd78>
+birth_seconds72 <Element birth_seconds72 at 0x25aba30>
+death_seconds72 <Element death_seconds72 at 0x25abcb0>
+('historical_figure', {'id': 8944, 'race': HUMAN, 'birth_seconds72': -1, 'appeared': -1, 'death_seconds72': -1, 'death_year': -1, 'birth_year': -1, 'caste': MALE})
+00004161 : <Element historical_figure at 0x25abdf0>id <Element id at 0x25abf58>
+race <Element race at 0x25abf30>
+caste <Element caste at 0x25abeb8>
+appeared <Element appeared at 0x25d2030>
+birth_year <Element birth_year at 0x25d2058>
+death_year <Element death_year at 0x25d20a8>
+birth_seconds72 <Element birth_seconds72 at 0x25d2080>
+death_seconds72 <Element death_seconds72 at 0x25d20d0>
+('historical_figure', {'id': 8945, 'race': HUMAN, 'birth_seconds72': -1, 'appeared': -1, 'death_seconds72': -1, 'death_year': -1, 'birth_year': -1, 'caste': MALE})
+00004174 : <Element historical_figure at 0x25d2148>id <Element id at 0x25d2170>
+race <Element race at 0x25d21c0>
+caste <Element caste at 0x25d21e8>
+appeared <Element appeared at 0x25d2210>
+birth_year <Element birth_year at 0x25d2238>
+death_year <Element death_year at 0x25d2288>
+birth_seconds72 <Element birth_seconds72 at 0x25d2260>
+death_seconds72 <Element death_seconds72 at 0x25d22b0>
+('historical_figure', {'id': 8946, 'race': HUMAN, 'birth_seconds72': -1, 'appeared': -1, 'death_seconds72': -1, 'death_year': -1, 'birth_year': -1, 'caste': MALE})
+00004186 : <Element historical_figure at 0x25d2350>id <Element id at 0x25d2378>
+race <Element race at 0x25d23c8>
+caste <Element caste at 0x25d23f0>
+appeared <Element appeared at 0x25d2418>
+birth_year <Element birth_year at 0x25d2440>
+death_year <Element death_year at 0x25d2490>
+birth_seconds72 <Element birth_seconds72 at 0x25d2468>
+death_seconds72 <Element death_seconds72 at 0x25d24b8>
+('historical_figure', {'id': 8947, 'race': HUMAN, 'birth_seconds72': -1, 'appeared': -1, 'death_seconds72': -1, 'death_year': -1, 'birth_year': -1, 'caste': FEMALE})
+00004198 : <Element historical_figure at 0x25d2530>id <Element id at 0x25d2558>
+race <Element race at 0x25d25a8>
+caste <Element caste at 0x25d25d0>
+appeared <Element appeared at 0x25d25f8>
+birth_year <Element birth_year at 0x25d2620>
+death_year <Element death_year at 0x25d2670>
+birth_seconds72 <Element birth_seconds72 at 0x25d2648>
+death_seconds72 <Element death_seconds72 at 0x25d2698>
+('historical_figure', {'id': 8948, 'race': HUMAN, 'birth_seconds72': -1, 'appeared': -1, 'death_seconds72': -1, 'death_year': -1, 'birth_year': -1, 'caste': FEMALE})
+00004281 : <Element historical_figure at 0x25d2710>id <Element id at 0x25bfdc8>
+race <Element race at 0x25bfe40>
+caste <Element caste at 0x25bfeb8>
+appeared <Element appeared at 0x25bfdf0>
+birth_year <Element birth_year at 0x25bf6c0>
+death_year <Element death_year at 0x25bfee0>
+associated_type <Element associated_type at 0x25bffa8>
+skill <Element skill at 0x25ac670>
+total_ip <Element total_ip at 0x25ac0a8>
+birth_seconds72 <Element birth_seconds72 at 0x25bf030>
+death_seconds72 <Element death_seconds72 at 0x25bf170>
+('historical_figure', {'id': 8949, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1900, 'skill': HAMMER}, 'death_year': 8, 'associated_type': STANDARD, 'birth_year': -32, 'caste': MALE})
+00004344 : <Element historical_figure at 0x25b6670>id <Element id at 0x25b65d0>
+race <Element race at 0x25b68c8>
+caste <Element caste at 0x25b66c0>
+appeared <Element appeared at 0x25b6c60>
+birth_year <Element birth_year at 0x25b6cb0>
+death_year <Element death_year at 0x25b6be8>
+associated_type <Element associated_type at 0x25b6d00>
+skill <Element skill at 0x25b2210>
+total_ip <Element total_ip at 0x25b2148>
+birth_seconds72 <Element birth_seconds72 at 0x25b6c10>
+death_seconds72 <Element death_seconds72 at 0x25b6da0>
+('historical_figure', {'id': 8950, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1500, 'skill': BREWING}, 'death_year': 8, 'associated_type': STANDARD, 'birth_year': -26, 'caste': FEMALE})
+00004432 : <Element historical_figure at 0x25b2850>id <Element id at 0x25accb0>
+race <Element race at 0x25ace90>
+caste <Element caste at 0x25acdf0>
+appeared <Element appeared at 0x25acd50>
+birth_year <Element birth_year at 0x25acee0>
+death_year <Element death_year at 0x25acd28>
+associated_type <Element associated_type at 0x25acfa8>
+skill <Element skill at 0x25d3828>
+total_ip <Element total_ip at 0x25d3850>
+birth_seconds72 <Element birth_seconds72 at 0x25ac8f0>
+death_seconds72 <Element death_seconds72 at 0x25bf300>
+('historical_figure', {'id': 8951, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1500, 'skill': MILLING}, 'death_year': -1, 'associated_type': SPEARMAN, 'birth_year': -34, 'caste': FEMALE})
+00004540 : <Element historical_figure at 0x25d3af8>id <Element id at 0x25d8698>
+race <Element race at 0x25d86e8>
+caste <Element caste at 0x25d8710>
+appeared <Element appeared at 0x25d8738>
+birth_year <Element birth_year at 0x25d8788>
+death_year <Element death_year at 0x25d87b0>
+associated_type <Element associated_type at 0x25d87d8>
+skill <Element skill at 0x25d8760>
+total_ip <Element total_ip at 0x25d8850>
+birth_seconds72 <Element birth_seconds72 at 0x25d8828>
+death_seconds72 <Element death_seconds72 at 0x25d88a0>
+('historical_figure', {'id': 8952, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1500, 'skill': SURGERY}, 'death_year': -1, 'associated_type': SURGEON, 'birth_year': -21, 'caste': FEMALE})
+00004661 : <Element historical_figure at 0x25ad4e0>id <Element id at 0x25ad698>
+race <Element race at 0x25ad620>
+caste <Element caste at 0x25ad788>
+appeared <Element appeared at 0x25ad828>
+birth_year <Element birth_year at 0x25ad648>
+death_year <Element death_year at 0x25ad198>
+associated_type <Element associated_type at 0x25ad058>
+skill <Element skill at 0x25ac8f0>
+total_ip <Element total_ip at 0x25acfa8>
+birth_seconds72 <Element birth_seconds72 at 0x25ad968>
+death_seconds72 <Element death_seconds72 at 0x25ad760>
+('historical_figure', {'id': 8953, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 500, 'skill': PROCESSPLANTS}, 'death_year': 33, 'associated_type': STANDARD, 'birth_year': -26, 'caste': MALE})
+00004732 : <Element historical_figure at 0x25d38a0>id <Element id at 0x25d38c8>
+race <Element race at 0x25d3918>
+caste <Element caste at 0x25d3940>
+appeared <Element appeared at 0x25d38f0>
+birth_year <Element birth_year at 0x25d3990>
+death_year <Element death_year at 0x25d3968>
+associated_type <Element associated_type at 0x25d3a30>
+skill <Element skill at 0x25bf878>
+total_ip <Element total_ip at 0x25bf3c8>
+birth_seconds72 <Element birth_seconds72 at 0x25d39b8>
+death_seconds72 <Element death_seconds72 at 0x25d3a08>
+('historical_figure', {'id': 8954, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1800, 'skill': CROSSBOW}, 'death_year': 14, 'associated_type': STANDARD, 'birth_year': -24, 'caste': FEMALE})
+00004814 : <Element historical_figure at 0x25b6cb0>id <Element id at 0x25b6c10>
+race <Element race at 0x25b6da0>
+caste <Element caste at 0x25b6d00>
+appeared <Element appeared at 0x25b6e90>
+birth_year <Element birth_year at 0x25b6df0>
+death_year <Element death_year at 0x25b6e40>
+associated_type <Element associated_type at 0x25b6f08>
+skill <Element skill at 0x25b28f0>
+total_ip <Element total_ip at 0x25b2828>
+birth_seconds72 <Element birth_seconds72 at 0x25b6f30>
+death_seconds72 <Element death_seconds72 at 0x25b6d78>
+('historical_figure', {'id': 8955, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 500, 'skill': ANIMALTRAIN}, 'death_year': -1, 'associated_type': CROSSBOWMAN, 'birth_year': -21, 'caste': MALE})
+00004904 : <Element historical_figure at 0x25c2e18>id <Element id at 0x25c2eb8>
+race <Element race at 0x25af760>
+caste <Element caste at 0x25afa58>
+appeared <Element appeared at 0x25afbe8>
+birth_year <Element birth_year at 0x25afd28>
+death_year <Element death_year at 0x25afe18>
+associated_type <Element associated_type at 0x25afda0>
+skill <Element skill at 0x25d1760>
+total_ip <Element total_ip at 0x25d1710>
+birth_seconds72 <Element birth_seconds72 at 0x25afdc8>
+death_seconds72 <Element death_seconds72 at 0x25aff58>
+('historical_figure', {'id': 8956, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1800, 'skill': AXE}, 'death_year': -1, 'associated_type': AXEMAN, 'birth_year': -34, 'caste': MALE})
+00004965 : <Element historical_figure at 0x25d1d00>id <Element id at 0x25d1e68>
+race <Element race at 0x25d1e40>
+caste <Element caste at 0x25d1ee0>
+appeared <Element appeared at 0x25d1f30>
+birth_year <Element birth_year at 0x25d1f58>
+death_year <Element death_year at 0x25d1fa8>
+associated_type <Element associated_type at 0x25d1f80>
+skill <Element skill at 0x25ce918>
+total_ip <Element total_ip at 0x25ce940>
+birth_seconds72 <Element birth_seconds72 at 0x25d1eb8>
+death_seconds72 <Element death_seconds72 at 0x25d1fd0>
+('historical_figure', {'id': 8957, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 500, 'skill': MILLING}, 'death_year': -1, 'associated_type': FARMER, 'birth_year': -27, 'caste': FEMALE})
+00005074 : <Element historical_figure at 0x25ae300>id <Element id at 0x25ae350>
+race <Element race at 0x25ae440>
+caste <Element caste at 0x25ae490>
+appeared <Element appeared at 0x25ae198>
+birth_year <Element birth_year at 0x25ae418>
+death_year <Element death_year at 0x25ae3a0>
+associated_type <Element associated_type at 0x25ae558>
+skill <Element skill at 0x25abd28>
+total_ip <Element total_ip at 0x25abaf8>
+birth_seconds72 <Element birth_seconds72 at 0x25ae580>
+death_seconds72 <Element death_seconds72 at 0x25ae620>
+('historical_figure', {'id': 8958, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 500, 'skill': DISSECT_FISH}, 'death_year': -1, 'associated_type': AXEMAN, 'birth_year': -23, 'caste': MALE})
+00005107 : <Element historical_figure at 0x25d2f58>id <Element id at 0x25d8580>
+race <Element race at 0x25d2fd0>
+caste <Element caste at 0x25d2fa8>
+appeared <Element appeared at 0x25d2710>
+birth_year <Element birth_year at 0x25d2e68>
+death_year <Element death_year at 0x25d2058>
+associated_type <Element associated_type at 0x25d20a8>
+skill <Element skill at 0x25d2210>
+total_ip <Element total_ip at 0x25d2238>
+birth_seconds72 <Element birth_seconds72 at 0x25d2030>
+death_seconds72 <Element death_seconds72 at 0x25d2080>
+('historical_figure', {'id': 8959, 'race': KOBOLD, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1800, 'skill': DAGGER}, 'death_year': -1, 'associated_type': RECRUIT, 'birth_year': -61, 'caste': MALE})
+00005158 : <Element historical_figure at 0x25d2468>id <Element id at 0x25d2490>
+race <Element race at 0x25d24e0>
+caste <Element caste at 0x25d2508>
+appeared <Element appeared at 0x25d2350>
+birth_year <Element birth_year at 0x25d2558>
+death_year <Element death_year at 0x25d25a8>
+associated_type <Element associated_type at 0x25d25f8>
+skill <Element skill at 0x25d28a0>
+total_ip <Element total_ip at 0x25d2a58>
+birth_seconds72 <Element birth_seconds72 at 0x25d2580>
+death_seconds72 <Element death_seconds72 at 0x25d25d0>
+('historical_figure', {'id': 8960, 'race': KOBOLD, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1500, 'skill': DISSECT_VERMIN}, 'death_year': -1, 'associated_type': SWORDSMAN, 'birth_year': -79, 'caste': MALE})
+00005179 : <Element historical_figure at 0x25d2eb8>id <Element id at 0x25d2ee0>
+race <Element race at 0x25d4058>
+caste <Element caste at 0x25d4080>
+appeared <Element appeared at 0x25d4440>
+birth_year <Element birth_year at 0x25d4468>
+death_year <Element death_year at 0x25d44e0>
+associated_type <Element associated_type at 0x25d48a0>
+skill <Element skill at 0x25d4da0>
+total_ip <Element total_ip at 0x25d4dc8>
+birth_seconds72 <Element birth_seconds72 at 0x25d4490>
+death_seconds72 <Element death_seconds72 at 0x25d4508>
+('historical_figure', {'id': 8961, 'race': KOBOLD, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1500, 'skill': MINING}, 'death_year': 9, 'associated_type': STANDARD, 'birth_year': -69, 'caste': MALE})
+00005245 : <Element historical_figure at 0x25d4e18>id <Element id at 0x25d4e40>
+race <Element race at 0x25d4e90>
+caste <Element caste at 0x25d4eb8>
+appeared <Element appeared at 0x25d4ee0>
+birth_year <Element birth_year at 0x25d4f08>
+death_year <Element death_year at 0x25d4f58>
+associated_type <Element associated_type at 0x25d4fa8>
+skill <Element skill at 0x25bc580>
+total_ip <Element total_ip at 0x25bcdf0>
+birth_seconds72 <Element birth_seconds72 at 0x25d4f30>
+death_seconds72 <Element death_seconds72 at 0x25d4f80>
+('historical_figure', {'id': 8962, 'race': KOBOLD, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1800, 'skill': BOW}, 'death_year': -1, 'associated_type': THIEF, 'birth_year': -64, 'caste': FEMALE})
+00005278 : <Element historical_figure at 0x25bc1e8>id <Element id at 0x25bc418>
+race <Element race at 0x25ccf08>
+caste <Element caste at 0x25cc030>
+appeared <Element appeared at 0x25cc300>
+birth_year <Element birth_year at 0x25cc1e8>
+death_year <Element death_year at 0x25cc4b8>
+associated_type <Element associated_type at 0x25cc418>
+skill <Element skill at 0x25cc878>
+total_ip <Element total_ip at 0x25cc580>
+birth_seconds72 <Element birth_seconds72 at 0x25cc0a8>
+death_seconds72 <Element death_seconds72 at 0x25cc4e0>
+('historical_figure', {'id': 8963, 'race': KOBOLD, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1800, 'skill': SPEAR}, 'death_year': -1, 'associated_type': SPEARMAN, 'birth_year': -75, 'caste': MALE})
+00005329 : <Element historical_figure at 0x25cca80>id <Element id at 0x25cca08>
+race <Element race at 0x25ccb48>
+caste <Element caste at 0x25ccc88>
+appeared <Element appeared at 0x25ccdf0>
+birth_year <Element birth_year at 0x25ccda0>
+death_year <Element death_year at 0x25cce68>
+associated_type <Element associated_type at 0x25cce40>
+skill <Element skill at 0x25b0120>
+total_ip <Element total_ip at 0x25b0260>
+birth_seconds72 <Element birth_seconds72 at 0x25ccdc8>
+death_seconds72 <Element death_seconds72 at 0x25cce18>
+('historical_figure', {'id': 8964, 'race': KOBOLD, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1500, 'skill': SMELT}, 'death_year': -1, 'associated_type': SPEARMAN, 'birth_year': -82, 'caste': MALE})
+00005350 : <Element historical_figure at 0x25b0850>id <Element id at 0x25b0990>
+race <Element race at 0x25b0940>
+caste <Element caste at 0x25b0ad0>
+appeared <Element appeared at 0x25b0b20>
+birth_year <Element birth_year at 0x25b0a80>
+death_year <Element death_year at 0x25b0c10>
+associated_type <Element associated_type at 0x25b8120>
+skill <Element skill at 0x25b8300>
+total_ip <Element total_ip at 0x25b8440>
+birth_seconds72 <Element birth_seconds72 at 0x25b0bc0>
+death_seconds72 <Element death_seconds72 at 0x25b0fd0>
+('historical_figure', {'id': 8965, 'race': KOBOLD, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1500, 'skill': BONECARVE}, 'death_year': 13, 'associated_type': STANDARD, 'birth_year': -86, 'caste': MALE})
+00005401 : <Element historical_figure at 0x25b84e0>id <Element id at 0x25d8df0>
+race <Element race at 0x25d8e40>
+caste <Element caste at 0x25d8e68>
+appeared <Element appeared at 0x25d8e90>
+birth_year <Element birth_year at 0x25b8558>
+death_year <Element death_year at 0x25b8490>
+associated_type <Element associated_type at 0x25b8800>
+skill <Element skill at 0x25b86e8>
+total_ip <Element total_ip at 0x25b8f80>
+birth_seconds72 <Element birth_seconds72 at 0x25b8710>
+death_seconds72 <Element death_seconds72 at 0x25b87b0>
+('historical_figure', {'id': 8966, 'race': KOBOLD, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1500, 'skill': MINING}, 'death_year': -1, 'associated_type': SPEARMAN, 'birth_year': -71, 'caste': MALE})
+00005452 : <Element historical_figure at 0x25ba760>id <Element id at 0x25ba508>
+race <Element race at 0x25ba8a0>
+caste <Element caste at 0x25ba9e0>
+appeared <Element appeared at 0x25bab20>
+birth_year <Element birth_year at 0x25ba990>
+death_year <Element death_year at 0x25bac38>
+associated_type <Element associated_type at 0x25babe8>
+skill <Element skill at 0x25bd878>
+total_ip <Element total_ip at 0x25bdb20>
+birth_seconds72 <Element birth_seconds72 at 0x25baad0>
+death_seconds72 <Element death_seconds72 at 0x25baa80>
+('historical_figure', {'id': 8967, 'race': KOBOLD, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1500, 'skill': STONECRAFT}, 'death_year': -1, 'associated_type': SWORDSMAN, 'birth_year': -70, 'caste': MALE})
+00005536 : <Element historical_figure at 0x25c7198>id <Element id at 0x25d8e68>
+race <Element race at 0x25d8fa8>
+caste <Element caste at 0x25d8fd0>
+appeared <Element appeared at 0x25ac030>
+birth_year <Element birth_year at 0x25ac710>
+death_year <Element death_year at 0x25ac0a8>
+associated_type <Element associated_type at 0x25ac490>
+skill <Element skill at 0x25c7d28>
+total_ip <Element total_ip at 0x25c7d50>
+birth_seconds72 <Element birth_seconds72 at 0x25ac8f0>
+death_seconds72 <Element death_seconds72 at 0x25bdfd0>
+('historical_figure', {'id': 8968, 'race': KOBOLD, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 500, 'skill': SNEAK}, 'death_year': -1, 'associated_type': CROSSBOWMAN, 'birth_year': -55, 'caste': MALE})
+00005594 : <Element historical_figure at 0x25b3418>id <Element id at 0x25d8968>
+race <Element race at 0x25d89b8>
+caste <Element caste at 0x25d89e0>
+appeared <Element appeared at 0x25d8a08>
+birth_year <Element birth_year at 0x25d8e68>
+death_year <Element death_year at 0x25ac8f0>
+associated_type <Element associated_type at 0x25aca30>
+skill <Element skill at 0x25c08f0>
+total_ip <Element total_ip at 0x25c09e0>
+birth_seconds72 <Element birth_seconds72 at 0x25b3148>
+death_seconds72 <Element death_seconds72 at 0x25b3fa8>
+('historical_figure', {'id': 8969, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1500, 'skill': BONECARVE}, 'death_year': -1, 'associated_type': LASHER, 'birth_year': -204, 'caste': MALE})
+00005663 : <Element historical_figure at 0x25b4b70>id <Element id at 0x25d2238>
+race <Element race at 0x25d2288>
+caste <Element caste at 0x25d22b0>
+appeared <Element appeared at 0x25d2260>
+birth_year <Element birth_year at 0x25d2328>
+death_year <Element death_year at 0x25d22d8>
+associated_type <Element associated_type at 0x25d2378>
+skill <Element skill at 0x25bb2b0>
+total_ip <Element total_ip at 0x25bb198>
+birth_seconds72 <Element birth_seconds72 at 0x25d23f0>
+death_seconds72 <Element death_seconds72 at 0x25d2440>
+('historical_figure', {'id': 8970, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1500, 'skill': SMELT}, 'death_year': 44, 'associated_type': STANDARD, 'birth_year': -178, 'caste': FEMALE})
+00005701 : <Element historical_figure at 0x25c01e8>id <Element id at 0x25c0df0>
+race <Element race at 0x25c0da0>
+caste <Element caste at 0x25c0ee0>
+appeared <Element appeared at 0x25c0f30>
+birth_year <Element birth_year at 0x25c0f80>
+death_year <Element death_year at 0x25d80d0>
+associated_type <Element associated_type at 0x25d8030>
+skill <Element skill at 0x25b46c0>
+total_ip <Element total_ip at 0x25b45a8>
+birth_seconds72 <Element birth_seconds72 at 0x25d80f8>
+death_seconds72 <Element death_seconds72 at 0x25d8080>
+('historical_figure', {'id': 8971, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 2400, 'skill': MACE}, 'death_year': 9, 'associated_type': STANDARD, 'birth_year': -210, 'caste': FEMALE})
+00005747 : <Element historical_figure at 0x25b4210>id <Element id at 0x25b4288>
+race <Element race at 0x25b40f8>
+caste <Element caste at 0x25b44e0>
+appeared <Element appeared at 0x25b4530>
+birth_year <Element birth_year at 0x25b43a0>
+death_year <Element death_year at 0x25b4670>
+associated_type <Element associated_type at 0x25b4620>
+skill <Element skill at 0x25b3e68>
+total_ip <Element total_ip at 0x25b3eb8>
+birth_seconds72 <Element birth_seconds72 at 0x25b4f30>
+death_seconds72 <Element death_seconds72 at 0x25b4490>
+('historical_figure', {'id': 8972, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 500, 'skill': WOODCRAFT}, 'death_year': 27, 'associated_type': STANDARD, 'birth_year': -263, 'caste': MALE})
+00005812 : <Element historical_figure at 0x25b3760>id <Element id at 0x25b36e8>
+race <Element race at 0x25b3968>
+caste <Element caste at 0x25b3918>
+appeared <Element appeared at 0x25b38f0>
+birth_year <Element birth_year at 0x25b3aa8>
+death_year <Element death_year at 0x25b3b48>
+associated_type <Element associated_type at 0x25b3af8>
+skill <Element skill at 0x25bdf30>
+total_ip <Element total_ip at 0x25bddc8>
+birth_seconds72 <Element birth_seconds72 at 0x25b39b8>
+death_seconds72 <Element death_seconds72 at 0x25b3b98>
+('historical_figure', {'id': 8973, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 500, 'skill': DISSECT_VERMIN}, 'death_year': 18, 'associated_type': STANDARD, 'birth_year': -242, 'caste': FEMALE})
+00005872 : <Element historical_figure at 0x25bac38>id <Element id at 0x25baa80>
+race <Element race at 0x25babc0>
+caste <Element caste at 0x25bacd8>
+appeared <Element appeared at 0x25bae18>
+birth_year <Element birth_year at 0x25bad28>
+death_year <Element death_year at 0x25baf08>
+associated_type <Element associated_type at 0x25bacb0>
+skill <Element skill at 0x25c7af8>
+total_ip <Element total_ip at 0x25c7b20>
+birth_seconds72 <Element birth_seconds72 at 0x25badc8>
+death_seconds72 <Element death_seconds72 at 0x25bada0>
+('historical_figure', {'id': 8974, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 2100, 'skill': BOW}, 'death_year': 13, 'associated_type': STANDARD, 'birth_year': -274, 'caste': MALE})
+00005932 : <Element historical_figure at 0x25c7d50>id <Element id at 0x25c7d00>
+race <Element race at 0x25c7dc8>
+caste <Element caste at 0x25c7d78>
+appeared <Element appeared at 0x25c7e18>
+birth_year <Element birth_year at 0x25c7e40>
+death_year <Element death_year at 0x25c7e90>
+associated_type <Element associated_type at 0x25c7e68>
+skill <Element skill at 0x25c7238>
+total_ip <Element total_ip at 0x25c7260>
+birth_seconds72 <Element birth_seconds72 at 0x25c7df0>
+death_seconds72 <Element death_seconds72 at 0x25c7eb8>
+('historical_figure', {'id': 8975, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 500, 'skill': SHEARING}, 'death_year': 15, 'associated_type': STANDARD, 'birth_year': -200, 'caste': FEMALE})
+00006033 : <Element historical_figure at 0x25c7710>id <Element id at 0x25c77b0>
+race <Element race at 0x25c7788>
+caste <Element caste at 0x25c7828>
+appeared <Element appeared at 0x25c78a0>
+birth_year <Element birth_year at 0x25adee0>
+death_year <Element death_year at 0x25adfa8>
+associated_type <Element associated_type at 0x25adb98>
+skill <Element skill at 0x25c41c0>
+total_ip <Element total_ip at 0x25c4328>
+birth_seconds72 <Element birth_seconds72 at 0x25adc60>
+death_seconds72 <Element death_seconds72 at 0x25ade68>
+('historical_figure', {'id': 8976, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 500, 'skill': FISH}, 'death_year': -1, 'associated_type': CROSSBOWMAN, 'birth_year': -202, 'caste': FEMALE})
+00006096 : <Element historical_figure at 0x25bcdf0>id <Element id at 0x25bcf08>
+race <Element race at 0x25bcfd0>
+caste <Element caste at 0x25bcf58>
+appeared <Element appeared at 0x25bcee0>
+birth_year <Element birth_year at 0x25bc0f8>
+death_year <Element death_year at 0x25bc058>
+associated_type <Element associated_type at 0x25bc148>
+skill <Element skill at 0x25cc558>
+total_ip <Element total_ip at 0x25cc490>
+birth_seconds72 <Element birth_seconds72 at 0x25bc5a8>
+death_seconds72 <Element death_seconds72 at 0x25bc238>
+('historical_figure', {'id': 8977, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 2100, 'skill': HAMMER}, 'death_year': -1, 'associated_type': HAMMERMAN, 'birth_year': -274, 'caste': FEMALE})
+00006163 : <Element historical_figure at 0x25cc9e0>id <Element id at 0x25cc990>
+race <Element race at 0x25cca58>
+caste <Element caste at 0x25ccaa8>
+appeared <Element appeared at 0x25cca30>
+birth_year <Element birth_year at 0x25ccad0>
+death_year <Element death_year at 0x25ccd78>
+associated_type <Element associated_type at 0x25ccc88>
+skill <Element skill at 0x25b04e0>
+total_ip <Element total_ip at 0x25b0440>
+birth_seconds72 <Element birth_seconds72 at 0x25cca08>
+death_seconds72 <Element death_seconds72 at 0x25ccb48>
+('historical_figure', {'id': 8978, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 500, 'skill': BREWING}, 'death_year': 31, 'associated_type': STANDARD, 'birth_year': -180, 'caste': MALE})
+00006174 : <Element historical_figure at 0x25b0850>id <Element id at 0x25b8558>
+appeared <Element appeared at 0x25b8490>
+birth_year <Element birth_year at 0x25b87b0>
+death_year <Element death_year at 0x25b8d50>
+birth_seconds72 <Element birth_seconds72 at 0x25b8800>
+death_seconds72 <Element death_seconds72 at 0x25b8c60>
+('historical_figure', {'id': 8979, 'birth_seconds72': -1, 'death_year': -1, 'death_seconds72': -1, 'appeared': -1, 'birth_year': -1})
+00006231 : <Element historical_figure at 0x25b8760>id <Element id at 0x25c0af8>
+race <Element race at 0x25c0c38>
+caste <Element caste at 0x25c09e0>
+appeared <Element appeared at 0x25c0530>
+birth_year <Element birth_year at 0x25c0b48>
+death_year <Element death_year at 0x25c0be8>
+associated_type <Element associated_type at 0x25c0d00>
+skill <Element skill at 0x25b83f0>
+total_ip <Element total_ip at 0x25b8238>
+birth_seconds72 <Element birth_seconds72 at 0x25c0e40>
+death_seconds72 <Element death_seconds72 at 0x25c0f30>
+('historical_figure', {'id': 8980, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 12500, 'skill': WOODCRAFT}, 'death_year': 10, 'associated_type': STANDARD, 'birth_year': -196, 'caste': FEMALE})
+00006294 : <Element historical_figure at 0x25d3350>id <Element id at 0x25d3288>
+race <Element race at 0x25d33c8>
+caste <Element caste at 0x25d3378>
+appeared <Element appeared at 0x25d33a0>
+birth_year <Element birth_year at 0x25d3440>
+death_year <Element death_year at 0x25d38c8>
+associated_type <Element associated_type at 0x25d3990>
+skill <Element skill at 0x25d3be8>
+total_ip <Element total_ip at 0x25d3c88>
+birth_seconds72 <Element birth_seconds72 at 0x25d33f0>
+death_seconds72 <Element death_seconds72 at 0x25d38f0>
+('historical_figure', {'id': 8981, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 12500, 'skill': WEAVING}, 'death_year': 15, 'associated_type': STANDARD, 'birth_year': -247, 'caste': FEMALE})
+00006375 : <Element historical_figure at 0x25bea80>id <Element id at 0x25bea08>
+race <Element race at 0x25bec10>
+caste <Element caste at 0x25be0f8>
+appeared <Element appeared at 0x25bebc0>
+birth_year <Element birth_year at 0x25bed00>
+death_year <Element death_year at 0x25b2850>
+associated_type <Element associated_type at 0x25b2bc0>
+skill <Element skill at 0x25b2210>
+total_ip <Element total_ip at 0x25b2148>
+birth_seconds72 <Element birth_seconds72 at 0x25be5d0>
+death_seconds72 <Element death_seconds72 at 0x25b2ad0>
+('historical_figure', {'id': 8982, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 12500, 'skill': CLOTHESMAKING}, 'death_year': 18, 'associated_type': STANDARD, 'birth_year': -212, 'caste': FEMALE})
+00006461 : <Element historical_figure at 0x25afbe8>id <Element id at 0x259ef80>
+race <Element race at 0x25aac60>
+caste <Element caste at 0x25aab70>
+appeared <Element appeared at 0x25aaee0>
+birth_year <Element birth_year at 0x25aaf30>
+death_year <Element death_year at 0x25bb2b0>
+associated_type <Element associated_type at 0x25bb198>
+skill <Element skill at 0x25bb1c0>
+total_ip <Element total_ip at 0x25bb3f0>
+birth_seconds72 <Element birth_seconds72 at 0x25bb120>
+death_seconds72 <Element death_seconds72 at 0x25d80a8>
+('historical_figure', {'id': 8983, 'race': NIGHT_CREATURE_3, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 12500, 'skill': ANIMALCARE}, 'death_year': 35, 'associated_type': STANDARD, 'birth_year': -240, 'caste': FEMALE})
+00006565 : <Element historical_figure at 0x25dcd00>id <Element id at 0x25dcd28>
+race <Element race at 0x25dcd78>
+caste <Element caste at 0x25dcda0>
+appeared <Element appeared at 0x25dcdc8>
+birth_year <Element birth_year at 0x25dcdf0>
+death_year <Element death_year at 0x25dce40>
+associated_type <Element associated_type at 0x25dce90>
+skill <Element skill at 0x25ce418>
+total_ip <Element total_ip at 0x25ce490>
+birth_seconds72 <Element birth_seconds72 at 0x25dce18>
+death_seconds72 <Element death_seconds72 at 0x25dce68>
+('historical_figure', {'id': 8984, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1500, 'skill': APPRAISAL}, 'death_year': 39, 'associated_type': STANDARD, 'birth_year': -243, 'caste': MALE})
+00006617 : <Element historical_figure at 0x25d15d0>id <Element id at 0x25c2918>
+race <Element race at 0x25c2f80>
+caste <Element caste at 0x25c2648>
+appeared <Element appeared at 0x25c2080>
+birth_year <Element birth_year at 0x25c2030>
+death_year <Element death_year at 0x25c2210>
+associated_type <Element associated_type at 0x25c23c8>
+skill <Element skill at 0x25c2120>
+total_ip <Element total_ip at 0x25c2da0>
+birth_seconds72 <Element birth_seconds72 at 0x25c20d0>
+death_seconds72 <Element death_seconds72 at 0x25c2a80>
+('historical_figure', {'id': 8985, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1500, 'skill': WEAVING}, 'death_year': 13, 'associated_type': STANDARD, 'birth_year': -243, 'caste': FEMALE})
+00006741 : <Element historical_figure at 0x25e0238>id <Element id at 0x25bf6e8>
+race <Element race at 0x25bfb20>
+caste <Element caste at 0x25bfaa8>
+appeared <Element appeared at 0x25bf7d8>
+birth_year <Element birth_year at 0x25bffd0>
+death_year <Element death_year at 0x25bffa8>
+associated_type <Element associated_type at 0x25bf1e8>
+skill <Element skill at 0x25bf210>
+total_ip <Element total_ip at 0x25bf120>
+birth_seconds72 <Element birth_seconds72 at 0x25bf350>
+death_seconds72 <Element death_seconds72 at 0x25bf3c8>
+('historical_figure', {'id': 8986, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 2000, 'skill': SPEAR}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -244, 'caste': FEMALE})
+00006823 : <Element historical_figure at 0x25aaa80>id <Element id at 0x25aa5f8>
+race <Element race at 0x25aa3a0>
+caste <Element caste at 0x25aa418>
+appeared <Element appeared at 0x25aa6c0>
+birth_year <Element birth_year at 0x25aa670>
+death_year <Element death_year at 0x25aa0d0>
+associated_type <Element associated_type at 0x25aa0f8>
+skill <Element skill at 0x25ab828>
+total_ip <Element total_ip at 0x25ab3f0>
+birth_seconds72 <Element birth_seconds72 at 0x25aad78>
+death_seconds72 <Element death_seconds72 at 0x25aa210>
+('historical_figure', {'id': 8987, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1500, 'skill': CLOTHESMAKING}, 'death_year': 15, 'associated_type': STANDARD, 'birth_year': -242, 'caste': FEMALE})
+00006905 : <Element historical_figure at 0x25c01e8>id <Element id at 0x25ac8f0>
+race <Element race at 0x25e0e90>
+caste <Element caste at 0x25e0e40>
+appeared <Element appeared at 0x25e0ee0>
+birth_year <Element birth_year at 0x25e0f08>
+death_year <Element death_year at 0x25e0f58>
+associated_type <Element associated_type at 0x25e0f30>
+skill <Element skill at 0x25e09e0>
+total_ip <Element total_ip at 0x25e0a80>
+birth_seconds72 <Element birth_seconds72 at 0x25e0eb8>
+death_seconds72 <Element death_seconds72 at 0x25e0f80>
+('historical_figure', {'id': 8988, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 2100, 'skill': SWORD}, 'death_year': -1, 'associated_type': ANIMAL_CARETAKER, 'birth_year': -235, 'caste': MALE})
+00006970 : <Element historical_figure at 0x25ceee0>id <Element id at 0x25cee18>
+race <Element race at 0x25cef58>
+caste <Element caste at 0x25cee90>
+appeared <Element appeared at 0x25cea08>
+birth_year <Element birth_year at 0x25ce580>
+death_year <Element death_year at 0x25cea80>
+associated_type <Element associated_type at 0x25ce9e0>
+skill <Element skill at 0x25d3dc8>
+total_ip <Element total_ip at 0x25d3e68>
+birth_seconds72 <Element birth_seconds72 at 0x25cee68>
+death_seconds72 <Element death_seconds72 at 0x25cea30>
+('historical_figure', {'id': 8989, 'race': NIGHT_CREATURE_8, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 1500, 'skill': HERBALISM}, 'death_year': 22, 'associated_type': STANDARD, 'birth_year': -177, 'caste': MALE})
+00007016 : <Element historical_figure at 0x25d33c8>id <Element id at 0x25d3378>
+race <Element race at 0x25d3440>
+caste <Element caste at 0x25d33f0>
+appeared <Element appeared at 0x25d3b20>
+birth_year <Element birth_year at 0x25d3b98>
+death_year <Element death_year at 0x25d3be8>
+associated_type <Element associated_type at 0x25d3c38>
+skill <Element skill at 0x25d1328>
+total_ip <Element total_ip at 0x25d13c8>
+birth_seconds72 <Element birth_seconds72 at 0x25d3ad0>
+death_seconds72 <Element death_seconds72 at 0x25d3c88>
+('historical_figure', {'id': 8990, 'race': GIANT, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 231, 'skill': WRESTLING}, 'death_year': 43, 'associated_type': STANDARD, 'birth_year': -181, 'caste': FEMALE})
+00007218 : <Element historical_figure at 0x25d15f8>id <Element id at 0x25d16c0>
+race <Element race at 0x25d1698>
+caste <Element caste at 0x25d1620>
+appeared <Element appeared at 0x25d1760>
+birth_year <Element birth_year at 0x25d1738>
+death_year <Element death_year at 0x25d1788>
+associated_type <Element associated_type at 0x25d1850>
+skill <Element skill at 0x25b4620>
+total_ip <Element total_ip at 0x25b4f08>
+birth_seconds72 <Element birth_seconds72 at 0x25d17d8>
+death_seconds72 <Element death_seconds72 at 0x25d1710>
+('historical_figure', {'id': 8991, 'race': MINOTAUR, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 12600, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -266, 'caste': FEMALE})
+00007241 : <Element historical_figure at 0x25be7d8>id <Element id at 0x25be648>
+race <Element race at 0x25be8c8>
+caste <Element caste at 0x25be828>
+appeared <Element appeared at 0x25be7b0>
+birth_year <Element birth_year at 0x25be9b8>
+death_year <Element death_year at 0x25be8a0>
+associated_type <Element associated_type at 0x25bea08>
+birth_seconds72 <Element birth_seconds72 at 0x25be918>
+death_seconds72 <Element death_seconds72 at 0x25be990>
+('historical_figure', {'id': 8992, 'race': COUGAR, 'birth_seconds72': -1, 'appeared': 1, 'death_seconds72': -1, 'death_year': 9, 'associated_type': STANDARD, 'birth_year': -2, 'caste': MALE})
+00007289 : <Element historical_figure at 0x25afe18>id <Element id at 0x25bf3c8>
+race <Element race at 0x25bf030>
+caste <Element caste at 0x25bf120>
+appeared <Element appeared at 0x25bf260>
+birth_year <Element birth_year at 0x25bf3f0>
+death_year <Element death_year at 0x25bf878>
+associated_type <Element associated_type at 0x25bf4e0>
+skill <Element skill at 0x25bf440>
+total_ip <Element total_ip at 0x25c20d0>
+birth_seconds72 <Element birth_seconds72 at 0x25c2a80>
+death_seconds72 <Element death_seconds72 at 0x25c2da0>
+('historical_figure', {'id': 8993, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 12500, 'skill': PROCESSFISH}, 'death_year': 2, 'associated_type': STANDARD, 'birth_year': -19, 'caste': FEMALE})
+00007351 : <Element historical_figure at 0x25c1580>id <Element id at 0x25c17d8>
+race <Element race at 0x25c1be8>
+caste <Element caste at 0x25c1c38>
+appeared <Element appeared at 0x25c1c88>
+birth_year <Element birth_year at 0x25c1cd8>
+death_year <Element death_year at 0x25bdfd0>
+associated_type <Element associated_type at 0x25bd878>
+skill <Element skill at 0x25bdcd8>
+total_ip <Element total_ip at 0x25bdbe8>
+birth_seconds72 <Element birth_seconds72 at 0x25c1968>
+death_seconds72 <Element death_seconds72 at 0x25bd080>
+('historical_figure', {'id': 8994, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 1, 'hf_skill': {'total_ip': 12500, 'skill': MINING}, 'death_year': 5, 'associated_type': STANDARD, 'birth_year': -217, 'caste': FEMALE})
+00007401 : <Element historical_figure at 0x25dc2b0>id <Element id at 0x25dc2d8>
+race <Element race at 0x25dc328>
+caste <Element caste at 0x25dc350>
+appeared <Element appeared at 0x25dc300>
+birth_year <Element birth_year at 0x25dc3a0>
+death_year <Element death_year at 0x25dc378>
+associated_type <Element associated_type at 0x25dc440>
+skill <Element skill at 0x25dca30>
+total_ip <Element total_ip at 0x25dcbe8>
+birth_seconds72 <Element birth_seconds72 at 0x25dc3c8>
+death_seconds72 <Element death_seconds72 at 0x25dc418>
+('historical_figure', {'id': 8995, 'race': HYENA_MAN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 2, 'hf_skill': {'total_ip': 528, 'skill': WRESTLING}, 'death_year': 42, 'associated_type': STANDARD, 'birth_year': -26, 'caste': FEMALE})
+00007421 : <Element historical_figure at 0x25b3288>id <Element id at 0x25b33f0>
+race <Element race at 0x25b3378>
+caste <Element caste at 0x25b3648>
+appeared <Element appeared at 0x25b3698>
+birth_year <Element birth_year at 0x25b3508>
+death_year <Element death_year at 0x25b3580>
+associated_type <Element associated_type at 0x25b34b8>
+birth_seconds72 <Element birth_seconds72 at 0x25b35f8>
+death_seconds72 <Element death_seconds72 at 0x25b37d8>
+('historical_figure', {'id': 8996, 'race': GIANT_DINGO, 'birth_seconds72': -1, 'appeared': 2, 'death_seconds72': -1, 'death_year': 14, 'associated_type': STANDARD, 'birth_year': -3, 'caste': FEMALE})
+00007450 : <Element historical_figure at 0x25b3b48>id <Element id at 0x25b3b98>
+race <Element race at 0x25b3c88>
+caste <Element caste at 0x25b3a80>
+appeared <Element appeared at 0x25b3c38>
+birth_year <Element birth_year at 0x25b3760>
+death_year <Element death_year at 0x25b10d0>
+associated_type <Element associated_type at 0x25b13c8>
+birth_seconds72 <Element birth_seconds72 at 0x25b12d8>
+death_seconds72 <Element death_seconds72 at 0x25b1288>
+('historical_figure', {'id': 8997, 'race': VORACIOUS_CAVE_CRAWLER, 'birth_seconds72': -1, 'appeared': 2, 'death_seconds72': -1, 'death_year': 32, 'associated_type': STANDARD, 'birth_year': -7, 'caste': FEMALE})
+00007500 : <Element historical_figure at 0x25b15f8>id <Element id at 0x25b15d0>
+race <Element race at 0x25b1198>
+caste <Element caste at 0x25b1918>
+appeared <Element appeared at 0x25ba080>
+birth_year <Element birth_year at 0x25ba878>
+death_year <Element death_year at 0x25ba260>
+associated_type <Element associated_type at 0x25ba300>
+birth_seconds72 <Element birth_seconds72 at 0x25bab70>
+death_seconds72 <Element death_seconds72 at 0x25ba2b0>
+('historical_figure', {'id': 8998, 'race': SASQUATCH, 'birth_seconds72': -1, 'appeared': 2, 'death_seconds72': -1, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -421, 'caste': FEMALE})
+00007544 : <Element historical_figure at 0x25dd030>id <Element id at 0x25c7788>
+race <Element race at 0x25d80d0>
+caste <Element caste at 0x25d80a8>
+appeared <Element appeared at 0x25d8030>
+birth_year <Element birth_year at 0x25bf440>
+death_year <Element death_year at 0x25bf4e0>
+associated_type <Element associated_type at 0x25c2da0>
+birth_seconds72 <Element birth_seconds72 at 0x25c2da0>
+death_seconds72 <Element death_seconds72 at 0x25c2e40>
+('historical_figure', {'id': 8999, 'race': YETI, 'birth_seconds72': -1, 'appeared': 2, 'death_seconds72': -1, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -317, 'caste': MALE})
+00007585 : <Element historical_figure at 0x25ddb98>id <Element id at 0x25ddbc0>
+race <Element race at 0x25ddc10>
+caste <Element caste at 0x25ddc38>
+appeared <Element appeared at 0x25ddc60>
+birth_year <Element birth_year at 0x25ddc88>
+death_year <Element death_year at 0x25ddcd8>
+associated_type <Element associated_type at 0x25ddd28>
+skill <Element skill at 0x25ad418>
+total_ip <Element total_ip at 0x25adc88>
+birth_seconds72 <Element birth_seconds72 at 0x25ddcb0>
+death_seconds72 <Element death_seconds72 at 0x25ddd00>
+('historical_figure', {'id': 9000, 'race': TROGLODYTE, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 2, 'hf_skill': {'total_ip': 264, 'skill': WRESTLING}, 'death_year': 36, 'associated_type': STANDARD, 'birth_year': -13, 'caste': FEMALE})
+00007602 : <Element historical_figure at 0x25adb48>id <Element id at 0x25ad9e0>
+race <Element race at 0x25ad3c8>
+caste <Element caste at 0x25ad2d8>
+appeared <Element appeared at 0x25ad468>
+birth_year <Element birth_year at 0x25ad3a0>
+death_year <Element death_year at 0x25ad328>
+associated_type <Element associated_type at 0x25ad558>
+birth_seconds72 <Element birth_seconds72 at 0x25ad508>
+death_seconds72 <Element death_seconds72 at 0x25ad4e0>
+('historical_figure', {'id': 9001, 'race': TIGER, 'birth_seconds72': -1, 'appeared': 2, 'death_seconds72': -1, 'death_year': 19, 'associated_type': STANDARD, 'birth_year': -1, 'caste': FEMALE})
+00007689 : <Element historical_figure at 0x25e41e8>id <Element id at 0x25bd080>
+race <Element race at 0x25bd030>
+caste <Element caste at 0x25bdaf8>
+appeared <Element appeared at 0x25bda58>
+birth_year <Element birth_year at 0x25bdd00>
+death_year <Element death_year at 0x25bdc10>
+associated_type <Element associated_type at 0x25bddf0>
+skill <Element skill at 0x25bdb20>
+total_ip <Element total_ip at 0x25bdb70>
+birth_seconds72 <Element birth_seconds72 at 0x25bdee0>
+death_seconds72 <Element death_seconds72 at 0x25bdbe8>
+('historical_figure', {'id': 9002, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': 89275, 'appeared': 2, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': LASHER, 'birth_year': 2, 'caste': FEMALE})
+00007765 : <Element historical_figure at 0x25d4d50>id <Element id at 0x25bc2d8>
+race <Element race at 0x25bc1e8>
+caste <Element caste at 0x25bcdf0>
+appeared <Element appeared at 0x25c4080>
+birth_year <Element birth_year at 0x25c4328>
+death_year <Element death_year at 0x25c4300>
+associated_type <Element associated_type at 0x25c43a0>
+skill <Element skill at 0x25c41c0>
+total_ip <Element total_ip at 0x25c42b0>
+birth_seconds72 <Element birth_seconds72 at 0x25c42d8>
+death_seconds72 <Element death_seconds72 at 0x25c4490>
+('historical_figure', {'id': 9003, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': 117633, 'appeared': 2, 'hf_skill': {'total_ip': 500, 'skill': FISH}, 'death_year': -1, 'associated_type': BOWMAN, 'birth_year': 2, 'caste': MALE})
+00007850 : <Element historical_figure at 0x25c7ee0>id <Element id at 0x25ae1c0>
+race <Element race at 0x25ae080>
+caste <Element caste at 0x25ae8a0>
+appeared <Element appeared at 0x25aea58>
+birth_year <Element birth_year at 0x25aed28>
+death_year <Element death_year at 0x25aeda0>
+associated_type <Element associated_type at 0x25aeb98>
+skill <Element skill at 0x25c4918>
+total_ip <Element total_ip at 0x25c48f0>
+birth_seconds72 <Element birth_seconds72 at 0x25aedf0>
+death_seconds72 <Element death_seconds72 at 0x25aef30>
+('historical_figure', {'id': 9004, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 344650, 'appeared': 2, 'hf_skill': {'total_ip': 1800, 'skill': HAMMER}, 'death_year': -1, 'associated_type': HAMMERMAN, 'birth_year': 2, 'caste': MALE})
+00007921 : <Element historical_figure at 0x25c4f08>id <Element id at 0x25c44e0>
+race <Element race at 0x25c49e0>
+caste <Element caste at 0x25c76e8>
+appeared <Element appeared at 0x25c76c0>
+birth_year <Element birth_year at 0x25c7698>
+death_year <Element death_year at 0x25c75f8>
+associated_type <Element associated_type at 0x25c75a8>
+skill <Element skill at 0x25c7dc8>
+total_ip <Element total_ip at 0x25c7d78>
+birth_seconds72 <Element birth_seconds72 at 0x25c7670>
+death_seconds72 <Element death_seconds72 at 0x25c7620>
+('historical_figure', {'id': 9005, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 196329, 'appeared': 2, 'hf_skill': {'total_ip': 500, 'skill': PROCESSFISH}, 'death_year': -1, 'associated_type': PIKEMAN, 'birth_year': 2, 'caste': MALE})
+00008012 : <Element historical_figure at 0x25c7af8>id <Element id at 0x25c7ad0>
+race <Element race at 0x25c7b98>
+caste <Element caste at 0x25c7b20>
+appeared <Element appeared at 0x25c7b48>
+birth_year <Element birth_year at 0x25ad8a0>
+death_year <Element death_year at 0x25adfa8>
+associated_type <Element associated_type at 0x25adc60>
+skill <Element skill at 0x25aa0f8>
+total_ip <Element total_ip at 0x25aa440>
+birth_seconds72 <Element birth_seconds72 at 0x25adee0>
+death_seconds72 <Element death_seconds72 at 0x25ade68>
+('historical_figure', {'id': 9006, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 73187, 'appeared': 2, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': LASHER, 'birth_year': 2, 'caste': MALE})
+00008126 : <Element historical_figure at 0x25e4378>id <Element id at 0x25e43c8>
+race <Element race at 0x25e43a0>
+caste <Element caste at 0x25e4440>
+appeared <Element appeared at 0x25e4468>
+birth_year <Element birth_year at 0x25e4418>
+death_year <Element death_year at 0x25e44e0>
+associated_type <Element associated_type at 0x25e4490>
+skill <Element skill at 0x25d4d78>
+total_ip <Element total_ip at 0x25d4968>
+birth_seconds72 <Element birth_seconds72 at 0x25e44b8>
+death_seconds72 <Element death_seconds72 at 0x25e4508>
+('historical_figure', {'id': 9007, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 176000, 'appeared': 2, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': FISHERY_WORKER, 'birth_year': 2, 'caste': FEMALE})
+00008218 : <Element historical_figure at 0x25dc058>id <Element id at 0x25dcd00>
+race <Element race at 0x25dc170>
+caste <Element caste at 0x25dc0f8>
+appeared <Element appeared at 0x25dc1c0>
+birth_year <Element birth_year at 0x25dc120>
+death_year <Element death_year at 0x25dc260>
+associated_type <Element associated_type at 0x25dc210>
+skill <Element skill at 0x25e6918>
+total_ip <Element total_ip at 0x25e6940>
+birth_seconds72 <Element birth_seconds72 at 0x25dc238>
+death_seconds72 <Element death_seconds72 at 0x25dc198>
+('historical_figure', {'id': 9008, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 208236, 'appeared': 2, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': 25, 'associated_type': STANDARD, 'birth_year': 2, 'caste': FEMALE})
+00008235 : <Element historical_figure at 0x25b35a8>id <Element id at 0x25b3378>
+race <Element race at 0x25b3698>
+caste <Element caste at 0x25b3508>
+appeared <Element appeared at 0x25b35f8>
+birth_year <Element birth_year at 0x25b3580>
+death_year <Element death_year at 0x25b34b8>
+associated_type <Element associated_type at 0x25b36e8>
+birth_seconds72 <Element birth_seconds72 at 0x25b37d8>
+death_seconds72 <Element death_seconds72 at 0x25b3828>
+('historical_figure', {'id': 9009, 'race': BEAR_POLAR, 'birth_seconds72': -1, 'appeared': 2, 'death_seconds72': -1, 'death_year': 18, 'associated_type': STANDARD, 'birth_year': -7, 'caste': FEMALE})
+00008320 : <Element historical_figure at 0x25b38f0>id <Element id at 0x25b3288>
+race <Element race at 0x25b3af8>
+caste <Element caste at 0x25b3c88>
+appeared <Element appeared at 0x25b3a80>
+birth_year <Element birth_year at 0x25b3c38>
+death_year <Element death_year at 0x25b3b48>
+associated_type <Element associated_type at 0x25ba878>
+skill <Element skill at 0x25bac38>
+total_ip <Element total_ip at 0x25ba760>
+birth_seconds72 <Element birth_seconds72 at 0x25b3760>
+death_seconds72 <Element death_seconds72 at 0x25ba080>
+('historical_figure', {'id': 9010, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': 279238, 'appeared': 2, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': CROSSBOWMAN, 'birth_year': 2, 'caste': FEMALE})
+00008389 : <Element historical_figure at 0x25e0ee0>id <Element id at 0x25be828>
+race <Element race at 0x25be9b8>
+caste <Element caste at 0x25be918>
+appeared <Element appeared at 0x25be8a0>
+birth_year <Element birth_year at 0x25bea08>
+death_year <Element death_year at 0x25bec10>
+associated_type <Element associated_type at 0x25be0f8>
+skill <Element skill at 0x25beaa8>
+total_ip <Element total_ip at 0x25bea80>
+birth_seconds72 <Element birth_seconds72 at 0x25bebc0>
+death_seconds72 <Element death_seconds72 at 0x25afe18>
+('historical_figure', {'id': 9011, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': 170708, 'appeared': 2, 'hf_skill': {'total_ip': 66, 'skill': WRESTLING}, 'death_year': 15, 'associated_type': STANDARD, 'birth_year': 2, 'caste': MALE})
+00008423 : <Element historical_figure at 0x25ddda0>id <Element id at 0x25ddd50>
+race <Element race at 0x25dde18>
+caste <Element caste at 0x25dddc8>
+appeared <Element appeared at 0x25ddeb8>
+birth_year <Element birth_year at 0x25dde40>
+death_year <Element death_year at 0x25ddb70>
+associated_type <Element associated_type at 0x25dd080>
+birth_seconds72 <Element birth_seconds72 at 0x25ddb98>
+death_seconds72 <Element death_seconds72 at 0x25dd058>
+('historical_figure', {'id': 9012, 'race': DWARF, 'birth_seconds72': 106585, 'appeared': 2, 'death_seconds72': -1, 'death_year': 7, 'associated_type': CHILD, 'birth_year': 2, 'caste': MALE})
+00008524 : <Element historical_figure at 0x25dd6c0>id <Element id at 0x25dd6e8>
+race <Element race at 0x25dd738>
+caste <Element caste at 0x25dd760>
+appeared <Element appeared at 0x25dd710>
+birth_year <Element birth_year at 0x25dd7b0>
+death_year <Element death_year at 0x25dd788>
+associated_type <Element associated_type at 0x25dd850>
+skill <Element skill at 0x25cee18>
+total_ip <Element total_ip at 0x25cef80>
+birth_seconds72 <Element birth_seconds72 at 0x25dd7d8>
+death_seconds72 <Element death_seconds72 at 0x25dd828>
+('historical_figure', {'id': 9013, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': 286979, 'appeared': 2, 'hf_skill': {'total_ip': 500, 'skill': SPINNING}, 'death_year': 37, 'associated_type': STANDARD, 'birth_year': 2, 'caste': FEMALE})
+00008600 : <Element historical_figure at 0x25b0120>id <Element id at 0x25b0260>
+race <Element race at 0x25b0210>
+caste <Element caste at 0x25b0350>
+appeared <Element appeared at 0x25b01c0>
+birth_year <Element birth_year at 0x25b00d0>
+death_year <Element death_year at 0x25b0198>
+associated_type <Element associated_type at 0x25b04e0>
+skill <Element skill at 0x25b8da0>
+total_ip <Element total_ip at 0x25b8b20>
+birth_seconds72 <Element birth_seconds72 at 0x25b02d8>
+death_seconds72 <Element death_seconds72 at 0x25b0300>
+('historical_figure', {'id': 9014, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': 303281, 'appeared': 2, 'hf_skill': {'total_ip': 2100, 'skill': CROSSBOW}, 'death_year': 28, 'associated_type': STANDARD, 'birth_year': 2, 'caste': MALE})
+00008626 : <Element historical_figure at 0x25d3198>id <Element id at 0x25d3f08>
+race <Element race at 0x25d3210>
+caste <Element caste at 0x25d3058>
+appeared <Element appeared at 0x25d3328>
+birth_year <Element birth_year at 0x25d3288>
+death_year <Element death_year at 0x25d3300>
+associated_type <Element associated_type at 0x25d33a0>
+birth_seconds72 <Element birth_seconds72 at 0x25d32b0>
+death_seconds72 <Element death_seconds72 at 0x25d3378>
+('historical_figure', {'id': 9015, 'race': KOBOLD, 'birth_seconds72': 220247, 'appeared': 2, 'death_seconds72': -1, 'death_year': 2, 'associated_type': BABY, 'birth_year': 2, 'caste': MALE})
+00008775 : <Element historical_figure at 0x25d2710>id <Element id at 0x25cefa8>
+race <Element race at 0x25cefd0>
+caste <Element caste at 0x25ceeb8>
+appeared <Element appeared at 0x25ce9b8>
+birth_year <Element birth_year at 0x25cef80>
+death_year <Element death_year at 0x25cef30>
+associated_type <Element associated_type at 0x25cee90>
+skill <Element skill at 0x25b2ad0>
+total_ip <Element total_ip at 0x25b2a08>
+birth_seconds72 <Element birth_seconds72 at 0x25cea80>
+death_seconds72 <Element death_seconds72 at 0x25ceaa8>
+('historical_figure', {'id': 9016, 'race': NIGHT_CREATURE_1, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 2, 'hf_skill': {'total_ip': 12500, 'skill': ANIMALCARE}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -167, 'caste': FEMALE})
+00008826 : <Element historical_figure at 0x25b22b0>id <Element id at 0x25aeee0>
+race <Element race at 0x25aed00>
+caste <Element caste at 0x25aefa8>
+appeared <Element appeared at 0x25aebc0>
+birth_year <Element birth_year at 0x25c12b0>
+death_year <Element death_year at 0x25c1238>
+associated_type <Element associated_type at 0x25c1710>
+skill <Element skill at 0x25b41c0>
+total_ip <Element total_ip at 0x25b4800>
+birth_seconds72 <Element birth_seconds72 at 0x25c17d8>
+death_seconds72 <Element death_seconds72 at 0x25c1c38>
+('historical_figure', {'id': 9017, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 2, 'hf_skill': {'total_ip': 12500, 'skill': PROCESSFISH}, 'death_year': 5, 'associated_type': STANDARD, 'birth_year': -18, 'caste': FEMALE})
+00008917 : <Element historical_figure at 0x25b4210>id <Element id at 0x25bcdf0>
+race <Element race at 0x25bdee0>
+caste <Element caste at 0x25bdb70>
+appeared <Element appeared at 0x25bdcd8>
+birth_year <Element birth_year at 0x25bef80>
+death_year <Element death_year at 0x25beaf8>
+associated_type <Element associated_type at 0x25be120>
+skill <Element skill at 0x25bebc0>
+total_ip <Element total_ip at 0x25be7d8>
+birth_seconds72 <Element birth_seconds72 at 0x25beaa8>
+death_seconds72 <Element death_seconds72 at 0x25b4850>
+('historical_figure', {'id': 9018, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': 341768, 'appeared': 3, 'hf_skill': {'total_ip': 2300, 'skill': CROSSBOW}, 'death_year': 47, 'associated_type': STANDARD, 'birth_year': 3, 'caste': FEMALE})
+00009023 : <Element historical_figure at 0x25be3f0>id <Element id at 0x25b17d8>
+race <Element race at 0x25b15d0>
+caste <Element caste at 0x25b1cd8>
+appeared <Element appeared at 0x25b1710>
+birth_year <Element birth_year at 0x25b15f8>
+death_year <Element death_year at 0x25b1198>
+associated_type <Element associated_type at 0x25be648>
+skill <Element skill at 0x25b4da0>
+total_ip <Element total_ip at 0x25afe18>
+birth_seconds72 <Element birth_seconds72 at 0x25b3e68>
+death_seconds72 <Element death_seconds72 at 0x25b32d8>
+('historical_figure', {'id': 9019, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': 386761, 'appeared': 3, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': 29, 'associated_type': STANDARD, 'birth_year': 3, 'caste': MALE})
+00009115 : <Element historical_figure at 0x25d1e90>id <Element id at 0x25d1e40>
+race <Element race at 0x25d1f30>
+caste <Element caste at 0x25d15f8>
+appeared <Element appeared at 0x25d1f58>
+birth_year <Element birth_year at 0x25d1878>
+death_year <Element death_year at 0x25d1328>
+associated_type <Element associated_type at 0x25d1350>
+skill <Element skill at 0x25d1030>
+total_ip <Element total_ip at 0x25d1468>
+birth_seconds72 <Element birth_seconds72 at 0x25d1f08>
+death_seconds72 <Element death_seconds72 at 0x25d13c8>
+('historical_figure', {'id': 9020, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': 400560, 'appeared': 3, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': 42, 'associated_type': STANDARD, 'birth_year': 3, 'caste': FEMALE})
+00009138 : <Element historical_figure at 0x25ea558>id <Element id at 0x25ea5f8>
+race <Element race at 0x25ea5d0>
+caste <Element caste at 0x25ea8a0>
+appeared <Element appeared at 0x25ea8c8>
+birth_year <Element birth_year at 0x25ea7b0>
+death_year <Element death_year at 0x25ea968>
+associated_type <Element associated_type at 0x25eaaa8>
+birth_seconds72 <Element birth_seconds72 at 0x25ea940>
+death_seconds72 <Element death_seconds72 at 0x25ea8f0>
+('historical_figure', {'id': 9021, 'race': GIANT_HYENA, 'birth_seconds72': -1, 'appeared': 3, 'death_seconds72': -1, 'death_year': 12, 'associated_type': STANDARD, 'birth_year': 0, 'caste': FEMALE})
+00009186 : <Element historical_figure at 0x25eacd8>id <Element id at 0x25eac88>
+race <Element race at 0x25ead50>
+caste <Element caste at 0x25ead00>
+appeared <Element appeared at 0x25eada0>
+birth_year <Element birth_year at 0x25eadc8>
+death_year <Element death_year at 0x25eae18>
+associated_type <Element associated_type at 0x25eadf0>
+skill <Element skill at 0x25cc4b8>
+total_ip <Element total_ip at 0x25cc300>
+birth_seconds72 <Element birth_seconds72 at 0x25ead78>
+death_seconds72 <Element death_seconds72 at 0x25eae40>
+('historical_figure', {'id': 9022, 'race': KOBOLD, 'death_seconds72': -1, 'birth_seconds72': 371826, 'appeared': 3, 'hf_skill': {'total_ip': 99, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': CRAFTSMAN, 'birth_year': 3, 'caste': MALE})
+00009212 : <Element historical_figure at 0x25cce90>id <Element id at 0x25ccf30>
+race <Element race at 0x25ccee0>
+caste <Element caste at 0x25ccf80>
+appeared <Element appeared at 0x25cc8c8>
+birth_year <Element birth_year at 0x25ccfd0>
+death_year <Element death_year at 0x25cc9e0>
+associated_type <Element associated_type at 0x25c4490>
+birth_seconds72 <Element birth_seconds72 at 0x25cca80>
+death_seconds72 <Element death_seconds72 at 0x25ccfa8>
+('historical_figure', {'id': 9023, 'race': GOBLIN, 'birth_seconds72': 377196, 'appeared': 3, 'death_seconds72': -1, 'death_year': 6, 'associated_type': CHILD, 'birth_year': 3, 'caste': MALE})
+00009268 : <Element historical_figure at 0x25c4a08>id <Element id at 0x25c4d50>
+race <Element race at 0x25c4a80>
+caste <Element caste at 0x25b21c0>
+appeared <Element appeared at 0x25b2698>
+birth_year <Element birth_year at 0x25b22b0>
+death_year <Element death_year at 0x25b2850>
+associated_type <Element associated_type at 0x25b2ad0>
+skill <Element skill at 0x25b2300>
+total_ip <Element total_ip at 0x25b2148>
+birth_seconds72 <Element birth_seconds72 at 0x25b2a30>
+death_seconds72 <Element death_seconds72 at 0x25b2bc0>
+('historical_figure', {'id': 9024, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': 316075, 'appeared': 3, 'hf_skill': {'total_ip': 500, 'skill': DISSECT_FISH}, 'death_year': -1, 'associated_type': CROSSBOWMAN, 'birth_year': 3, 'caste': MALE})
+00009319 : <Element historical_figure at 0x25ceaa8>id <Element id at 0x25cea80>
+race <Element race at 0x25cef80>
+caste <Element caste at 0x25cee68>
+appeared <Element appeared at 0x25ce9e0>
+birth_year <Element birth_year at 0x25cea30>
+death_year <Element death_year at 0x25cea58>
+associated_type <Element associated_type at 0x25ceda0>
+skill <Element skill at 0x25ddc38>
+total_ip <Element total_ip at 0x25ddbe8>
+birth_seconds72 <Element birth_seconds72 at 0x25ceaf8>
+death_seconds72 <Element death_seconds72 at 0x25cead0>
+('historical_figure', {'id': 9025, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 366208, 'appeared': 3, 'hf_skill': {'total_ip': 1500, 'skill': WAX_WORKING}, 'death_year': -1, 'associated_type': WAX_WORKER, 'birth_year': 3, 'caste': FEMALE})
+00009419 : <Element historical_figure at 0x25ddb98>id <Element id at 0x25ddb70>
+race <Element race at 0x25dd080>
+caste <Element caste at 0x25dd0d0>
+appeared <Element appeared at 0x25dd0f8>
+birth_year <Element birth_year at 0x25dd0a8>
+death_year <Element death_year at 0x25dd170>
+associated_type <Element associated_type at 0x25dd1c0>
+skill <Element skill at 0x25ad508>
+total_ip <Element total_ip at 0x25aba58>
+birth_seconds72 <Element birth_seconds72 at 0x25dd148>
+death_seconds72 <Element death_seconds72 at 0x25dd120>
+('historical_figure', {'id': 9026, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 374820, 'appeared': 3, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': MILLER, 'birth_year': 3, 'caste': FEMALE})
+00009494 : <Element historical_figure at 0x25b83c8>id <Element id at 0x25b4940>
+race <Element race at 0x25b48f0>
+caste <Element caste at 0x25b45d0>
+appeared <Element appeared at 0x25b4e90>
+birth_year <Element birth_year at 0x25b4120>
+death_year <Element death_year at 0x25b4170>
+associated_type <Element associated_type at 0x25b4300>
+skill <Element skill at 0x25b4418>
+total_ip <Element total_ip at 0x25b44e0>
+birth_seconds72 <Element birth_seconds72 at 0x25b4288>
+death_seconds72 <Element death_seconds72 at 0x25b43a0>
+('historical_figure', {'id': 9027, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 365910, 'appeared': 3, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': MACEMAN, 'birth_year': 3, 'caste': FEMALE})
+00009572 : <Element historical_figure at 0x25d3e90>id <Element id at 0x25d3f30>
+race <Element race at 0x25d3f08>
+caste <Element caste at 0x25d32d8>
+appeared <Element appeared at 0x25d3210>
+birth_year <Element birth_year at 0x25d3058>
+death_year <Element death_year at 0x25d3288>
+associated_type <Element associated_type at 0x25d3300>
+skill <Element skill at 0x25d22d8>
+total_ip <Element total_ip at 0x25d2490>
+birth_seconds72 <Element birth_seconds72 at 0x25d3328>
+death_seconds72 <Element death_seconds72 at 0x25d32b0>
+('historical_figure', {'id': 9028, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 308008, 'appeared': 3, 'hf_skill': {'total_ip': 1900, 'skill': CROSSBOW}, 'death_year': 37, 'associated_type': STANDARD, 'birth_year': 3, 'caste': FEMALE})
+00009610 : <Element historical_figure at 0x25c7698>id <Element id at 0x25c7670>
+race <Element race at 0x25c7620>
+caste <Element caste at 0x25c75a8>
+appeared <Element appeared at 0x25c7440>
+birth_year <Element birth_year at 0x25c7558>
+death_year <Element death_year at 0x25c74b8>
+associated_type <Element associated_type at 0x25c73f0>
+birth_seconds72 <Element birth_seconds72 at 0x25c7648>
+death_seconds72 <Element death_seconds72 at 0x25c7378>
+('historical_figure', {'id': 9029, 'race': HUMAN, 'birth_seconds72': 364884, 'appeared': 3, 'death_seconds72': -1, 'death_year': 14, 'associated_type': CHILD, 'birth_year': 3, 'caste': MALE})
+00009684 : <Element historical_figure at 0x25c71e8>id <Element id at 0x25c7788>
+race <Element race at 0x25c7b98>
+caste <Element caste at 0x25c7b20>
+appeared <Element appeared at 0x25c7b48>
+birth_year <Element birth_year at 0x25c7af8>
+death_year <Element death_year at 0x25e9058>
+associated_type <Element associated_type at 0x25e9170>
+skill <Element skill at 0x25e9d28>
+total_ip <Element total_ip at 0x25e9d50>
+birth_seconds72 <Element birth_seconds72 at 0x25e9030>
+death_seconds72 <Element death_seconds72 at 0x25e9080>
+('historical_figure', {'id': 9030, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': 402771, 'appeared': 3, 'hf_skill': {'total_ip': 66, 'skill': WRESTLING}, 'death_year': 19, 'associated_type': STANDARD, 'birth_year': 3, 'caste': MALE})
+00009749 : <Element historical_figure at 0x25d4080>id <Element id at 0x25d4d28>
+race <Element race at 0x25d4da0>
+caste <Element caste at 0x25d48f0>
+appeared <Element appeared at 0x25d4d78>
+birth_year <Element birth_year at 0x25d4968>
+death_year <Element death_year at 0x25d4e68>
+associated_type <Element associated_type at 0x25d4e40>
+skill <Element skill at 0x25e4350>
+total_ip <Element total_ip at 0x25e43c8>
+birth_seconds72 <Element birth_seconds72 at 0x25d4dc8>
+death_seconds72 <Element death_seconds72 at 0x25d4e90>
+('historical_figure', {'id': 9031, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': 389411, 'appeared': 3, 'hf_skill': {'total_ip': 66, 'skill': WRESTLING}, 'death_year': 27, 'associated_type': STANDARD, 'birth_year': 3, 'caste': FEMALE})
+00009823 : <Element historical_figure at 0x25e4788>id <Element id at 0x25d23f0>
+race <Element race at 0x25d2490>
+caste <Element caste at 0x25d2378>
+appeared <Element appeared at 0x25d24e0>
+birth_year <Element birth_year at 0x25d23c8>
+death_year <Element death_year at 0x25e4b20>
+associated_type <Element associated_type at 0x25e4be8>
+birth_seconds72 <Element birth_seconds72 at 0x25e4b70>
+death_seconds72 <Element death_seconds72 at 0x25e4b48>
+('historical_figure', {'id': 9032, 'race': CROCODILE_SALTWATER, 'birth_seconds72': -1, 'appeared': 4, 'death_seconds72': -1, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -26, 'caste': FEMALE})
+00009837 : <Element historical_figure at 0x25ed7b0>id <Element id at 0x25ed7d8>
+race <Element race at 0x25ed828>
+caste <Element caste at 0x25ed850>
+appeared <Element appeared at 0x25ed878>
+birth_year <Element birth_year at 0x25ed8a0>
+death_year <Element death_year at 0x25ed8f0>
+associated_type <Element associated_type at 0x25ed940>
+birth_seconds72 <Element birth_seconds72 at 0x25ed8c8>
+death_seconds72 <Element death_seconds72 at 0x25ed918>
+('historical_figure', {'id': 9033, 'race': JABBERER, 'birth_seconds72': -1, 'appeared': 4, 'death_seconds72': -1, 'death_year': 14, 'associated_type': STANDARD, 'birth_year': 0, 'caste': MALE})
+00009903 : <Element historical_figure at 0x25ed9e0>id <Element id at 0x25b4990>
+race <Element race at 0x25b4418>
+caste <Element caste at 0x25b4440>
+appeared <Element appeared at 0x25b4f30>
+birth_year <Element birth_year at 0x25b40f8>
+death_year <Element death_year at 0x25b4f08>
+associated_type <Element associated_type at 0x25b4670>
+skill <Element skill at 0x25b4080>
+total_ip <Element total_ip at 0x25b4d00>
+birth_seconds72 <Element birth_seconds72 at 0x25b4490>
+death_seconds72 <Element death_seconds72 at 0x25b4e40>
+('historical_figure', {'id': 9034, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': 320906, 'appeared': 4, 'hf_skill': {'total_ip': 500, 'skill': TANNER}, 'death_year': 27, 'associated_type': STANDARD, 'birth_year': 4, 'caste': FEMALE})
+00009995 : <Element historical_figure at 0x25dcee0>id <Element id at 0x25d25f8>
+race <Element race at 0x25d2698>
+caste <Element caste at 0x25d2350>
+appeared <Element appeared at 0x25d26e8>
+birth_year <Element birth_year at 0x25d25a8>
+death_year <Element death_year at 0x25d2da0>
+associated_type <Element associated_type at 0x25d2e40>
+skill <Element skill at 0x25ef288>
+total_ip <Element total_ip at 0x25ef2b0>
+birth_seconds72 <Element birth_seconds72 at 0x25d2ee0>
+death_seconds72 <Element death_seconds72 at 0x25d2f30>
+('historical_figure', {'id': 9035, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': 324242, 'appeared': 4, 'hf_skill': {'total_ip': 132, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': WOODCRAFTER, 'birth_year': 4, 'caste': FEMALE})
+00010024 : <Element historical_figure at 0x25ef5f8>id <Element id at 0x25bf4e0>
+race <Element race at 0x25b4d00>
+caste <Element caste at 0x25b4850>
+appeared <Element appeared at 0x25b4490>
+birth_year <Element birth_year at 0x25b4080>
+death_year <Element death_year at 0x25b4c10>
+associated_type <Element associated_type at 0x25b4da0>
+birth_seconds72 <Element birth_seconds72 at 0x25b4620>
+death_seconds72 <Element death_seconds72 at 0x25afe18>
+('historical_figure', {'id': 9036, 'race': ELF, 'birth_seconds72': 347415, 'appeared': 4, 'death_seconds72': -1, 'death_year': 6, 'associated_type': CHILD, 'birth_year': 4, 'caste': FEMALE})
+00010114 : <Element historical_figure at 0x25efeb8>id <Element id at 0x25b8760>
+race <Element race at 0x25b87b0>
+caste <Element caste at 0x25b85d0>
+appeared <Element appeared at 0x25b8710>
+birth_year <Element birth_year at 0x25b8670>
+death_year <Element death_year at 0x25ba080>
+associated_type <Element associated_type at 0x25b4620>
+skill <Element skill at 0x25ef1e8>
+total_ip <Element total_ip at 0x25ef288>
+birth_seconds72 <Element birth_seconds72 at 0x25b8d28>
+death_seconds72 <Element death_seconds72 at 0x25c0f80>
+('historical_figure', {'id': 9037, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 393098, 'appeared': 4, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': FISHERY_WORKER, 'birth_year': 4, 'caste': MALE})
+00010218 : <Element historical_figure at 0x25d2ee0>id <Element id at 0x25d2e40>
+race <Element race at 0x25d2620>
+caste <Element caste at 0x25d2cb0>
+appeared <Element appeared at 0x25d2f80>
+birth_year <Element birth_year at 0x25d2df0>
+death_year <Element death_year at 0x25d25d0>
+associated_type <Element associated_type at 0x25d2fa8>
+skill <Element skill at 0x25eda30>
+total_ip <Element total_ip at 0x25eda58>
+birth_seconds72 <Element birth_seconds72 at 0x25d2710>
+death_seconds72 <Element death_seconds72 at 0x25d2468>
+('historical_figure', {'id': 9038, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 367287, 'appeared': 4, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': RANGER, 'birth_year': 4, 'caste': FEMALE})
+00010300 : <Element historical_figure at 0x25bae90>id <Element id at 0x25bada0>
+race <Element race at 0x25ba378>
+caste <Element caste at 0x25bafa8>
+appeared <Element appeared at 0x25baf80>
+birth_year <Element birth_year at 0x25bac38>
+death_year <Element death_year at 0x25baeb8>
+associated_type <Element associated_type at 0x25b6620>
+skill <Element skill at 0x25dc3a0>
+total_ip <Element total_ip at 0x25dc350>
+birth_seconds72 <Element birth_seconds72 at 0x25ba760>
+death_seconds72 <Element death_seconds72 at 0x25b63a0>
+('historical_figure', {'id': 9039, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 377250, 'appeared': 4, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': SPEARMAN, 'birth_year': 4, 'caste': FEMALE})
+00010398 : <Element historical_figure at 0x25dcbe8>id <Element id at 0x25dc2b0>
+race <Element race at 0x25dc058>
+caste <Element caste at 0x25dcd50>
+appeared <Element appeared at 0x25dc1e8>
+birth_year <Element birth_year at 0x25dcd78>
+death_year <Element death_year at 0x25e6080>
+associated_type <Element associated_type at 0x25e6058>
+skill <Element skill at 0x25e93a0>
+total_ip <Element total_ip at 0x25e9530>
+birth_seconds72 <Element birth_seconds72 at 0x25e6030>
+death_seconds72 <Element death_seconds72 at 0x25e6288>
+('historical_figure', {'id': 9040, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 379338, 'appeared': 4, 'hf_skill': {'total_ip': 500, 'skill': SHEARING}, 'death_year': -1, 'associated_type': SPEARMAN, 'birth_year': 4, 'caste': MALE})
+00010432 : <Element historical_figure at 0x25e9af8>id <Element id at 0x25e9a80>
+race <Element race at 0x25e9b70>
+caste <Element caste at 0x25e9b98>
+appeared <Element appeared at 0x25e9b20>
+birth_year <Element birth_year at 0x25e9be8>
+death_year <Element death_year at 0x25e9c38>
+associated_type <Element associated_type at 0x25e9c88>
+birth_seconds72 <Element birth_seconds72 at 0x25e9c10>
+death_seconds72 <Element death_seconds72 at 0x25e9bc0>
+('historical_figure', {'id': 9041, 'race': HUMAN, 'birth_seconds72': 349210, 'appeared': 4, 'death_seconds72': -1, 'death_year': 14, 'associated_type': CHILD, 'birth_year': 4, 'caste': MALE})
+00010449 : <Element historical_figure at 0x25c76e8>id <Element id at 0x25c7738>
+race <Element race at 0x25c7670>
+caste <Element caste at 0x25c75f8>
+appeared <Element appeared at 0x25c7620>
+birth_year <Element birth_year at 0x25c75a8>
+death_year <Element death_year at 0x25c7558>
+associated_type <Element associated_type at 0x25c74b8>
+birth_seconds72 <Element birth_seconds72 at 0x25c7440>
+death_seconds72 <Element death_seconds72 at 0x25c7648>
+('historical_figure', {'id': 9042, 'race': GIANT_DINGO, 'birth_seconds72': -1, 'appeared': 5, 'death_seconds72': -1, 'death_year': 18, 'associated_type': STANDARD, 'birth_year': 0, 'caste': FEMALE})
+00010549 : <Element historical_figure at 0x25c7c60>id <Element id at 0x25c71c0>
+race <Element race at 0x25c7cd8>
+caste <Element caste at 0x25c7be8>
+appeared <Element appeared at 0x25c74e0>
+birth_year <Element birth_year at 0x25c7d28>
+death_year <Element death_year at 0x25c7c88>
+associated_type <Element associated_type at 0x25c7cb0>
+skill <Element skill at 0x25c11c0>
+total_ip <Element total_ip at 0x25d4d50>
+birth_seconds72 <Element birth_seconds72 at 0x25c7d00>
+death_seconds72 <Element death_seconds72 at 0x25c7c38>
+('historical_figure', {'id': 9043, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': 316023, 'appeared': 5, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': 35, 'associated_type': STANDARD, 'birth_year': 5, 'caste': MALE})
+00010611 : <Element historical_figure at 0x25e4b48>id <Element id at 0x25dd6e8>
+race <Element race at 0x25dd738>
+caste <Element caste at 0x25dd760>
+appeared <Element appeared at 0x25dd698>
+birth_year <Element birth_year at 0x25dd7d8>
+death_year <Element death_year at 0x25dd710>
+associated_type <Element associated_type at 0x25dd828>
+skill <Element skill at 0x25e4210>
+total_ip <Element total_ip at 0x25e4260>
+birth_seconds72 <Element birth_seconds72 at 0x25ddaf8>
+death_seconds72 <Element death_seconds72 at 0x25dd8c8>
+('historical_figure', {'id': 9044, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': 4105, 'appeared': 5, 'hf_skill': {'total_ip': 500, 'skill': ANIMALTRAIN}, 'death_year': -1, 'associated_type': MASTER_CROSSBOWMAN, 'birth_year': 5, 'caste': FEMALE})
+00010677 : <Element historical_figure at 0x25e4530>id <Element id at 0x25e45f8>
+race <Element race at 0x25e46c0>
+caste <Element caste at 0x25e45d0>
+appeared <Element appeared at 0x25e4670>
+birth_year <Element birth_year at 0x25e4738>
+death_year <Element death_year at 0x25e46e8>
+associated_type <Element associated_type at 0x25e4760>
+skill <Element skill at 0x25d1850>
+total_ip <Element total_ip at 0x25d18a0>
+birth_seconds72 <Element birth_seconds72 at 0x25e4648>
+death_seconds72 <Element death_seconds72 at 0x25e4710>
+('historical_figure', {'id': 9045, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': 322260, 'appeared': 5, 'hf_skill': {'total_ip': 500, 'skill': PROCESSFISH}, 'death_year': -1, 'associated_type': MASTER_SWORDSMAN, 'birth_year': 5, 'caste': FEMALE})
+00010703 : <Element historical_figure at 0x25e09e0>id <Element id at 0x25e0e68>
+race <Element race at 0x25e0238>
+caste <Element caste at 0x25e0e40>
+appeared <Element appeared at 0x25e0f08>
+birth_year <Element birth_year at 0x25e0eb8>
+death_year <Element death_year at 0x25e0f80>
+associated_type <Element associated_type at 0x25e0fa8>
+birth_seconds72 <Element birth_seconds72 at 0x25e0f58>
+death_seconds72 <Element death_seconds72 at 0x25e0f30>
+('historical_figure', {'id': 9046, 'race': KOBOLD, 'birth_seconds72': 86445, 'appeared': 6, 'death_seconds72': -1, 'death_year': 8, 'associated_type': CHILD, 'birth_year': 6, 'caste': MALE})
+00010831 : <Element historical_figure at 0x25e0850>id <Element id at 0x25e0918>
+race <Element race at 0x25e08c8>
+caste <Element caste at 0x25e0878>
+appeared <Element appeared at 0x25e0a80>
+birth_year <Element birth_year at 0x25ea148>
+death_year <Element death_year at 0x25ea238>
+associated_type <Element associated_type at 0x25ea210>
+skill <Element skill at 0x25cc530>
+total_ip <Element total_ip at 0x25cc8f0>
+birth_seconds72 <Element birth_seconds72 at 0x25ea0d0>
+death_seconds72 <Element death_seconds72 at 0x25ea1e8>
+('historical_figure', {'id': 9047, 'race': NIGHT_CREATURE_9, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 6, 'hf_skill': {'total_ip': 12500, 'skill': FORGE_FURNITURE}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -21, 'caste': FEMALE})
+00010918 : <Element historical_figure at 0x25f1350>id <Element id at 0x25d1440>
+race <Element race at 0x25d13c8>
+caste <Element caste at 0x25d14e0>
+appeared <Element appeared at 0x25d1238>
+birth_year <Element birth_year at 0x25d1378>
+death_year <Element death_year at 0x25d1508>
+associated_type <Element associated_type at 0x25d17b0>
+skill <Element skill at 0x25f1fa8>
+total_ip <Element total_ip at 0x25f1fd0>
+birth_seconds72 <Element birth_seconds72 at 0x25d1710>
+death_seconds72 <Element death_seconds72 at 0x25d18c8>
+('historical_figure', {'id': 9048, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 6, 'hf_skill': {'total_ip': 12500, 'skill': GLASSMAKER}, 'death_year': -1, 'associated_type': GLASSMAKER, 'birth_year': -16, 'caste': FEMALE})
+00011004 : <Element historical_figure at 0x25b2490>id <Element id at 0x25dd198>
+race <Element race at 0x25dd2b0>
+caste <Element caste at 0x25dd260>
+appeared <Element appeared at 0x25dd288>
+birth_year <Element birth_year at 0x25dd2d8>
+death_year <Element death_year at 0x25dd378>
+associated_type <Element associated_type at 0x25dd1e8>
+skill <Element skill at 0x25dd350>
+total_ip <Element total_ip at 0x25dd710>
+birth_seconds72 <Element birth_seconds72 at 0x25ddaf8>
+death_seconds72 <Element death_seconds72 at 0x25dd788>
+('historical_figure', {'id': 9049, 'race': NIGHT_CREATURE_8, 'death_seconds72': -1, 'birth_seconds72': 354520, 'appeared': 6, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': 6, 'caste': FEMALE})
+00011027 : <Element historical_figure at 0x25c54b8>id <Element id at 0x25c54e0>
+race <Element race at 0x25c5710>
+caste <Element caste at 0x25c57b0>
+appeared <Element appeared at 0x25c57d8>
+birth_year <Element birth_year at 0x25c5800>
+death_year <Element death_year at 0x25c5850>
+associated_type <Element associated_type at 0x25c58a0>
+birth_seconds72 <Element birth_seconds72 at 0x25c5828>
+death_seconds72 <Element death_seconds72 at 0x25c5878>
+('historical_figure', {'id': 9050, 'race': GIANT_DINGO, 'birth_seconds72': -1, 'appeared': 7, 'death_seconds72': -1, 'death_year': 14, 'associated_type': STANDARD, 'birth_year': 4, 'caste': FEMALE})
+00011053 : <Element historical_figure at 0x25c5aa8>id <Element id at 0x25c5ad0>
+race <Element race at 0x25c5b20>
+caste <Element caste at 0x25c5b48>
+appeared <Element appeared at 0x25c5b70>
+birth_year <Element birth_year at 0x25c5b98>
+death_year <Element death_year at 0x25c5be8>
+associated_type <Element associated_type at 0x25c5c38>
+birth_seconds72 <Element birth_seconds72 at 0x25c5bc0>
+death_seconds72 <Element death_seconds72 at 0x25c5c10>
+('historical_figure', {'id': 9051, 'race': KOBOLD, 'birth_seconds72': 328211, 'appeared': 7, 'death_seconds72': -1, 'death_year': 8, 'associated_type': CHILD, 'birth_year': 7, 'caste': MALE})
+00011146 : <Element historical_figure at 0x25ad620>id <Element id at 0x25c7cb0>
+race <Element race at 0x25c7120>
+caste <Element caste at 0x25c7f80>
+appeared <Element appeared at 0x25c7800>
+birth_year <Element birth_year at 0x25c7148>
+death_year <Element death_year at 0x25c7080>
+associated_type <Element associated_type at 0x25c7fa8>
+skill <Element skill at 0x25c7c10>
+total_ip <Element total_ip at 0x25c7b20>
+birth_seconds72 <Element birth_seconds72 at 0x25c7b98>
+death_seconds72 <Element death_seconds72 at 0x25c7af8>
+('historical_figure', {'id': 9052, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': 362190, 'appeared': 7, 'hf_skill': {'total_ip': 66, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': SWORDSMAN, 'birth_year': 7, 'caste': FEMALE})
+00011168 : <Element historical_figure at 0x25ab968>id <Element id at 0x25ac8f0>
+race <Element race at 0x25aa328>
+caste <Element caste at 0x25aaf30>
+appeared <Element appeared at 0x25aa3f0>
+birth_year <Element birth_year at 0x25aaa80>
+death_year <Element death_year at 0x25aa440>
+associated_type <Element associated_type at 0x25aa800>
+birth_seconds72 <Element birth_seconds72 at 0x25aa2d8>
+death_seconds72 <Element death_seconds72 at 0x25aaa30>
+('historical_figure', {'id': 9053, 'race': HUMAN, 'birth_seconds72': 237753, 'appeared': 7, 'death_seconds72': -1, 'death_year': 8, 'associated_type': CHILD, 'birth_year': 7, 'caste': FEMALE})
+00011258 : <Element historical_figure at 0x25aa260>id <Element id at 0x25dd120>
+race <Element race at 0x25dd0d0>
+caste <Element caste at 0x25dd0a8>
+appeared <Element appeared at 0x25dd080>
+birth_year <Element birth_year at 0x25ddb70>
+death_year <Element death_year at 0x25dd058>
+associated_type <Element associated_type at 0x25ddcd8>
+skill <Element skill at 0x25b2698>
+total_ip <Element total_ip at 0x25b22b0>
+birth_seconds72 <Element birth_seconds72 at 0x25dd0f8>
+death_seconds72 <Element death_seconds72 at 0x25ddd50>
+('historical_figure', {'id': 9054, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': 374936, 'appeared': 7, 'hf_skill': {'total_ip': 99, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': ADMINISTRATOR, 'birth_year': 7, 'caste': FEMALE})
+00011292 : <Element historical_figure at 0x25c4918>id <Element id at 0x25c48f0>
+race <Element race at 0x25c4940>
+caste <Element caste at 0x25c48c8>
+appeared <Element appeared at 0x25c49b8>
+birth_year <Element birth_year at 0x25c4968>
+death_year <Element death_year at 0x25c43f0>
+associated_type <Element associated_type at 0x25c4a30>
+birth_seconds72 <Element birth_seconds72 at 0x25c4990>
+death_seconds72 <Element death_seconds72 at 0x25c4878>
+('historical_figure', {'id': 9055, 'race': GOBLIN, 'birth_seconds72': 382337, 'appeared': 7, 'death_seconds72': -1, 'death_year': 18, 'associated_type': CHILD, 'birth_year': 7, 'caste': MALE})
+00011417 : <Element historical_figure at 0x25d1fd0>id <Element id at 0x25d13a0>
+race <Element race at 0x25d1f80>
+caste <Element caste at 0x25d15d0>
+appeared <Element appeared at 0x25d1eb8>
+birth_year <Element birth_year at 0x25d1030>
+death_year <Element death_year at 0x25d1fa8>
+associated_type <Element associated_type at 0x25d10f8>
+skill <Element skill at 0x25c52b0>
+total_ip <Element total_ip at 0x25c5030>
+birth_seconds72 <Element birth_seconds72 at 0x25d1468>
+death_seconds72 <Element death_seconds72 at 0x25d1e90>
+('historical_figure', {'id': 9056, 'race': NIGHT_CREATURE_1, 'death_seconds72': -1, 'birth_seconds72': 129079, 'appeared': 7, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': 7, 'caste': MALE})
+00011524 : <Element historical_figure at 0x25efda0>id <Element id at 0x25efdc8>
+race <Element race at 0x25efaf8>
+caste <Element caste at 0x25efe40>
+appeared <Element appeared at 0x25efe68>
+birth_year <Element birth_year at 0x25efd78>
+death_year <Element death_year at 0x25ef670>
+associated_type <Element associated_type at 0x25ef6c0>
+skill <Element skill at 0x25ea8a0>
+total_ip <Element total_ip at 0x25ea8c8>
+birth_seconds72 <Element birth_seconds72 at 0x25efd50>
+death_seconds72 <Element death_seconds72 at 0x25efe18>
+('historical_figure', {'id': 9057, 'race': NIGHT_CREATURE_9, 'death_seconds72': -1, 'birth_seconds72': 331849, 'appeared': 7, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': 7, 'caste': MALE})
+00011541 : <Element historical_figure at 0x25ead00>id <Element id at 0x25eae18>
+race <Element race at 0x25ead78>
+caste <Element caste at 0x25eaeb8>
+appeared <Element appeared at 0x25eae68>
+birth_year <Element birth_year at 0x25eadf0>
+death_year <Element death_year at 0x25eaee0>
+associated_type <Element associated_type at 0x25eafa8>
+birth_seconds72 <Element birth_seconds72 at 0x25eaf30>
+death_seconds72 <Element death_seconds72 at 0x25eae90>
+('historical_figure', {'id': 9058, 'race': GIANT_DINGO, 'birth_seconds72': -1, 'appeared': 8, 'death_seconds72': -1, 'death_year': 23, 'associated_type': STANDARD, 'birth_year': 4, 'caste': FEMALE})
+00011595 : <Element historical_figure at 0x25ed238>id <Element id at 0x25ed260>
+race <Element race at 0x25ed2d8>
+caste <Element caste at 0x25ed198>
+appeared <Element appeared at 0x25ed328>
+birth_year <Element birth_year at 0x25ed350>
+death_year <Element death_year at 0x25ed3a0>
+associated_type <Element associated_type at 0x25ed300>
+skill <Element skill at 0x25ed620>
+total_ip <Element total_ip at 0x25ed558>
+birth_seconds72 <Element birth_seconds72 at 0x25ed288>
+death_seconds72 <Element death_seconds72 at 0x25ed3c8>
+('historical_figure', {'id': 9059, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': 400551, 'appeared': 8, 'hf_skill': {'total_ip': 99, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': FARMER, 'birth_year': 8, 'caste': MALE})
+00011646 : <Element historical_figure at 0x25edad0>id <Element id at 0x25eda80>
+race <Element race at 0x25edb48>
+caste <Element caste at 0x25edaf8>
+appeared <Element appeared at 0x25edbc0>
+birth_year <Element birth_year at 0x25edbe8>
+death_year <Element death_year at 0x25ede18>
+associated_type <Element associated_type at 0x25edb98>
+skill <Element skill at 0x25cc490>
+total_ip <Element total_ip at 0x25cc530>
+birth_seconds72 <Element birth_seconds72 at 0x25edb70>
+death_seconds72 <Element death_seconds72 at 0x25edeb8>
+('historical_figure', {'id': 9060, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': 310837, 'appeared': 8, 'hf_skill': {'total_ip': 66, 'skill': WRESTLING}, 'death_year': 27, 'associated_type': STANDARD, 'birth_year': 8, 'caste': MALE})
+00011766 : <Element historical_figure at 0x25ccf80>id <Element id at 0x25ad0a8>
+race <Element race at 0x25ad058>
+caste <Element caste at 0x25ad918>
+appeared <Element appeared at 0x25ad508>
+birth_year <Element birth_year at 0x25ad760>
+death_year <Element death_year at 0x25adee0>
+associated_type <Element associated_type at 0x25ad260>
+skill <Element skill at 0x25f1210>
+total_ip <Element total_ip at 0x25f11c0>
+birth_seconds72 <Element birth_seconds72 at 0x25adfa8>
+death_seconds72 <Element death_seconds72 at 0x25addc8>
+('historical_figure', {'id': 9061, 'race': NIGHT_CREATURE_9, 'death_seconds72': -1, 'birth_seconds72': 86760, 'appeared': 8, 'hf_skill': {'total_ip': 462, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': 8, 'caste': FEMALE})
+00011869 : <Element historical_figure at 0x25f1b20>id <Element id at 0x25f1b48>
+race <Element race at 0x25f4350>
+caste <Element caste at 0x25f4030>
+appeared <Element appeared at 0x25f40a8>
+birth_year <Element birth_year at 0x25f4148>
+death_year <Element death_year at 0x25f4198>
+associated_type <Element associated_type at 0x25f41e8>
+skill <Element skill at 0x25f4fd0>
+total_ip <Element total_ip at 0x25b09e0>
+birth_seconds72 <Element birth_seconds72 at 0x25f4170>
+death_seconds72 <Element death_seconds72 at 0x25f41c0>
+('historical_figure', {'id': 9062, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 86761, 'appeared': 8, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': SPEARMAN, 'birth_year': 8, 'caste': MALE})
+00011972 : <Element historical_figure at 0x25ba2b0>id <Element id at 0x25c79e0>
+race <Element race at 0x25c76e8>
+caste <Element caste at 0x25c71c0>
+appeared <Element appeared at 0x25c7bc0>
+birth_year <Element birth_year at 0x25c7af8>
+death_year <Element death_year at 0x25c7b98>
+associated_type <Element associated_type at 0x25c7698>
+skill <Element skill at 0x25c7b20>
+total_ip <Element total_ip at 0x25c7b48>
+birth_seconds72 <Element birth_seconds72 at 0x25c71e8>
+death_seconds72 <Element death_seconds72 at 0x25ab6e8>
+('historical_figure', {'id': 9063, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 207296, 'appeared': 8, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': 48, 'associated_type': STANDARD, 'birth_year': 8, 'caste': FEMALE})
+00012067 : <Element historical_figure at 0x25b1558>id <Element id at 0x25b1698>
+race <Element race at 0x25b1710>
+caste <Element caste at 0x25dcee0>
+appeared <Element appeared at 0x25dcdf0>
+birth_year <Element birth_year at 0x25dcd28>
+death_year <Element death_year at 0x25dcda0>
+associated_type <Element associated_type at 0x25dcf08>
+skill <Element skill at 0x25dca08>
+total_ip <Element total_ip at 0x25dc058>
+birth_seconds72 <Element birth_seconds72 at 0x25dce68>
+death_seconds72 <Element death_seconds72 at 0x25dcdc8>
+('historical_figure', {'id': 9064, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': 391591, 'appeared': 8, 'hf_skill': {'total_ip': 1500, 'skill': SPINNING}, 'death_year': -1, 'associated_type': SPINNER, 'birth_year': 8, 'caste': FEMALE})
+00012151 : <Element historical_figure at 0x25e99e0>id <Element id at 0x25dc1c0>
+race <Element race at 0x25dcfa8>
+caste <Element caste at 0x25dc260>
+appeared <Element appeared at 0x25dc198>
+birth_year <Element birth_year at 0x25dc0f8>
+death_year <Element death_year at 0x25dc328>
+associated_type <Element associated_type at 0x25dc238>
+skill <Element skill at 0x25dc288>
+total_ip <Element total_ip at 0x25e9f08>
+birth_seconds72 <Element birth_seconds72 at 0x25dc210>
+death_seconds72 <Element death_seconds72 at 0x25dc300>
+('historical_figure', {'id': 9065, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 8, 'hf_skill': {'total_ip': 12500, 'skill': CHEESEMAKING}, 'death_year': 22, 'associated_type': STANDARD, 'birth_year': -18, 'caste': FEMALE})
+00012221 : <Element historical_figure at 0x25f7a30>id <Element id at 0x25d48f0>
+race <Element race at 0x25d4468>
+caste <Element caste at 0x25d4d50>
+appeared <Element appeared at 0x25d44e0>
+birth_year <Element birth_year at 0x25d4440>
+death_year <Element death_year at 0x25d4d28>
+associated_type <Element associated_type at 0x25d4940>
+skill <Element skill at 0x25d4490>
+total_ip <Element total_ip at 0x25c7c10>
+birth_seconds72 <Element birth_seconds72 at 0x25c71e8>
+death_seconds72 <Element death_seconds72 at 0x25c7b20>
+('historical_figure', {'id': 9066, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 8, 'hf_skill': {'total_ip': 12500, 'skill': WEAVING}, 'death_year': -1, 'associated_type': CRAFTSMAN, 'birth_year': -182, 'caste': MALE})
+00012292 : <Element historical_figure at 0x25d4ee0>id <Element id at 0x25ed4e0>
+race <Element race at 0x25ed5f8>
+caste <Element caste at 0x25ed698>
+appeared <Element appeared at 0x25ed5d0>
+birth_year <Element birth_year at 0x25ed710>
+death_year <Element death_year at 0x25ed648>
+associated_type <Element associated_type at 0x25ed6e8>
+skill <Element skill at 0x25b3e18>
+total_ip <Element total_ip at 0x25b3f30>
+birth_seconds72 <Element birth_seconds72 at 0x25ed828>
+death_seconds72 <Element death_seconds72 at 0x25ed8a0>
+('historical_figure', {'id': 9067, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': 373751, 'appeared': 9, 'hf_skill': {'total_ip': 66, 'skill': WRESTLING}, 'death_year': 43, 'associated_type': STANDARD, 'birth_year': 9, 'caste': MALE})
+00012381 : <Element historical_figure at 0x25ab968>id <Element id at 0x25c1968>
+race <Element race at 0x25c1260>
+caste <Element caste at 0x25c1058>
+appeared <Element appeared at 0x25c11c0>
+birth_year <Element birth_year at 0x25c10a8>
+death_year <Element death_year at 0x25c1c88>
+associated_type <Element associated_type at 0x25c1c38>
+skill <Element skill at 0x25f78f0>
+total_ip <Element total_ip at 0x25f78a0>
+birth_seconds72 <Element birth_seconds72 at 0x25c1cd8>
+death_seconds72 <Element death_seconds72 at 0x25c1238>
+('historical_figure', {'id': 9068, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': 68469, 'appeared': 9, 'hf_skill': {'total_ip': 66, 'skill': WRESTLING}, 'death_year': 43, 'associated_type': STANDARD, 'birth_year': 9, 'caste': MALE})
+00012425 : <Element historical_figure at 0x25dce90>id <Element id at 0x25dce40>
+race <Element race at 0x25dceb8>
+caste <Element caste at 0x25dcfd0>
+appeared <Element appeared at 0x25dcf30>
+birth_year <Element birth_year at 0x25dc300>
+death_year <Element death_year at 0x25dc288>
+associated_type <Element associated_type at 0x25dc2d8>
+skill <Element skill at 0x25dc8f0>
+total_ip <Element total_ip at 0x25dc828>
+birth_seconds72 <Element birth_seconds72 at 0x25dc210>
+death_seconds72 <Element death_seconds72 at 0x25dc328>
+('historical_figure', {'id': 9069, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 378422, 'appeared': 9, 'hf_skill': {'total_ip': 99, 'skill': WRESTLING}, 'death_year': 18, 'associated_type': CHILD, 'birth_year': 9, 'caste': FEMALE})
+00012516 : <Element historical_figure at 0x25dd148>id <Element id at 0x25dd1c0>
+race <Element race at 0x25dd170>
+caste <Element caste at 0x25dd0d0>
+appeared <Element appeared at 0x25dd0a8>
+birth_year <Element birth_year at 0x25dd080>
+death_year <Element death_year at 0x25dd0f8>
+associated_type <Element associated_type at 0x25ddd50>
+skill <Element skill at 0x25e9e68>
+total_ip <Element total_ip at 0x25e9f30>
+birth_seconds72 <Element birth_seconds72 at 0x25ddb70>
+death_seconds72 <Element death_seconds72 at 0x25dd058>
+('historical_figure', {'id': 9070, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': 300620, 'appeared': 9, 'hf_skill': {'total_ip': 500, 'skill': FISH}, 'death_year': -1, 'associated_type': FISHERY_WORKER, 'birth_year': 9, 'caste': MALE})
+00012599 : <Element historical_figure at 0x25e9968>id <Element id at 0x25e9aa8>
+race <Element race at 0x25e9ad0>
+caste <Element caste at 0x25e9a80>
+appeared <Element appeared at 0x25e9b48>
+birth_year <Element birth_year at 0x25e9b70>
+death_year <Element death_year at 0x25e9b20>
+associated_type <Element associated_type at 0x25e9c10>
+skill <Element skill at 0x25f4850>
+total_ip <Element total_ip at 0x25f48c8>
+birth_seconds72 <Element birth_seconds72 at 0x25e9b98>
+death_seconds72 <Element death_seconds72 at 0x25e9be8>
+('historical_figure', {'id': 9071, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': 210582, 'appeared': 9, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': HAMMERMAN, 'birth_year': 9, 'caste': MALE})
+00012647 : <Element historical_figure at 0x25b22b0>id <Element id at 0x25b2490>
+race <Element race at 0x25b2bc0>
+caste <Element caste at 0x25b21c0>
+appeared <Element appeared at 0x25b2cb0>
+birth_year <Element birth_year at 0x25b2b20>
+death_year <Element death_year at 0x25b2f30>
+associated_type <Element associated_type at 0x25b2b98>
+skill <Element skill at 0x25b2670>
+total_ip <Element total_ip at 0x25b2030>
+birth_seconds72 <Element birth_seconds72 at 0x25b2a30>
+death_seconds72 <Element death_seconds72 at 0x25b2eb8>
+('historical_figure', {'id': 9072, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 9, 'hf_skill': {'total_ip': 12500, 'skill': METALCRAFT}, 'death_year': 10, 'associated_type': STANDARD, 'birth_year': -58, 'caste': MALE})
+00012673 : <Element historical_figure at 0x25b0418>id <Element id at 0x25b0580>
+race <Element race at 0x25b0620>
+caste <Element caste at 0x25b0558>
+appeared <Element appeared at 0x25b0800>
+birth_year <Element birth_year at 0x25b0710>
+death_year <Element death_year at 0x25b0120>
+associated_type <Element associated_type at 0x25aa328>
+birth_seconds72 <Element birth_seconds72 at 0x25b0fd0>
+death_seconds72 <Element death_seconds72 at 0x25aa1e8>
+('historical_figure', {'id': 9073, 'race': GOBLIN, 'birth_seconds72': 101613, 'appeared': 10, 'death_seconds72': -1, 'death_year': 10, 'associated_type': BABY, 'birth_year': 10, 'caste': FEMALE})
+00012699 : <Element historical_figure at 0x25f1be8>id <Element id at 0x25f1b70>
+race <Element race at 0x25f1c60>
+caste <Element caste at 0x25f1c10>
+appeared <Element appeared at 0x25f1c38>
+birth_year <Element birth_year at 0x25f1cd8>
+death_year <Element death_year at 0x25f1cb0>
+associated_type <Element associated_type at 0x25f1f30>
+birth_seconds72 <Element birth_seconds72 at 0x25f1d28>
+death_seconds72 <Element death_seconds72 at 0x25f1f08>
+('historical_figure', {'id': 9074, 'race': DWARF, 'birth_seconds72': 49458, 'appeared': 10, 'death_seconds72': -1, 'death_year': 10, 'associated_type': BABY, 'birth_year': 10, 'caste': MALE})
+00012820 : <Element historical_figure at 0x25f11e8>id <Element id at 0x25eb8a0>
+race <Element race at 0x25eb8f0>
+caste <Element caste at 0x25eb918>
+appeared <Element appeared at 0x25eb940>
+birth_year <Element birth_year at 0x25ebb70>
+death_year <Element death_year at 0x25ebc10>
+associated_type <Element associated_type at 0x25ebc38>
+skill <Element skill at 0x25ebaf8>
+total_ip <Element total_ip at 0x25ebcd8>
+birth_seconds72 <Element birth_seconds72 at 0x25ebcb0>
+death_seconds72 <Element death_seconds72 at 0x25ebd28>
+('historical_figure', {'id': 9075, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': 396130, 'appeared': 10, 'hf_skill': {'total_ip': 132, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': ANIMAL_CARETAKER, 'birth_year': 10, 'caste': MALE})
+00012961 : <Element historical_figure at 0x25e4a58>id <Element id at 0x25e4530>
+race <Element race at 0x25e4b70>
+caste <Element caste at 0x25e4b20>
+appeared <Element appeared at 0x25e4be8>
+birth_year <Element birth_year at 0x25e4bc0>
+death_year <Element death_year at 0x25e4c10>
+associated_type <Element associated_type at 0x25e4c38>
+skill <Element skill at 0x25ce918>
+total_ip <Element total_ip at 0x25ce378>
+birth_seconds72 <Element birth_seconds72 at 0x25e4b98>
+death_seconds72 <Element death_seconds72 at 0x25e4cb0>
+('historical_figure', {'id': 9076, 'race': NIGHT_CREATURE_8, 'death_seconds72': -1, 'birth_seconds72': 382182, 'appeared': 10, 'hf_skill': {'total_ip': 396, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': 10, 'caste': MALE})
+00013029 : <Element historical_figure at 0x25f98c8>id <Element id at 0x25f98f0>
+race <Element race at 0x25f9940>
+caste <Element caste at 0x25f9968>
+appeared <Element appeared at 0x25f9990>
+birth_year <Element birth_year at 0x25f99b8>
+death_year <Element death_year at 0x25f9a08>
+associated_type <Element associated_type at 0x25f9be8>
+skill <Element skill at 0x25c5490>
+total_ip <Element total_ip at 0x25c53c8>
+birth_seconds72 <Element birth_seconds72 at 0x25f99e0>
+death_seconds72 <Element death_seconds72 at 0x25f9a30>
+('historical_figure', {'id': 9077, 'race': NIGHT_CREATURE_3, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 10, 'hf_skill': {'total_ip': 12500, 'skill': CLOTHESMAKING}, 'death_year': 32, 'associated_type': STANDARD, 'birth_year': -172, 'caste': FEMALE})
+00013121 : <Element historical_figure at 0x25c5b20>id <Element id at 0x25d3ad0>
+race <Element race at 0x25d3300>
+caste <Element caste at 0x25d3c38>
+appeared <Element appeared at 0x25d3b20>
+birth_year <Element birth_year at 0x25d3b98>
+death_year <Element death_year at 0x25d38a0>
+associated_type <Element associated_type at 0x25d33c8>
+skill <Element skill at 0x25fd0a8>
+total_ip <Element total_ip at 0x25fd0d0>
+birth_seconds72 <Element birth_seconds72 at 0x25b3e68>
+death_seconds72 <Element death_seconds72 at 0x25b32d8>
+('historical_figure', {'id': 9078, 'race': NIGHT_CREATURE_3, 'death_seconds72': -1, 'birth_seconds72': 388248, 'appeared': 10, 'hf_skill': {'total_ip': 4500, 'skill': SITUATIONAL_AWARENESS}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': 10, 'caste': MALE})
+00013203 : <Element historical_figure at 0x25fd4b8>id <Element id at 0x25fd4e0>
+race <Element race at 0x25fd530>
+caste <Element caste at 0x25fd558>
+appeared <Element appeared at 0x25fd580>
+birth_year <Element birth_year at 0x25fd5a8>
+death_year <Element death_year at 0x25fd5f8>
+associated_type <Element associated_type at 0x25fd648>
+skill <Element skill at 0x25fdee0>
+total_ip <Element total_ip at 0x25fdf08>
+birth_seconds72 <Element birth_seconds72 at 0x25fd5d0>
+death_seconds72 <Element death_seconds72 at 0x25fd620>
+('historical_figure', {'id': 9079, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': 372474, 'appeared': 11, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': ANIMAL_CARETAKER, 'birth_year': 11, 'caste': MALE})
+00013251 : <Element historical_figure at 0x25ef6c0>id <Element id at 0x25d3cb0>
+race <Element race at 0x25ef6e8>
+caste <Element caste at 0x25ef8a0>
+appeared <Element appeared at 0x25efa30>
+birth_year <Element birth_year at 0x25ef9b8>
+death_year <Element death_year at 0x25efaa8>
+associated_type <Element associated_type at 0x25efa08>
+skill <Element skill at 0x25ef508>
+total_ip <Element total_ip at 0x25ef0f8>
+birth_seconds72 <Element birth_seconds72 at 0x25ef9e0>
+death_seconds72 <Element death_seconds72 at 0x25efa58>
+('historical_figure', {'id': 9080, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': 211596, 'appeared': 11, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': 19, 'associated_type': CHILD, 'birth_year': 11, 'caste': MALE})
+00013291 : <Element historical_figure at 0x25ea300>id <Element id at 0x25c7c60>
+race <Element race at 0x25eb738>
+caste <Element caste at 0x25eb760>
+appeared <Element appeared at 0x25eb788>
+birth_year <Element birth_year at 0x25ebd28>
+death_year <Element death_year at 0x25ebcb0>
+associated_type <Element associated_type at 0x25ebc60>
+skill <Element skill at 0x25eb7b0>
+total_ip <Element total_ip at 0x25ebd50>
+birth_seconds72 <Element birth_seconds72 at 0x25ebd00>
+death_seconds72 <Element death_seconds72 at 0x25ebe68>
+('historical_figure', {'id': 9081, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 174057, 'appeared': 11, 'hf_skill': {'total_ip': 99, 'skill': WRESTLING}, 'death_year': 17, 'associated_type': CHILD, 'birth_year': 11, 'caste': MALE})
+00013350 : <Element historical_figure at 0x25eada0>id <Element id at 0x26017b0>
+race <Element race at 0x2601850>
+caste <Element caste at 0x2601878>
+appeared <Element appeared at 0x26018a0>
+birth_year <Element birth_year at 0x26018f0>
+death_year <Element death_year at 0x2601918>
+associated_type <Element associated_type at 0x2601940>
+skill <Element skill at 0x2601968>
+total_ip <Element total_ip at 0x2601a08>
+birth_seconds72 <Element birth_seconds72 at 0x26019e0>
+death_seconds72 <Element death_seconds72 at 0x2601c60>
+('historical_figure', {'id': 9082, 'race': NIGHT_CREATURE_4, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 11, 'hf_skill': {'total_ip': 12500, 'skill': BOWYER}, 'death_year': 30, 'associated_type': STANDARD, 'birth_year': -156, 'caste': MALE})
+00013427 : <Element historical_figure at 0x25b4620>id <Element id at 0x25ac8f0>
+race <Element race at 0x25c75a8>
+caste <Element caste at 0x25c7558>
+appeared <Element appeared at 0x25c75f8>
+birth_year <Element birth_year at 0x25c7b70>
+death_year <Element death_year at 0x25eb648>
+associated_type <Element associated_type at 0x25eb4e0>
+skill <Element skill at 0x25ea558>
+total_ip <Element total_ip at 0x25eabc0>
+birth_seconds72 <Element birth_seconds72 at 0x25eb5d0>
+death_seconds72 <Element death_seconds72 at 0x25eb5f8>
+('historical_figure', {'id': 9083, 'race': DINGO_MAN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 12, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': STANDARD, 'birth_year': -8, 'caste': MALE})
+00013444 : <Element historical_figure at 0x25eafa8>id <Element id at 0x25eaf08>
+race <Element race at 0x25eaf58>
+caste <Element caste at 0x25eaf80>
+appeared <Element appeared at 0x25eacd8>
+birth_year <Element birth_year at 0x25ea5d0>
+death_year <Element death_year at 0x25ea0d0>
+associated_type <Element associated_type at 0x25ea238>
+birth_seconds72 <Element birth_seconds72 at 0x25eafd0>
+death_seconds72 <Element death_seconds72 at 0x25ea210>
+('historical_figure', {'id': 9084, 'race': GIANT_DINGO, 'birth_seconds72': -1, 'appeared': 12, 'death_seconds72': -1, 'death_year': 19, 'associated_type': STANDARD, 'birth_year': 9, 'caste': FEMALE})
+00013474 : <Element historical_figure at 0x25ea328>id <Element id at 0x25ea418>
+race <Element race at 0x25ea378>
+caste <Element caste at 0x25ea490>
+appeared <Element appeared at 0x25ea440>
+birth_year <Element birth_year at 0x25ea350>
+death_year <Element death_year at 0x25ea4b8>
+associated_type <Element associated_type at 0x25ea580>
+birth_seconds72 <Element birth_seconds72 at 0x25ea508>
+death_seconds72 <Element death_seconds72 at 0x25ea3f0>
+('historical_figure', {'id': 9085, 'race': DWARF, 'birth_seconds72': 334969, 'appeared': 12, 'death_seconds72': -1, 'death_year': 19, 'associated_type': CHILD, 'birth_year': 12, 'caste': MALE})
+00013550 : <Element historical_figure at 0x25b3cd8>id <Element id at 0x25b33f0>
+race <Element race at 0x25b3648>
+caste <Element caste at 0x25b3fa8>
+appeared <Element appeared at 0x25b3af8>
+birth_year <Element birth_year at 0x25b3878>
+death_year <Element death_year at 0x25b3a08>
+associated_type <Element associated_type at 0x25b3a80>
+skill <Element skill at 0x25ef648>
+total_ip <Element total_ip at 0x25efb20>
+birth_seconds72 <Element birth_seconds72 at 0x25b3378>
+death_seconds72 <Element death_seconds72 at 0x25b3c88>
+('historical_figure', {'id': 9086, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': 103096, 'appeared': 13, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': ARMORER, 'birth_year': 13, 'caste': FEMALE})
+00013604 : <Element historical_figure at 0x25ef5d0>id <Element id at 0x25ef6c0>
+race <Element race at 0x25effa8>
+caste <Element caste at 0x25eff80>
+appeared <Element appeared at 0x25ef1c0>
+birth_year <Element birth_year at 0x25ef5f8>
+death_year <Element death_year at 0x25effd0>
+associated_type <Element associated_type at 0x25efee0>
+skill <Element skill at 0x25fd0a8>
+total_ip <Element total_ip at 0x25fd0d0>
+birth_seconds72 <Element birth_seconds72 at 0x25eff58>
+death_seconds72 <Element death_seconds72 at 0x25efe90>
+('historical_figure', {'id': 9087, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': 63750, 'appeared': 13, 'hf_skill': {'total_ip': 66, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': RANGER, 'birth_year': 13, 'caste': MALE})
+00013624 : <Element historical_figure at 0x25fd558>id <Element id at 0x25fd580>
+race <Element race at 0x25fd5d0>
+caste <Element caste at 0x25fd5f8>
+appeared <Element appeared at 0x25fd620>
+birth_year <Element birth_year at 0x25fd648>
+death_year <Element death_year at 0x25fd6c0>
+associated_type <Element associated_type at 0x25fd710>
+birth_seconds72 <Element birth_seconds72 at 0x25fd698>
+death_seconds72 <Element death_seconds72 at 0x25fd670>
+('historical_figure', {'id': 9088, 'race': JAGUAR_GIANT, 'birth_seconds72': -1, 'appeared': 13, 'death_seconds72': -1, 'death_year': 28, 'associated_type': STANDARD, 'birth_year': 9, 'caste': FEMALE})
+00013726 : <Element historical_figure at 0x25fd8a0>id <Element id at 0x25fd8c8>
+race <Element race at 0x25fd918>
+caste <Element caste at 0x25fdaf8>
+appeared <Element appeared at 0x25fd8f0>
+birth_year <Element birth_year at 0x25fdc10>
+death_year <Element death_year at 0x25fdb70>
+associated_type <Element associated_type at 0x25fdcb0>
+skill <Element skill at 0x25cedf0>
+total_ip <Element total_ip at 0x25ce918>
+birth_seconds72 <Element birth_seconds72 at 0x25fdc38>
+death_seconds72 <Element death_seconds72 at 0x25fdc88>
+('historical_figure', {'id': 9089, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 140577, 'appeared': 13, 'hf_skill': {'total_ip': 500, 'skill': PROCESSFISH}, 'death_year': -1, 'associated_type': HAMMERMAN, 'birth_year': 13, 'caste': FEMALE})
+00013780 : <Element historical_figure at 0x25e4af8>id <Element id at 0x25e4940>
+race <Element race at 0x25e4530>
+caste <Element caste at 0x25e4fd0>
+appeared <Element appeared at 0x25e4b70>
+birth_year <Element birth_year at 0x25e4b20>
+death_year <Element death_year at 0x25e4bc0>
+associated_type <Element associated_type at 0x25e4c10>
+skill <Element skill at 0x25ed260>
+total_ip <Element total_ip at 0x25ed2b0>
+birth_seconds72 <Element birth_seconds72 at 0x25e4be8>
+death_seconds72 <Element death_seconds72 at 0x25e4b98>
+('historical_figure', {'id': 9090, 'race': KOBOLD, 'death_seconds72': -1, 'birth_seconds72': 231123, 'appeared': 13, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': RANGER, 'birth_year': 13, 'caste': MALE})
+00013800 : <Element historical_figure at 0x25eda58>id <Element id at 0x25eda08>
+race <Element race at 0x25edaa8>
+caste <Element caste at 0x25ed238>
+appeared <Element appeared at 0x25eda80>
+birth_year <Element birth_year at 0x25edb20>
+death_year <Element death_year at 0x25edaf8>
+associated_type <Element associated_type at 0x25edbe8>
+birth_seconds72 <Element birth_seconds72 at 0x25edb48>
+death_seconds72 <Element death_seconds72 at 0x25edbc0>
+('historical_figure', {'id': 9091, 'race': MOLEMARIAN, 'birth_seconds72': -1, 'appeared': 14, 'death_seconds72': -1, 'death_year': 27, 'associated_type': STANDARD, 'birth_year': 7, 'caste': MALE})
+00013844 : <Element historical_figure at 0x25f91e8>id <Element id at 0x25f9288>
+race <Element race at 0x25f9260>
+caste <Element caste at 0x25f9300>
+appeared <Element appeared at 0x25f9328>
+birth_year <Element birth_year at 0x25f92d8>
+death_year <Element death_year at 0x25f93a0>
+associated_type <Element associated_type at 0x25f93f0>
+skill <Element skill at 0x25f9800>
+total_ip <Element total_ip at 0x25f97b0>
+birth_seconds72 <Element birth_seconds72 at 0x25f9378>
+death_seconds72 <Element death_seconds72 at 0x25f9350>
+('historical_figure', {'id': 9092, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': 137876, 'appeared': 14, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': 16, 'associated_type': CHILD, 'birth_year': 14, 'caste': MALE})
+00013871 : <Element historical_figure at 0x25f9c60>id <Element id at 0x25f9d78>
+race <Element race at 0x25f9dc8>
+caste <Element caste at 0x25f9d50>
+appeared <Element appeared at 0x25f9e18>
+birth_year <Element birth_year at 0x25f9e40>
+death_year <Element death_year at 0x25f9df0>
+associated_type <Element associated_type at 0x25f9ee0>
+skill <Element skill at 0x25f7df0>
+total_ip <Element total_ip at 0x25f70d0>
+birth_seconds72 <Element birth_seconds72 at 0x25f9e68>
+death_seconds72 <Element death_seconds72 at 0x25f9eb8>
+('historical_figure', {'id': 9093, 'race': KOBOLD, 'death_seconds72': -1, 'birth_seconds72': 346699, 'appeared': 14, 'hf_skill': {'total_ip': 1500, 'skill': TRAPPING}, 'death_year': -1, 'associated_type': TRAPPER, 'birth_year': 14, 'caste': FEMALE})
+00013893 : <Element historical_figure at 0x25f7030>id <Element id at 0x25f7148>
+race <Element race at 0x25f70a8>
+caste <Element caste at 0x25f71c0>
+appeared <Element appeared at 0x25f71e8>
+birth_year <Element birth_year at 0x25f7120>
+death_year <Element death_year at 0x25f7260>
+associated_type <Element associated_type at 0x25f72b0>
+birth_seconds72 <Element birth_seconds72 at 0x25f7238>
+death_seconds72 <Element death_seconds72 at 0x25f7198>
+('historical_figure', {'id': 9094, 'race': HUMAN, 'birth_seconds72': 43719, 'appeared': 14, 'death_seconds72': -1, 'death_year': 14, 'associated_type': BABY, 'birth_year': 14, 'caste': FEMALE})
+00013951 : <Element historical_figure at 0x25f7490>id <Element id at 0x25eb5d0>
+race <Element race at 0x25eb5f8>
+caste <Element caste at 0x25eb4e0>
+appeared <Element appeared at 0x25eb508>
+birth_year <Element birth_year at 0x25eb3f0>
+death_year <Element death_year at 0x25f7738>
+associated_type <Element associated_type at 0x25f7878>
+skill <Element skill at 0x25c5378>
+total_ip <Element total_ip at 0x25c5418>
+birth_seconds72 <Element birth_seconds72 at 0x25eb350>
+death_seconds72 <Element death_seconds72 at 0x25f74e0>
+('historical_figure', {'id': 9095, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': -1, 'appeared': 14, 'hf_skill': {'total_ip': 12500, 'skill': FORGE_FURNITURE}, 'death_year': -1, 'associated_type': METALSMITH, 'birth_year': -12, 'caste': FEMALE})
+00013988 : <Element historical_figure at 0x25c5940>id <Element id at 0x25c5a58>
+race <Element race at 0x25c59b8>
+caste <Element caste at 0x25c54b8>
+appeared <Element appeared at 0x25c5a80>
+birth_year <Element birth_year at 0x25c5a30>
+death_year <Element death_year at 0x25c5ad0>
+associated_type <Element associated_type at 0x25c5b98>
+birth_seconds72 <Element birth_seconds72 at 0x25c5af8>
+death_seconds72 <Element death_seconds72 at 0x25c5b70>
+('historical_figure', {'id': 9096, 'race': DWARF, 'birth_seconds72': 13318, 'appeared': 15, 'death_seconds72': -1, 'death_year': 26, 'associated_type': CHILD, 'birth_year': 15, 'caste': FEMALE})
+00014021 : <Element historical_figure at 0x25c5170>id <Element id at 0x25c5210>
+race <Element race at 0x25c5288>
+caste <Element caste at 0x25d1968>
+appeared <Element appeared at 0x25d1e18>
+birth_year <Element birth_year at 0x25d1df0>
+death_year <Element death_year at 0x25d1e68>
+associated_type <Element associated_type at 0x25d1ee0>
+skill <Element skill at 0x25d1bc0>
+total_ip <Element total_ip at 0x25d1828>
+birth_seconds72 <Element birth_seconds72 at 0x25d18f0>
+death_seconds72 <Element death_seconds72 at 0x25d15f8>
+('historical_figure', {'id': 9097, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': 215819, 'appeared': 15, 'hf_skill': {'total_ip': 1500, 'skill': DISSECT_VERMIN}, 'death_year': 27, 'associated_type': STANDARD, 'birth_year': 15, 'caste': MALE})
+00014038 : <Element historical_figure at 0x25ccfa8>id <Element id at 0x25ccf80>
+race <Element race at 0x25cc4b8>
+caste <Element caste at 0x25ccf08>
+appeared <Element appeared at 0x25cc558>
+birth_year <Element birth_year at 0x25cc300>
+death_year <Element death_year at 0x25cc738>
+associated_type <Element associated_type at 0x25ccdf0>
+birth_seconds72 <Element birth_seconds72 at 0x25cc030>
+death_seconds72 <Element death_seconds72 at 0x25cc4e0>
+('historical_figure', {'id': 9098, 'race': GIANT_DINGO, 'birth_seconds72': -1, 'appeared': 15, 'death_seconds72': -1, 'death_year': 20, 'associated_type': STANDARD, 'birth_year': 10, 'caste': FEMALE})
+00014124 : <Element historical_figure at 0x25ccfd0>id <Element id at 0x25cc9e0>
+race <Element race at 0x25cce90>
+caste <Element caste at 0x25dc4b8>
+appeared <Element appeared at 0x25dcdf0>
+birth_year <Element birth_year at 0x25dcd28>
+death_year <Element death_year at 0x25dcda0>
+associated_type <Element associated_type at 0x25dce68>
+skill <Element skill at 0x25adb98>
+total_ip <Element total_ip at 0x25adaa8>
+birth_seconds72 <Element birth_seconds72 at 0x25dcee0>
+death_seconds72 <Element death_seconds72 at 0x25dcdc8>
+('historical_figure', {'id': 9099, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 317327, 'appeared': 15, 'hf_skill': {'total_ip': 500, 'skill': SPINNING}, 'death_year': -1, 'associated_type': FARMER, 'birth_year': 15, 'caste': FEMALE})
+00014222 : <Element historical_figure at 0x25fc148>id <Element id at 0x2601e68>
+race <Element race at 0x2601eb8>
+caste <Element caste at 0x2601ee0>
+appeared <Element appeared at 0x2601f08>
+birth_year <Element birth_year at 0x25eb350>
+death_year <Element death_year at 0x25eb508>
+associated_type <Element associated_type at 0x25eb328>
+skill <Element skill at 0x25dd120>
+total_ip <Element total_ip at 0x25dd170>
+birth_seconds72 <Element birth_seconds72 at 0x25ebe68>
+death_seconds72 <Element death_seconds72 at 0x25eb0d0>
+('historical_figure', {'id': 9100, 'race': HUMAN, 'death_seconds72': -1, 'birth_seconds72': 282795, 'appeared': 15, 'hf_skill': {'total_ip': 33, 'skill': WRESTLING}, 'death_year': -1, 'associated_type': SWORDSMAN, 'birth_year': 15, 'caste': FEMALE})
+00014279 : <Element historical_figure at 0x25dd148>id <Element id at 0x25e0e68>
+race <Element race at 0x25e0f80>
+caste <Element caste at 0x25e0eb8>
+appeared <Element appeared at 0x25e0fa8>
+birth_year <Element birth_year at 0x25e0058>
+death_year <Element death_year at 0x25e0be8>
+associated_type <Element associated_type at 0x25e0418>
+skill <Element skill at 0x25e08c8>
+total_ip <Element total_ip at 0x25e0918>
+birth_seconds72 <Element birth_seconds72 at 0x25e0f30>
+death_seconds72 <Element death_seconds72 at 0x25e0738>
+('historical_figure', {'id': 9101, 'race': GOBLIN, 'death_seconds72': -1, 'birth_seconds72': 63133, 'appeared': 16, 'hf_skill': {'total_ip': 500, 'skill': COOK}, 'death_year': -1, 'associated_type': CROSSBOWMAN, 'birth_year': 16, 'caste': MALE})
+00014333 : <Element historical_figure at 0x25f46c0>id <Element id at 0x2601620>
+race <Element race at 0x2601670>
+caste <Element caste at 0x2601698>
+appeared <Element appeared at 0x2601c60>
+birth_year <Element birth_year at 0x2601990>
+death_year <Element death_year at 0x2601a08>
+associated_type <Element associated_type at 0x2601968>
+skill <Element skill at 0x2601a30>
+total_ip <Element total_ip at 0x2601d50>
+birth_seconds72 <Element birth_seconds72 at 0x2601d28>
+death_seconds72 <Element death_seconds72 at 0x2601eb8>
+('historical_figure', {'id': 9102, 'race': ELF, 'death_seconds72': -1, 'birth_seconds72': 148128, 'appeared': 16, 'hf_skill': {'total_ip': 500, 'skill': FISH}, 'death_year': -1, 'associated_type': FISHERY_WORKER, 'birth_year': 16, 'caste': MALE})
+00014425 : <Element historical_figure at 0x25e9940>id <Element id at 0x25c7558>
+race <Element race at 0x25c7b70>
+caste <Element caste at 0x25ab8f0>
+appeared <Element appeared at 0x25abcb0>
+birth_year <Element birth_year at 0x2601d28>
+death_year <Element death_year at 0x2601c88>
+associated_type <Element associated_type at 0x2601d50>
+skill <Element skill at 0x2601d78>
+total_ip <Element total_ip at 0x25aaf30>
+birth_seconds72 <Element birth_seconds72 at 0x25aa1e8>
+death_seconds72 <Element death_seconds72 at 0x25aaa80>
+('historical_figure', {'id': 9103, 'race': DWARF, 'death_seconds72': -1, 'birth_seconds72': 321731, 'appeared': 16, 'hf_skill': {'total_ip': 500, 'skill': ANIMALCARE}, 'death_year': -1, 'associated_type': CROSSBOWMAN, 'birth_year': 16, 'caste': MALE})
+00014452 : <Element historical_figure at 0x25b0210>id <Element id at 0x2601058>
+race <Element race at 0x25aa440>
+caste <Element caste at 0x25aaa80>
+appeared <Element appeared at 0x25aa1e8>
+birth_year <Element birth_year at 0x25aa2d8>
+death_year <Element death_year at 0x25aa5f8>
+associated_type <Element associated_type at 0x25aaa30>
+skill <Element skill at 0x25aa328>
+total_ip <Element total_ip at 0x25aa800>
+birth_seconds72 <Element birth_seconds72 at 0x25aa3a0>
+death_seconds72 <Element death_seconds72 at 0x25aad78>

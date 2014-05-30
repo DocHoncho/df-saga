@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+
+{% block pageTitle %}test_load{% endblock %}
+{% block headerTitle %}Test Loading XML{% endblock %}
+
+{% block content %}
+<form action="" method="post">
+<input type="text" name="fn" value="{{fn}}" size="60" /> <input type="submit" value="Load 'Er' Up" />
+</form>
+<code>
+{% for e in err %}
+{{ e }}
+{% endfor %}
+</code>
+<hr />
+{% set count_keys = [x for x, _ in counts.most_common()] %}
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>Event Type</th>
+            {% for n in count_keys %}
+            <th>{{n}}</th>
+            {% endfor %}
+        </tr>
+    </thead>
+
+    <tbody>
+    {% for t in event_types %}
+    <tr>
+        <td>{{ t['name'] }}</td>
+        {% for a in count_keys %}
+        <td>
+            {% if a in t['attrs'] %}
+            X
+            {% else %}
+            -
+            {% endif %}
+        </td>
+        {% endfor %}
+    </tr>
+</table>
+
+{% endblock %}

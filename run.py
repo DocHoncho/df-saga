@@ -8,6 +8,7 @@ if __name__ == '__main__':
     settings = load_settings('settings.json', DEFAULT_APP_SETTINGS)
 
     app = create_app(settings)
+    print(app.hostname, app.port)
     run_simple(app.hostname,
                 app.port,
                 app,

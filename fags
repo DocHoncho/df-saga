@@ -1,0 +1,969 @@
+Processing "historical_figures" (264 items)
+<Element entity_link at 0x2327260>
+<Element entity_link at 0x2327260> [('link_type', 'enemy'), ('entity_id', '33')]
+<Element entity_link at 0x2327288>
+<Element entity_link at 0x2327288> [('link_type', 'enemy'), ('entity_id', '32')]
+<Element entity_link at 0x23272b0>
+<Element entity_link at 0x23272b0> [('link_type', 'enemy'), ('entity_id', '25')]
+<Element entity_link at 0x23272d8>
+<Element entity_link at 0x23272d8> [('link_type', 'enemy'), ('entity_id', '27')]
+<Element entity_link at 0x2327300>
+<Element entity_link at 0x2327300> [('link_type', 'enemy'), ('entity_id', '29')]
+<Element entity_link at 0x2327328>
+<Element entity_link at 0x2327328> [('link_type', 'enemy'), ('entity_id', '28')]
+<Element entity_link at 0x2327350>
+<Element entity_link at 0x2327350> [('link_type', 'enemy'), ('entity_id', '31')]
+<Element entity_link at 0x2327378>
+<Element entity_link at 0x2327378> [('link_type', 'enemy'), ('entity_id', '34')]
+<Element entity_link at 0x23273a0>
+<Element entity_link at 0x23273a0> [('link_type', 'enemy'), ('entity_id', '35')]
+<Element entity_link at 0x23273c8>
+<Element entity_link at 0x23273c8> [('link_type', 'enemy'), ('entity_id', '36')]
+<Element entity_link at 0x23273f0>
+<Element entity_link at 0x23273f0> [('link_type', 'enemy'), ('entity_id', '37')]
+<Element entity_link at 0x2327418>
+<Element entity_link at 0x2327418> [('link_type', 'enemy'), ('entity_id', '38')]
+<Element entity_link at 0x2327440>
+<Element entity_link at 0x2327440> [('link_type', 'enemy'), ('entity_id', '39')]
+<Element entity_link at 0x2327468>
+<Element entity_link at 0x2327468> [('link_type', 'enemy'), ('entity_id', '40')]
+<Element entity_link at 0x2327490>
+<Element entity_link at 0x2327490> [('link_type', 'enemy'), ('entity_id', '30')]
+<Element entity_link at 0x23274b8>
+<Element entity_link at 0x23274b8> [('link_type', 'enemy'), ('entity_id', '41')]
+<Element entity_link at 0x23274e0>
+<Element entity_link at 0x23274e0> [('link_type', 'enemy'), ('entity_id', '42')]
+<Element entity_link at 0x2327508>
+<Element entity_link at 0x2327508> [('link_type', 'enemy'), ('entity_id', '43')]
+<Element entity_link at 0x2327530>
+<Element entity_link at 0x2327530> [('link_type', 'enemy'), ('entity_id', '26')]
+<Element entity_link at 0x2327558>
+<Element entity_link at 0x2327558> [('link_type', 'enemy'), ('entity_id', '44')]
+<Element entity_link at 0x2327580>
+<Element entity_link at 0x2327580> [('link_type', 'enemy'), ('entity_id', '24')]
+<Element site_link at 0x23275a8>
+<Element site_link at 0x23275a8> [('link_type', 'lair'), ('site_id', '36')]
+<Element hf_skill at 0x2327620>
+<Element hf_skill at 0x2327620> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x2327648>
+<Element hf_skill at 0x2327648> [('skill', 'DODGING'), ('total_ip', '4500')]
+<Element hf_skill at 0x2327670>
+<Element hf_skill at 0x2327670> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x2327698>
+<Element hf_skill at 0x2327698> [('skill', 'RANGED_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x23276c0>
+<Element hf_skill at 0x23276c0> [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x23276e8>
+<Element hf_skill at 0x23276e8> [('skill', 'BITE'), ('total_ip', '4500')]
+[('id', '30'), ('name', 'palath warmfortune'), ('race', 'DRAGON'), ('caste', 'MALE'), ('appeared', '1'), ('birth_year', '-268'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('entity_link', [('link_type', 'enemy'), ('entity_id', '33')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '32')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '25')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '27')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '29')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '28')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '31')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '34')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '35')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '36')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '37')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '38')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '39')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '40')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '30')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '41')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '42')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '43')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '26')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '44')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '24')]), ('site_link', [('link_type', 'lair'), ('site_id', '36')]), ('sphere', 'fire'), ('sphere', 'wealth'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'RANGED_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('interaction_knowledge', 'PYROMANCY')]
+<Element hf_skill at 0x2329648>
+<Element hf_skill at 0x2329648> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x23296c0>
+<Element hf_skill at 0x23296c0> [('skill', 'DODGING'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329738>
+<Element hf_skill at 0x2329738> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329760>
+<Element hf_skill at 0x2329760> [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x23297d8>
+<Element hf_skill at 0x23297d8> [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329850>
+<Element hf_skill at 0x2329850> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329878>
+<Element hf_skill at 0x2329878> [('skill', 'WRESTLING'), ('total_ip', '4500')]
+[('id', '31'), ('name', 'rusmo the lobster of seals'), ('race', 'FORGOTTEN_BEAST_1'), ('caste', 'DEFAULT'), ('appeared', '1'), ('birth_year', '-186'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('sphere', 'caverns'), ('sphere', 'death'), ('sphere', 'water'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4500')]), ('interaction_knowledge', 'SECRET_1'), ('interaction_knowledge', 'SECRET_2'), ('interaction_knowledge', 'SECRET_3'), ('interaction_knowledge', 'SECRET_4'), ('interaction_knowledge', 'SECRET_5'), ('interaction_knowledge', 'SECRET_6'), ('interaction_knowledge', 'SECRET_7'), ('interaction_knowledge', 'SECRET_8'), ('interaction_knowledge', 'SECRET_9'), ('interaction_knowledge', 'SECRET_10'), ('interaction_knowledge', 'SECRET_11'), ('interaction_knowledge', 'SECRET_12'), ('interaction_knowledge', 'SECRET_13'), ('interaction_knowledge', 'SECRET_14'), ('interaction_knowledge', 'SECRET_15'), ('interaction_knowledge', 'SECRET_16'), ('interaction_knowledge', 'SECRET_17'), ('interaction_knowledge', 'SECRET_18'), ('interaction_knowledge', 'SECRET_19'), ('interaction_knowledge', 'SECRET_20')]
+<Element hf_skill at 0x2329738>
+<Element hf_skill at 0x2329738> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329760>
+<Element hf_skill at 0x2329760> [('skill', 'DODGING'), ('total_ip', '4500')]
+<Element hf_skill at 0x23297d8>
+<Element hf_skill at 0x23297d8> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329850>
+<Element hf_skill at 0x2329850> [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329878>
+<Element hf_skill at 0x2329878> [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x23298f0>
+<Element hf_skill at 0x23298f0> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329968>
+<Element hf_skill at 0x2329968> [('skill', 'WRESTLING'), ('total_ip', '4500')]
+[('id', '32'), ('name', 'lefide'), ('race', 'FORGOTTEN_BEAST_2'), ('caste', 'DEFAULT'), ('appeared', '1'), ('birth_year', '-205'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('sphere', 'blight'), ('sphere', 'caverns'), ('sphere', 'water'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4500')])]
+<Element hf_skill at 0x2329300>
+<Element hf_skill at 0x2329300> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329378>
+<Element hf_skill at 0x2329378> [('skill', 'DODGING'), ('total_ip', '4500')]
+<Element hf_skill at 0x23293f0>
+<Element hf_skill at 0x23293f0> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329418>
+<Element hf_skill at 0x2329418> [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329490>
+<Element hf_skill at 0x2329490> [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329508>
+<Element hf_skill at 0x2329508> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329530>
+<Element hf_skill at 0x2329530> [('skill', 'WRESTLING'), ('total_ip', '4500')]
+[('id', '33'), ('name', 'shedim witchbeached the murk of nights'), ('race', 'FORGOTTEN_BEAST_3'), ('caste', 'DEFAULT'), ('appeared', '1'), ('birth_year', '-278'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('sphere', 'caverns'), ('sphere', 'depravity'), ('sphere', 'water'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4500')])]
+<Element hf_skill at 0x2329e40>
+<Element hf_skill at 0x2329e40> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329d50>
+<Element hf_skill at 0x2329d50> [('skill', 'DODGING'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329eb8>
+<Element hf_skill at 0x2329eb8> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329f58>
+<Element hf_skill at 0x2329f58> [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329fd0>
+<Element hf_skill at 0x2329fd0> [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329968>
+<Element hf_skill at 0x2329968> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329260>
+<Element hf_skill at 0x2329260> [('skill', 'WRESTLING'), ('total_ip', '4500')]
+[('id', '34'), ('name', 'bora bilefroth'), ('race', 'FORGOTTEN_BEAST_4'), ('caste', 'DEFAULT'), ('appeared', '1'), ('birth_year', '-260'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('sphere', 'blight'), ('sphere', 'caverns'), ('sphere', 'water'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4500')])]
+<Element hf_skill at 0x23298f0>
+<Element hf_skill at 0x23298f0> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329a80>
+<Element hf_skill at 0x2329a80> [('skill', 'DODGING'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329530>
+<Element hf_skill at 0x2329530> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329aa8>
+<Element hf_skill at 0x2329aa8> [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329b98>
+<Element hf_skill at 0x2329b98> [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329be8>
+<Element hf_skill at 0x2329be8> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329c60>
+<Element hf_skill at 0x2329c60> [('skill', 'WRESTLING'), ('total_ip', '4500')]
+[('id', '35'), ('name', 'esrel'), ('race', 'FORGOTTEN_BEAST_5'), ('caste', 'DEFAULT'), ('appeared', '1'), ('birth_year', '-186'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('sphere', 'caverns'), ('sphere', 'thralldom'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4500')])]
+<Element hf_skill at 0x23296c0>
+<Element hf_skill at 0x23296c0> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329738>
+<Element hf_skill at 0x2329738> [('skill', 'DODGING'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329760>
+<Element hf_skill at 0x2329760> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x23297d8>
+<Element hf_skill at 0x23297d8> [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329850>
+<Element hf_skill at 0x2329850> [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x23298f0>
+<Element hf_skill at 0x23298f0> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329a80>
+<Element hf_skill at 0x2329a80> [('skill', 'WRESTLING'), ('total_ip', '4500')]
+[('id', '36'), ('name', 'ozob slaveflinched the mole of sap'), ('race', 'FORGOTTEN_BEAST_6'), ('caste', 'DEFAULT'), ('appeared', '1'), ('birth_year', '-281'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('sphere', 'caverns'), ('sphere', 'jealousy'), ('sphere', 'water'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4500')])]
+<Element hf_skill at 0x2329490>
+<Element hf_skill at 0x2329490> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329508>
+<Element hf_skill at 0x2329508> [('skill', 'DODGING'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329648>
+<Element hf_skill at 0x2329648> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329260>
+<Element hf_skill at 0x2329260> [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x23296c0>
+<Element hf_skill at 0x23296c0> [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329738>
+<Element hf_skill at 0x2329738> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329760>
+<Element hf_skill at 0x2329760> [('skill', 'WRESTLING'), ('total_ip', '4500')]
+[('id', '37'), ('name', 'thol sunkendead'), ('race', 'FORGOTTEN_BEAST_7'), ('caste', 'DEFAULT'), ('appeared', '1'), ('birth_year', '-289'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('sphere', 'caverns'), ('sphere', 'murder'), ('sphere', 'water'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4500')])]
+<Element hf_skill at 0x2329c60>
+<Element hf_skill at 0x2329c60> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329378>
+<Element hf_skill at 0x2329378> [('skill', 'DODGING'), ('total_ip', '4500')]
+<Element hf_skill at 0x23293f0>
+<Element hf_skill at 0x23293f0> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329418>
+<Element hf_skill at 0x2329418> [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329490>
+<Element hf_skill at 0x2329490> [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329508>
+<Element hf_skill at 0x2329508> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329648>
+<Element hf_skill at 0x2329648> [('skill', 'WRESTLING'), ('total_ip', '4500')]
+[('id', '38'), ('name', 'ebol'), ('race', 'FORGOTTEN_BEAST_8'), ('caste', 'DEFAULT'), ('appeared', '1'), ('birth_year', '-209'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('sphere', 'caverns'), ('sphere', 'misery'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4500')])]
+<Element hf_skill at 0x2329f58>
+<Element hf_skill at 0x2329f58> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329fd0>
+<Element hf_skill at 0x2329fd0> [('skill', 'DODGING'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329968>
+<Element hf_skill at 0x2329968> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329c60>
+<Element hf_skill at 0x2329c60> [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329378>
+<Element hf_skill at 0x2329378> [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x23293f0>
+<Element hf_skill at 0x23293f0> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329418>
+<Element hf_skill at 0x2329418> [('skill', 'WRESTLING'), ('total_ip', '4500')]
+[('id', '39'), ('name', 'nust'), ('race', 'FORGOTTEN_BEAST_9'), ('caste', 'DEFAULT'), ('appeared', '1'), ('birth_year', '-205'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('sphere', 'caverns'), ('sphere', 'chaos'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4500')])]
+<Element hf_skill at 0x2329a80>
+<Element hf_skill at 0x2329a80> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329eb8>
+<Element hf_skill at 0x2329eb8> [('skill', 'DODGING'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329f58>
+<Element hf_skill at 0x2329f58> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329fd0>
+<Element hf_skill at 0x2329fd0> [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329968>
+<Element hf_skill at 0x2329968> [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329c60>
+<Element hf_skill at 0x2329c60> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329378>
+<Element hf_skill at 0x2329378> [('skill', 'WRESTLING'), ('total_ip', '4500')]
+[('id', '40'), ('name', 'kosmza duskclobbered the incinerated auras'), ('race', 'FORGOTTEN_BEAST_10'), ('caste', 'DEFAULT'), ('appeared', '1'), ('birth_year', '-227'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('sphere', 'caverns'), ('sphere', 'nightmares'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4500')]), ('interaction_knowledge', 'MENTALISM')]
+<Element hf_skill at 0x2329a80>
+<Element hf_skill at 0x2329a80> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329eb8>
+<Element hf_skill at 0x2329eb8> [('skill', 'DODGING'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329f58>
+<Element hf_skill at 0x2329f58> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329fd0>
+<Element hf_skill at 0x2329fd0> [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329968>
+<Element hf_skill at 0x2329968> [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329c60>
+<Element hf_skill at 0x2329c60> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329378>
+<Element hf_skill at 0x2329378> [('skill', 'WRESTLING'), ('total_ip', '4500')]
+[('id', '41'), ('name', 'ugath the ruthlessness of play'), ('race', 'FORGOTTEN_BEAST_11'), ('caste', 'DEFAULT'), ('appeared', '1'), ('birth_year', '-224'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('sphere', 'caverns'), ('sphere', 'depravity'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4500')])]
+<Element hf_skill at 0x2329eb8>
+<Element hf_skill at 0x2329eb8> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329f58>
+<Element hf_skill at 0x2329f58> [('skill', 'DODGING'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329fd0>
+<Element hf_skill at 0x2329fd0> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329968>
+<Element hf_skill at 0x2329968> [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2329c60>
+<Element hf_skill at 0x2329c60> [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2327990>
+<Element hf_skill at 0x2327990> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x23271e8>
+<Element hf_skill at 0x23271e8> [('skill', 'WRESTLING'), ('total_ip', '4500')]
+[('id', '42'), ('name', 'lene the hollow pulps-hog'), ('race', 'FORGOTTEN_BEAST_12'), ('caste', 'DEFAULT'), ('appeared', '1'), ('birth_year', '-240'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('sphere', 'caverns'), ('sphere', 'deformity'), ('sphere', 'water'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4500')])]
+<Element entity_link at 0x2329be8>
+<Element entity_link at 0x2329be8> [('link_type', 'enemy'), ('entity_id', '33')]
+<Element entity_link at 0x2329d50>
+<Element entity_link at 0x2329d50> [('link_type', 'enemy'), ('entity_id', '32')]
+<Element entity_link at 0x2329a80>
+<Element entity_link at 0x2329a80> [('link_type', 'enemy'), ('entity_id', '25')]
+<Element entity_link at 0x2329eb8>
+<Element entity_link at 0x2329eb8> [('link_type', 'enemy'), ('entity_id', '27')]
+<Element entity_link at 0x2329f58>
+<Element entity_link at 0x2329f58> [('link_type', 'enemy'), ('entity_id', '29')]
+<Element entity_link at 0x2329fd0>
+<Element entity_link at 0x2329fd0> [('link_type', 'enemy'), ('entity_id', '28')]
+<Element entity_link at 0x2329968>
+<Element entity_link at 0x2329968> [('link_type', 'enemy'), ('entity_id', '31')]
+<Element entity_link at 0x2329c60>
+<Element entity_link at 0x2329c60> [('link_type', 'enemy'), ('entity_id', '34')]
+<Element entity_link at 0x23270a8>
+<Element entity_link at 0x23270a8> [('link_type', 'enemy'), ('entity_id', '35')]
+<Element entity_link at 0x2327d28>
+<Element entity_link at 0x2327d28> [('link_type', 'enemy'), ('entity_id', '36')]
+<Element entity_link at 0x2327260>
+<Element entity_link at 0x2327260> [('link_type', 'enemy'), ('entity_id', '37')]
+<Element entity_link at 0x2327238>
+<Element entity_link at 0x2327238> [('link_type', 'enemy'), ('entity_id', '38')]
+<Element entity_link at 0x23270f8>
+<Element entity_link at 0x23270f8> [('link_type', 'enemy'), ('entity_id', '39')]
+<Element entity_link at 0x2327dc8>
+<Element entity_link at 0x2327dc8> [('link_type', 'enemy'), ('entity_id', '24')]
+<Element entity_link at 0x2327058>
+<Element entity_link at 0x2327058> [('link_type', 'enemy'), ('entity_id', '40')]
+<Element entity_link at 0x2327328>
+<Element entity_link at 0x2327328> [('link_type', 'enemy'), ('entity_id', '30')]
+<Element entity_link at 0x2327378>
+<Element entity_link at 0x2327378> [('link_type', 'enemy'), ('entity_id', '42')]
+<Element entity_link at 0x2327148>
+<Element entity_link at 0x2327148> [('link_type', 'enemy'), ('entity_id', '43')]
+<Element entity_link at 0x2327940>
+<Element entity_link at 0x2327940> [('link_type', 'enemy'), ('entity_id', '26')]
+<Element site_link at 0x2327120>
+<Element site_link at 0x2327120> [('link_type', 'lair'), ('site_id', '35')]
+<Element hf_skill at 0x2327170>
+<Element hf_skill at 0x2327170> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '18000')]
+<Element hf_skill at 0x2327be8>
+<Element hf_skill at 0x2327be8> [('skill', 'DODGING'), ('total_ip', '4500')]
+<Element hf_skill at 0x2327b48>
+<Element hf_skill at 0x2327b48> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x23272d8>
+<Element hf_skill at 0x23272d8> [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2327300>
+<Element hf_skill at 0x2327300> [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2327df0>
+<Element hf_skill at 0x2327df0> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2327e68>
+<Element hf_skill at 0x2327e68> [('skill', 'WRESTLING'), ('total_ip', '4500')]
+[('id', '43'), ('name', 'num glenmountain the snot of ivy'), ('race', 'TITAN_1'), ('caste', 'DEFAULT'), ('appeared', '1'), ('birth_year', '-183'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('entity_link', [('link_type', 'enemy'), ('entity_id', '33')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '32')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '25')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '27')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '29')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '28')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '31')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '34')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '35')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '36')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '37')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '38')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '39')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '24')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '40')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '30')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '42')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '43')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '26')]), ('site_link', [('link_type', 'lair'), ('site_id', '35')]), ('sphere', 'animals'), ('sphere', 'muck'), ('sphere', 'nature'), ('sphere', 'plants'), ('sphere', 'water'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '18000')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4500')])]
+<Element hf_skill at 0x2329fd0>
+<Element hf_skill at 0x2329fd0> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '16100')]
+<Element hf_skill at 0x2329968>
+<Element hf_skill at 0x2329968> [('skill', 'DODGING'), ('total_ip', '16100')]
+<Element hf_skill at 0x2329c60>
+<Element hf_skill at 0x2329c60> [('skill', 'RANGED_COMBAT'), ('total_ip', '16100')]
+<Element hf_skill at 0x23272b0>
+<Element hf_skill at 0x23272b0> [('skill', 'MELEE_COMBAT'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327f80>
+<Element hf_skill at 0x2327f80> [('skill', 'STANCE_STRIKE'), ('total_ip', '16100')]
+<Element hf_skill at 0x23277b0>
+<Element hf_skill at 0x23277b0> [('skill', 'GRASP_STRIKE'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327350>
+<Element hf_skill at 0x2327350> [('skill', 'BITE'), ('total_ip', '16100')]
+<Element hf_skill at 0x23273c8>
+<Element hf_skill at 0x23273c8> [('skill', 'WRESTLING'), ('total_ip', '16100')]
+[('id', '44'), ('name', 'unu the ashen phlegms'), ('race', 'DEMON_8'), ('caste', 'MALE'), ('appeared', '1'), ('birth_year', '-286'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('sphere', 'blight'), ('sphere', 'death'), ('sphere', 'suicide'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'RANGED_COMBAT'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '16100')]), ('interaction_knowledge', 'SECRET_1'), ('interaction_knowledge', 'SECRET_2'), ('interaction_knowledge', 'SECRET_3'), ('interaction_knowledge', 'SECRET_4'), ('interaction_knowledge', 'SECRET_5'), ('interaction_knowledge', 'SECRET_6'), ('interaction_knowledge', 'SECRET_7'), ('interaction_knowledge', 'SECRET_8'), ('interaction_knowledge', 'SECRET_9'), ('interaction_knowledge', 'SECRET_10'), ('interaction_knowledge', 'SECRET_11'), ('interaction_knowledge', 'SECRET_12'), ('interaction_knowledge', 'SECRET_13'), ('interaction_knowledge', 'SECRET_14'), ('interaction_knowledge', 'SECRET_15'), ('interaction_knowledge', 'SECRET_16'), ('interaction_knowledge', 'SECRET_17'), ('interaction_knowledge', 'SECRET_18'), ('interaction_knowledge', 'SECRET_19'), ('interaction_knowledge', 'SECRET_20')]
+<Element entity_link at 0x2329eb8>
+<Element entity_link at 0x2329eb8> [('link_type', 'member'), ('entity_id', '31')]
+<Element entity_link at 0x2329f58>
+<Element entity_link at 0x2329f58> [('link_type', 'member'), ('entity_id', '30')]
+<Element entity_position_link at 0x2329fd0>
+<Element entity_position_link at 0x2329fd0> [('position_profile_id', '0'), ('entity_id', '30'), ('start_year', '2')]
+<Element hf_skill at 0x23276e8>
+<Element hf_skill at 0x23276e8> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327530>
+<Element hf_skill at 0x2327530> [('skill', 'DODGING'), ('total_ip', '16100')]
+<Element hf_skill at 0x23276c0>
+<Element hf_skill at 0x23276c0> [('skill', 'RANGED_COMBAT'), ('total_ip', '16100')]
+<Element hf_skill at 0x23275d0>
+<Element hf_skill at 0x23275d0> [('skill', 'MELEE_COMBAT'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327670>
+<Element hf_skill at 0x2327670> [('skill', 'STANCE_STRIKE'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327e68>
+<Element hf_skill at 0x2327e68> [('skill', 'GRASP_STRIKE'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327238>
+<Element hf_skill at 0x2327238> [('skill', 'BITE'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327260>
+<Element hf_skill at 0x2327260> [('skill', 'WRESTLING'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327dc8>
+<Element hf_skill at 0x2327dc8> [('skill', 'ARMOR'), ('total_ip', '100')]
+<Element hf_skill at 0x2327058>
+<Element hf_skill at 0x2327058> [('skill', 'SHIELD'), ('total_ip', '100')]
+<Element hf_skill at 0x2327328>
+<Element hf_skill at 0x2327328> [('skill', 'FLATTERY'), ('total_ip', '2200')]
+<Element hf_skill at 0x2327378>
+<Element hf_skill at 0x2327378> [('skill', 'JUDGING_INTENT'), ('total_ip', '1500')]
+<Element hf_skill at 0x23270a8>
+<Element hf_skill at 0x23270a8> [('skill', 'LYING'), ('total_ip', '2200')]
+<Element hf_skill at 0x2327148>
+<Element hf_skill at 0x2327148> [('skill', 'COMEDY'), ('total_ip', '1900')]
+<Element hf_skill at 0x2327120>
+<Element hf_skill at 0x2327120> [('skill', 'PERSUASION'), ('total_ip', '2100')]
+<Element hf_skill at 0x2327710>
+<Element hf_skill at 0x2327710> [('skill', 'NEGOTIATION'), ('total_ip', '2200')]
+<Element hf_skill at 0x2327d28>
+<Element hf_skill at 0x2327d28> [('skill', 'INTIMIDATION'), ('total_ip', '1400')]
+[('id', '45'), ('name', 'ciriko suckedgland the gristly spurts'), ('race', 'DEMON_8'), ('caste', 'FEMALE'), ('appeared', '1'), ('birth_year', '-230'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('entity_link', [('link_type', 'member'), ('entity_id', '31')]), ('entity_link', [('link_type', 'member'), ('entity_id', '30')]), ('entity_position_link', [('position_profile_id', '0'), ('entity_id', '30'), ('start_year', '2')]), ('sphere', 'blight'), ('sphere', 'death'), ('sphere', 'suicide'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'RANGED_COMBAT'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'ARMOR'), ('total_ip', '100')]), ('hf_skill', [('skill', 'SHIELD'), ('total_ip', '100')]), ('hf_skill', [('skill', 'FLATTERY'), ('total_ip', '2200')]), ('hf_skill', [('skill', 'JUDGING_INTENT'), ('total_ip', '1500')]), ('hf_skill', [('skill', 'LYING'), ('total_ip', '2200')]), ('hf_skill', [('skill', 'COMEDY'), ('total_ip', '1900')]), ('hf_skill', [('skill', 'PERSUASION'), ('total_ip', '2100')]), ('hf_skill', [('skill', 'NEGOTIATION'), ('total_ip', '2200')]), ('hf_skill', [('skill', 'INTIMIDATION'), ('total_ip', '1400')]), ('interaction_knowledge', 'SECRET_1'), ('interaction_knowledge', 'SECRET_2'), ('interaction_knowledge', 'SECRET_3'), ('interaction_knowledge', 'SECRET_4'), ('interaction_knowledge', 'SECRET_5'), ('interaction_knowledge', 'SECRET_6'), ('interaction_knowledge', 'SECRET_7'), ('interaction_knowledge', 'SECRET_8'), ('interaction_knowledge', 'SECRET_9'), ('interaction_knowledge', 'SECRET_10'), ('interaction_knowledge', 'SECRET_11'), ('interaction_knowledge', 'SECRET_12'), ('interaction_knowledge', 'SECRET_13'), ('interaction_knowledge', 'SECRET_14'), ('interaction_knowledge', 'SECRET_15'), ('interaction_knowledge', 'SECRET_16'), ('interaction_knowledge', 'SECRET_17'), ('interaction_knowledge', 'SECRET_18'), ('interaction_knowledge', 'SECRET_19'), ('interaction_knowledge', 'SECRET_20')]
+<Element hf_skill at 0x2329968>
+<Element hf_skill at 0x2329968> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '16100')]
+<Element hf_skill at 0x2329c60>
+<Element hf_skill at 0x2329c60> [('skill', 'DODGING'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327be8>
+<Element hf_skill at 0x2327be8> [('skill', 'RANGED_COMBAT'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327418>
+<Element hf_skill at 0x2327418> [('skill', 'MELEE_COMBAT'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327468>
+<Element hf_skill at 0x2327468> [('skill', 'STANCE_STRIKE'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327288>
+<Element hf_skill at 0x2327288> [('skill', 'GRASP_STRIKE'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327440>
+<Element hf_skill at 0x2327440> [('skill', 'BITE'), ('total_ip', '16100')]
+<Element hf_skill at 0x23274b8>
+<Element hf_skill at 0x23274b8> [('skill', 'WRESTLING'), ('total_ip', '16100')]
+[('id', '46'), ('name', 'damid'), ('race', 'DEMON_7'), ('caste', 'DEFAULT'), ('appeared', '1'), ('birth_year', '-173'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('sphere', 'deformity'), ('sphere', 'depravity'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'RANGED_COMBAT'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '16100')])]
+<Element entity_link at 0x2329fd0>
+<Element entity_link at 0x2329fd0> [('link_type', 'member'), ('entity_id', '29'), ('link_strength', '77')]
+<Element entity_link at 0x2329968>
+<Element entity_link at 0x2329968> [('link_type', 'member'), ('entity_id', '28')]
+<Element entity_position_link at 0x2329c60>
+<Element entity_position_link at 0x2329c60> [('position_profile_id', '0'), ('entity_id', '28'), ('start_year', '5')]
+<Element site_link at 0x2327508>
+<Element site_link at 0x2327508> [('link_type', 'home site building'), ('site_id', '6'), ('sub_id', '8')]
+<Element hf_skill at 0x2327df0>
+<Element hf_skill at 0x2327df0> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '16100')]
+<Element hf_skill at 0x23275a8>
+<Element hf_skill at 0x23275a8> [('skill', 'DODGING'), ('total_ip', '16100')]
+<Element hf_skill at 0x23275f8>
+<Element hf_skill at 0x23275f8> [('skill', 'RANGED_COMBAT'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327490>
+<Element hf_skill at 0x2327490> [('skill', 'MELEE_COMBAT'), ('total_ip', '16100')]
+<Element hf_skill at 0x23274e0>
+<Element hf_skill at 0x23274e0> [('skill', 'STANCE_STRIKE'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327698>
+<Element hf_skill at 0x2327698> [('skill', 'GRASP_STRIKE'), ('total_ip', '16100')]
+<Element hf_skill at 0x23271e8>
+<Element hf_skill at 0x23271e8> [('skill', 'BITE'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327530>
+<Element hf_skill at 0x2327530> [('skill', 'WRESTLING'), ('total_ip', '16100')]
+<Element hf_skill at 0x23276c0>
+<Element hf_skill at 0x23276c0> [('skill', 'INTIMIDATION'), ('total_ip', '1900')]
+<Element hf_skill at 0x23275d0>
+<Element hf_skill at 0x23275d0> [('skill', 'JUDGING_INTENT'), ('total_ip', '1700')]
+<Element hf_skill at 0x2327670>
+<Element hf_skill at 0x2327670> [('skill', 'PERSUASION'), ('total_ip', '2000')]
+<Element hf_skill at 0x2327580>
+<Element hf_skill at 0x2327580> [('skill', 'COMEDY'), ('total_ip', '1400')]
+<Element hf_skill at 0x2327e68>
+<Element hf_skill at 0x2327e68> [('skill', 'FLATTERY'), ('total_ip', '1700')]
+<Element hf_skill at 0x2327260>
+<Element hf_skill at 0x2327260> [('skill', 'NEGOTIATION'), ('total_ip', '1200')]
+<Element hf_skill at 0x2327dc8>
+<Element hf_skill at 0x2327dc8> [('skill', 'LYING'), ('total_ip', '2100')]
+<Element hf_skill at 0x2327648>
+<Element hf_skill at 0x2327648> [('skill', 'MILITARY_TACTICS'), ('total_ip', '1000')]
+<Element hf_skill at 0x2327058>
+<Element hf_skill at 0x2327058> [('skill', 'LEADERSHIP'), ('total_ip', '1000')]
+<Element hf_skill at 0x2327378>
+<Element hf_skill at 0x2327378> [('skill', 'ORGANIZATION'), ('total_ip', '1000')]
+<Element hf_skill at 0x23270a8>
+<Element hf_skill at 0x23270a8> [('skill', 'HAMMER'), ('total_ip', '2700')]
+<Element hf_skill at 0x23276e8>
+<Element hf_skill at 0x23276e8> [('skill', 'SHIELD'), ('total_ip', '1400')]
+<Element hf_skill at 0x2327148>
+<Element hf_skill at 0x2327148> [('skill', 'ARMOR'), ('total_ip', '1400')]
+[('id', '47'), ('name', 'zulast findevil the blue vulture'), ('race', 'DEMON_6'), ('caste', 'DEFAULT'), ('appeared', '1'), ('birth_year', '-217'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'ADMINISTRATOR'), ('entity_link', [('link_type', 'member'), ('entity_id', '29'), ('link_strength', '77')]), ('entity_link', [('link_type', 'member'), ('entity_id', '28')]), ('entity_position_link', [('position_profile_id', '0'), ('entity_id', '28'), ('start_year', '5')]), ('site_link', [('link_type', 'home site building'), ('site_id', '6'), ('sub_id', '8')]), ('sphere', 'nightmares'), ('sphere', 'oceans'), ('sphere', 'salt'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'RANGED_COMBAT'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'INTIMIDATION'), ('total_ip', '1900')]), ('hf_skill', [('skill', 'JUDGING_INTENT'), ('total_ip', '1700')]), ('hf_skill', [('skill', 'PERSUASION'), ('total_ip', '2000')]), ('hf_skill', [('skill', 'COMEDY'), ('total_ip', '1400')]), ('hf_skill', [('skill', 'FLATTERY'), ('total_ip', '1700')]), ('hf_skill', [('skill', 'NEGOTIATION'), ('total_ip', '1200')]), ('hf_skill', [('skill', 'LYING'), ('total_ip', '2100')]), ('hf_skill', [('skill', 'MILITARY_TACTICS'), ('total_ip', '1000')]), ('hf_skill', [('skill', 'LEADERSHIP'), ('total_ip', '1000')]), ('hf_skill', [('skill', 'ORGANIZATION'), ('total_ip', '1000')]), ('hf_skill', [('skill', 'HAMMER'), ('total_ip', '2700')]), ('hf_skill', [('skill', 'SHIELD'), ('total_ip', '1400')]), ('hf_skill', [('skill', 'ARMOR'), ('total_ip', '1400')]), ('journey_pet', 'GIANT_CROW'), ('journey_pet', 'GIANT_SNAIL'), ('interaction_knowledge', 'MENTALISM'), ('current_identity_id', '0'), ('used_identity_id', '0')]
+<Element hf_skill at 0x23270f8>
+<Element hf_skill at 0x23270f8> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327b48>
+<Element hf_skill at 0x2327b48> [('skill', 'DODGING'), ('total_ip', '16100')]
+<Element hf_skill at 0x23274b8>
+<Element hf_skill at 0x23274b8> [('skill', 'RANGED_COMBAT'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327be8>
+<Element hf_skill at 0x2327be8> [('skill', 'MELEE_COMBAT'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327418>
+<Element hf_skill at 0x2327418> [('skill', 'STANCE_STRIKE'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327e40>
+<Element hf_skill at 0x2327e40> [('skill', 'GRASP_STRIKE'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327468>
+<Element hf_skill at 0x2327468> [('skill', 'BITE'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327440>
+<Element hf_skill at 0x2327440> [('skill', 'WRESTLING'), ('total_ip', '16100')]
+[('id', '48'), ('name', 'tireve glumworn the poisoned drips'), ('race', 'DEMON_5'), ('caste', 'MALE'), ('appeared', '1'), ('birth_year', '-182'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('sphere', 'misery'), ('sphere', 'sky'), ('sphere', 'torture'), ('sphere', 'wind'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'RANGED_COMBAT'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '16100')])]
+<Element hf_skill at 0x23272d8>
+<Element hf_skill at 0x23272d8> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327620>
+<Element hf_skill at 0x2327620> [('skill', 'DODGING'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327f80>
+<Element hf_skill at 0x2327f80> [('skill', 'RANGED_COMBAT'), ('total_ip', '16100')]
+<Element hf_skill at 0x23277b0>
+<Element hf_skill at 0x23277b0> [('skill', 'MELEE_COMBAT'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327da0>
+<Element hf_skill at 0x2327da0> [('skill', 'STANCE_STRIKE'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327350>
+<Element hf_skill at 0x2327350> [('skill', 'GRASP_STRIKE'), ('total_ip', '16100')]
+<Element hf_skill at 0x2327940>
+<Element hf_skill at 0x2327940> [('skill', 'BITE'), ('total_ip', '16100')]
+<Element hf_skill at 0x23272b0>
+<Element hf_skill at 0x23272b0> [('skill', 'WRESTLING'), ('total_ip', '16100')]
+[('id', '49'), ('name', 'islas the bejeweled stalker'), ('race', 'DEMON_5'), ('caste', 'FEMALE'), ('appeared', '1'), ('birth_year', '-199'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('sphere', 'misery'), ('sphere', 'sky'), ('sphere', 'torture'), ('sphere', 'wind'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'RANGED_COMBAT'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '16100')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '16100')])]
+<Element hf_link at 0x2327698>
+<Element hf_link at 0x2327698> [('link_type', 'child'), ('hfid', '166')]
+<Element entity_link at 0x23273c8>
+<Element entity_link at 0x23273c8> [('link_type', 'enemy'), ('entity_id', '25')]
+<Element entity_link at 0x2327170>
+<Element entity_link at 0x2327170> [('link_type', 'enemy'), ('entity_id', '27')]
+<Element entity_link at 0x23273a0>
+<Element entity_link at 0x23273a0> [('link_type', 'enemy'), ('entity_id', '29')]
+<Element entity_link at 0x2327508>
+<Element entity_link at 0x2327508> [('link_type', 'enemy'), ('entity_id', '28')]
+<Element entity_link at 0x2327558>
+<Element entity_link at 0x2327558> [('link_type', 'enemy'), ('entity_id', '31')]
+<Element entity_link at 0x2327990>
+<Element entity_link at 0x2327990> [('link_type', 'enemy'), ('entity_id', '34')]
+<Element entity_link at 0x2327670>
+<Element entity_link at 0x2327670> [('link_type', 'enemy'), ('entity_id', '35')]
+<Element entity_link at 0x2327288>
+<Element entity_link at 0x2327288> [('link_type', 'enemy'), ('entity_id', '36')]
+<Element entity_link at 0x23273f0>
+<Element entity_link at 0x23273f0> [('link_type', 'enemy'), ('entity_id', '37')]
+<Element entity_link at 0x23275d0>
+<Element entity_link at 0x23275d0> [('link_type', 'enemy'), ('entity_id', '38')]
+<Element entity_link at 0x2327490>
+<Element entity_link at 0x2327490> [('link_type', 'enemy'), ('entity_id', '39')]
+<Element entity_link at 0x23271e8>
+<Element entity_link at 0x23271e8> [('link_type', 'enemy'), ('entity_id', '40')]
+<Element entity_link at 0x2327530>
+<Element entity_link at 0x2327530> [('link_type', 'enemy'), ('entity_id', '30')]
+<Element entity_link at 0x2327760>
+<Element entity_link at 0x2327760> [('link_type', 'enemy'), ('entity_id', '41')]
+<Element entity_link at 0x23276c0>
+<Element entity_link at 0x23276c0> [('link_type', 'enemy'), ('entity_id', '42')]
+<Element entity_link at 0x2327df0>
+<Element entity_link at 0x2327df0> [('link_type', 'enemy'), ('entity_id', '43')]
+<Element entity_link at 0x2327e68>
+<Element entity_link at 0x2327e68> [('link_type', 'enemy'), ('entity_id', '26')]
+<Element entity_link at 0x2327580>
+<Element entity_link at 0x2327580> [('link_type', 'enemy'), ('entity_id', '44')]
+<Element entity_link at 0x2327260>
+<Element entity_link at 0x2327260> [('link_type', 'enemy'), ('entity_id', '24')]
+<Element site_link at 0x23275f8>
+<Element site_link at 0x23275f8> [('link_type', 'lair'), ('site_id', '24')]
+<Element hf_skill at 0x2327440>
+<Element hf_skill at 0x2327440> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x2327328>
+<Element hf_skill at 0x2327328> [('skill', 'DODGING'), ('total_ip', '5500')]
+<Element hf_skill at 0x23270f8>
+<Element hf_skill at 0x23270f8> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x23274e0>
+<Element hf_skill at 0x23274e0> [('skill', 'STANCE_STRIKE'), ('total_ip', '4830')]
+<Element hf_skill at 0x2327b48>
+<Element hf_skill at 0x2327b48> [('skill', 'GRASP_STRIKE'), ('total_ip', '4830')]
+<Element hf_skill at 0x2327be8>
+<Element hf_skill at 0x2327be8> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2327418>
+<Element hf_skill at 0x2327418> [('skill', 'WRESTLING'), ('total_ip', '4830')]
+<Element hf_skill at 0x23275a8>
+<Element hf_skill at 0x23275a8> [('skill', 'ARMOR'), ('total_ip', '1000')]
+<Element hf_skill at 0x2327e40>
+<Element hf_skill at 0x2327e40> [('skill', 'SHIELD'), ('total_ip', '1000')]
+[('id', '50'), ('name', 'oreme burialdusk the fatal tombs'), ('race', 'NIGHT_CREATURE_10'), ('caste', 'FEMALE'), ('appeared', '1'), ('birth_year', '-173'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('hf_link', [('link_type', 'child'), ('hfid', '166')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '25')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '27')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '29')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '28')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '31')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '34')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '35')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '36')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '37')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '38')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '39')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '40')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '30')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '41')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '42')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '43')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '26')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '44')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '24')]), ('site_link', [('link_type', 'lair'), ('site_id', '24')]), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '5500')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4830')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4830')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4830')]), ('hf_skill', [('skill', 'ARMOR'), ('total_ip', '1000')]), ('hf_skill', [('skill', 'SHIELD'), ('total_ip', '1000')])]
+<Element hf_link at 0x232c288>
+<Element hf_link at 0x232c288> [('link_type', 'child'), ('hfid', '156')]
+<Element hf_link at 0x232c120>
+<Element hf_link at 0x232c120> [('link_type', 'child'), ('hfid', '216')]
+<Element entity_link at 0x232c440>
+<Element entity_link at 0x232c440> [('link_type', 'enemy'), ('entity_id', '25')]
+<Element entity_link at 0x232c030>
+<Element entity_link at 0x232c030> [('link_type', 'enemy'), ('entity_id', '27')]
+<Element entity_link at 0x232c328>
+<Element entity_link at 0x232c328> [('link_type', 'enemy'), ('entity_id', '29')]
+<Element entity_link at 0x232c260>
+<Element entity_link at 0x232c260> [('link_type', 'enemy'), ('entity_id', '28')]
+<Element entity_link at 0x232c558>
+<Element entity_link at 0x232c558> [('link_type', 'enemy'), ('entity_id', '31')]
+<Element entity_link at 0x232c3c8>
+<Element entity_link at 0x232c3c8> [('link_type', 'enemy'), ('entity_id', '34')]
+<Element entity_link at 0x232c378>
+<Element entity_link at 0x232c378> [('link_type', 'enemy'), ('entity_id', '35')]
+<Element entity_link at 0x232c1c0>
+<Element entity_link at 0x232c1c0> [('link_type', 'enemy'), ('entity_id', '36')]
+<Element entity_link at 0x232c468>
+<Element entity_link at 0x232c468> [('link_type', 'enemy'), ('entity_id', '37')]
+<Element entity_link at 0x232c580>
+<Element entity_link at 0x232c580> [('link_type', 'enemy'), ('entity_id', '38')]
+<Element entity_link at 0x232c418>
+<Element entity_link at 0x232c418> [('link_type', 'enemy'), ('entity_id', '39')]
+<Element entity_link at 0x232c2b0>
+<Element entity_link at 0x232c2b0> [('link_type', 'enemy'), ('entity_id', '40')]
+<Element entity_link at 0x232c508>
+<Element entity_link at 0x232c508> [('link_type', 'enemy'), ('entity_id', '30')]
+<Element entity_link at 0x232c620>
+<Element entity_link at 0x232c620> [('link_type', 'enemy'), ('entity_id', '41')]
+<Element entity_link at 0x232c4b8>
+<Element entity_link at 0x232c4b8> [('link_type', 'enemy'), ('entity_id', '42')]
+<Element entity_link at 0x232c350>
+<Element entity_link at 0x232c350> [('link_type', 'enemy'), ('entity_id', '43')]
+<Element entity_link at 0x232c788>
+<Element entity_link at 0x232c788> [('link_type', 'enemy'), ('entity_id', '26')]
+<Element entity_link at 0x232c530>
+<Element entity_link at 0x232c530> [('link_type', 'enemy'), ('entity_id', '44')]
+<Element entity_link at 0x232c5f8>
+<Element entity_link at 0x232c5f8> [('link_type', 'enemy'), ('entity_id', '24')]
+<Element site_link at 0x232c4e0>
+<Element site_link at 0x232c4e0> [('link_type', 'lair'), ('site_id', '20')]
+<Element hf_skill at 0x232c760>
+<Element hf_skill at 0x232c760> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x232c7d8>
+<Element hf_skill at 0x232c7d8> [('skill', 'DODGING'), ('total_ip', '4700')]
+<Element hf_skill at 0x232c490>
+<Element hf_skill at 0x232c490> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x232c648>
+<Element hf_skill at 0x232c648> [('skill', 'STANCE_STRIKE'), ('total_ip', '4566')]
+<Element hf_skill at 0x232c6c0>
+<Element hf_skill at 0x232c6c0> [('skill', 'GRASP_STRIKE'), ('total_ip', '4566')]
+<Element hf_skill at 0x232c6e8>
+<Element hf_skill at 0x232c6e8> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x232c5a8>
+<Element hf_skill at 0x232c5a8> [('skill', 'WRESTLING'), ('total_ip', '4566')]
+<Element hf_skill at 0x232c8c8>
+<Element hf_skill at 0x232c8c8> [('skill', 'ARMOR'), ('total_ip', '200')]
+<Element hf_skill at 0x232c3f0>
+<Element hf_skill at 0x232c3f0> [('skill', 'SHIELD'), ('total_ip', '200')]
+[('id', '51'), ('name', 'uktang'), ('race', 'NIGHT_CREATURE_9'), ('caste', 'MALE'), ('appeared', '1'), ('birth_year', '-177'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('hf_link', [('link_type', 'child'), ('hfid', '156')]), ('hf_link', [('link_type', 'child'), ('hfid', '216')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '25')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '27')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '29')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '28')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '31')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '34')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '35')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '36')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '37')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '38')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '39')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '40')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '30')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '41')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '42')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '43')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '26')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '44')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '24')]), ('site_link', [('link_type', 'lair'), ('site_id', '20')]), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4700')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4566')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4566')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4566')]), ('hf_skill', [('skill', 'ARMOR'), ('total_ip', '200')]), ('hf_skill', [('skill', 'SHIELD'), ('total_ip', '200')])]
+<Element entity_link at 0x2327238>
+<Element entity_link at 0x2327238> [('link_type', 'enemy'), ('entity_id', '25')]
+<Element entity_link at 0x2327620>
+<Element entity_link at 0x2327620> [('link_type', 'enemy'), ('entity_id', '27')]
+<Element entity_link at 0x2327710>
+<Element entity_link at 0x2327710> [('link_type', 'enemy'), ('entity_id', '29')]
+<Element entity_link at 0x2327d28>
+<Element entity_link at 0x2327d28> [('link_type', 'enemy'), ('entity_id', '28')]
+<Element entity_link at 0x2327148>
+<Element entity_link at 0x2327148> [('link_type', 'enemy'), ('entity_id', '31')]
+<Element entity_link at 0x2327da0>
+<Element entity_link at 0x2327da0> [('link_type', 'enemy'), ('entity_id', '34')]
+<Element entity_link at 0x2327350>
+<Element entity_link at 0x2327350> [('link_type', 'enemy'), ('entity_id', '35')]
+<Element entity_link at 0x2327e40>
+<Element entity_link at 0x2327e40> [('link_type', 'enemy'), ('entity_id', '36')]
+<Element entity_link at 0x23273c8>
+<Element entity_link at 0x23273c8> [('link_type', 'enemy'), ('entity_id', '37')]
+<Element entity_link at 0x2327300>
+<Element entity_link at 0x2327300> [('link_type', 'enemy'), ('entity_id', '38')]
+<Element entity_link at 0x2327698>
+<Element entity_link at 0x2327698> [('link_type', 'enemy'), ('entity_id', '39')]
+<Element entity_link at 0x2327508>
+<Element entity_link at 0x2327508> [('link_type', 'enemy'), ('entity_id', '40')]
+<Element entity_link at 0x2327b70>
+<Element entity_link at 0x2327b70> [('link_type', 'enemy'), ('entity_id', '30')]
+<Element entity_link at 0x2327558>
+<Element entity_link at 0x2327558> [('link_type', 'enemy'), ('entity_id', '41')]
+<Element entity_link at 0x2327288>
+<Element entity_link at 0x2327288> [('link_type', 'enemy'), ('entity_id', '42')]
+<Element entity_link at 0x2327b20>
+<Element entity_link at 0x2327b20> [('link_type', 'enemy'), ('entity_id', '43')]
+<Element entity_link at 0x2327670>
+<Element entity_link at 0x2327670> [('link_type', 'enemy'), ('entity_id', '26')]
+<Element entity_link at 0x23275d0>
+<Element entity_link at 0x23275d0> [('link_type', 'enemy'), ('entity_id', '44')]
+<Element entity_link at 0x2327170>
+<Element entity_link at 0x2327170> [('link_type', 'enemy'), ('entity_id', '24')]
+<Element site_link at 0x2327490>
+<Element site_link at 0x2327490> [('link_type', 'lair'), ('site_id', '34')]
+<Element hf_skill at 0x23271e8>
+<Element hf_skill at 0x23271e8> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x2327530>
+<Element hf_skill at 0x2327530> [('skill', 'DODGING'), ('total_ip', '4900')]
+<Element hf_skill at 0x23273a0>
+<Element hf_skill at 0x23273a0> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x2327760>
+<Element hf_skill at 0x2327760> [('skill', 'STANCE_STRIKE'), ('total_ip', '4632')]
+<Element hf_skill at 0x2327df0>
+<Element hf_skill at 0x2327df0> [('skill', 'GRASP_STRIKE'), ('total_ip', '4632')]
+<Element hf_skill at 0x2327e68>
+<Element hf_skill at 0x2327e68> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2327990>
+<Element hf_skill at 0x2327990> [('skill', 'WRESTLING'), ('total_ip', '4632')]
+<Element hf_skill at 0x2327580>
+<Element hf_skill at 0x2327580> [('skill', 'ARMOR'), ('total_ip', '400')]
+<Element hf_skill at 0x23275f8>
+<Element hf_skill at 0x23275f8> [('skill', 'SHIELD'), ('total_ip', '400')]
+[('id', '52'), ('name', 'os tunneledashes the dead shadows'), ('race', 'NIGHT_CREATURE_8'), ('caste', 'FEMALE'), ('appeared', '1'), ('birth_year', '-213'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('entity_link', [('link_type', 'enemy'), ('entity_id', '25')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '27')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '29')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '28')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '31')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '34')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '35')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '36')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '37')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '38')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '39')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '40')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '30')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '41')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '42')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '43')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '26')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '44')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '24')]), ('site_link', [('link_type', 'lair'), ('site_id', '34')]), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4900')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4632')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4632')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4632')]), ('hf_skill', [('skill', 'ARMOR'), ('total_ip', '400')]), ('hf_skill', [('skill', 'SHIELD'), ('total_ip', '400')])]
+<Element entity_link at 0x2329fd0>
+<Element entity_link at 0x2329fd0> [('link_type', 'enemy'), ('entity_id', '25')]
+<Element entity_link at 0x2329be8>
+<Element entity_link at 0x2329be8> [('link_type', 'enemy'), ('entity_id', '27')]
+<Element entity_link at 0x23274e0>
+<Element entity_link at 0x23274e0> [('link_type', 'enemy'), ('entity_id', '29')]
+<Element entity_link at 0x2327120>
+<Element entity_link at 0x2327120> [('link_type', 'enemy'), ('entity_id', '28')]
+<Element entity_link at 0x2327210>
+<Element entity_link at 0x2327210> [('link_type', 'enemy'), ('entity_id', '31')]
+<Element entity_link at 0x2327440>
+<Element entity_link at 0x2327440> [('link_type', 'enemy'), ('entity_id', '34')]
+<Element entity_link at 0x23273f0>
+<Element entity_link at 0x23273f0> [('link_type', 'enemy'), ('entity_id', '35')]
+<Element entity_link at 0x2327328>
+<Element entity_link at 0x2327328> [('link_type', 'enemy'), ('entity_id', '36')]
+<Element entity_link at 0x2327be8>
+<Element entity_link at 0x2327be8> [('link_type', 'enemy'), ('entity_id', '37')]
+<Element entity_link at 0x23276c0>
+<Element entity_link at 0x23276c0> [('link_type', 'enemy'), ('entity_id', '38')]
+<Element entity_link at 0x2327b48>
+<Element entity_link at 0x2327b48> [('link_type', 'enemy'), ('entity_id', '39')]
+<Element entity_link at 0x2327418>
+<Element entity_link at 0x2327418> [('link_type', 'enemy'), ('entity_id', '40')]
+<Element entity_link at 0x2327260>
+<Element entity_link at 0x2327260> [('link_type', 'enemy'), ('entity_id', '30')]
+<Element entity_link at 0x23270f8>
+<Element entity_link at 0x23270f8> [('link_type', 'enemy'), ('entity_id', '41')]
+<Element entity_link at 0x23275a8>
+<Element entity_link at 0x23275a8> [('link_type', 'enemy'), ('entity_id', '42')]
+<Element entity_link at 0x23275f8>
+<Element entity_link at 0x23275f8> [('link_type', 'enemy'), ('entity_id', '43')]
+<Element entity_link at 0x2327dc8>
+<Element entity_link at 0x2327dc8> [('link_type', 'enemy'), ('entity_id', '26')]
+<Element entity_link at 0x2327468>
+<Element entity_link at 0x2327468> [('link_type', 'enemy'), ('entity_id', '44')]
+<Element entity_link at 0x2327f80>
+<Element entity_link at 0x2327f80> [('link_type', 'enemy'), ('entity_id', '24')]
+<Element site_link at 0x23274b8>
+<Element site_link at 0x23274b8> [('link_type', 'lair'), ('site_id', '33')]
+<Element hf_skill at 0x23272d8>
+<Element hf_skill at 0x23272d8> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x23277b0>
+<Element hf_skill at 0x23277b0> [('skill', 'DODGING'), ('total_ip', '5300')]
+<Element hf_skill at 0x23276e8>
+<Element hf_skill at 0x23276e8> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x2327378>
+<Element hf_skill at 0x2327378> [('skill', 'STANCE_STRIKE'), ('total_ip', '4764')]
+<Element hf_skill at 0x2327940>
+<Element hf_skill at 0x2327940> [('skill', 'GRASP_STRIKE'), ('total_ip', '4764')]
+<Element hf_skill at 0x23270a8>
+<Element hf_skill at 0x23270a8> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2327238>
+<Element hf_skill at 0x2327238> [('skill', 'WRESTLING'), ('total_ip', '4764')]
+<Element hf_skill at 0x2327620>
+<Element hf_skill at 0x2327620> [('skill', 'ARMOR'), ('total_ip', '800')]
+<Element hf_skill at 0x2327710>
+<Element hf_skill at 0x2327710> [('skill', 'SHIELD'), ('total_ip', '800')]
+[('id', '53'), ('name', 'lomifo dustburied'), ('race', 'NIGHT_CREATURE_7'), ('caste', 'MALE'), ('appeared', '1'), ('birth_year', '-167'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('entity_link', [('link_type', 'enemy'), ('entity_id', '25')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '27')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '29')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '28')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '31')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '34')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '35')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '36')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '37')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '38')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '39')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '40')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '30')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '41')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '42')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '43')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '26')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '44')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '24')]), ('site_link', [('link_type', 'lair'), ('site_id', '33')]), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '5300')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4764')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4764')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4764')]), ('hf_skill', [('skill', 'ARMOR'), ('total_ip', '800')]), ('hf_skill', [('skill', 'SHIELD'), ('total_ip', '800')])]
+<Element entity_link at 0x232c670>
+<Element entity_link at 0x232c670> [('link_type', 'enemy'), ('entity_id', '25')]
+<Element entity_link at 0x232ca08>
+<Element entity_link at 0x232ca08> [('link_type', 'enemy'), ('entity_id', '27')]
+<Element entity_link at 0x232c800>
+<Element entity_link at 0x232c800> [('link_type', 'enemy'), ('entity_id', '29')]
+<Element entity_link at 0x232c9e0>
+<Element entity_link at 0x232c9e0> [('link_type', 'enemy'), ('entity_id', '28')]
+<Element entity_link at 0x232c738>
+<Element entity_link at 0x232c738> [('link_type', 'enemy'), ('entity_id', '31')]
+<Element entity_link at 0x232cad0>
+<Element entity_link at 0x232cad0> [('link_type', 'enemy'), ('entity_id', '34')]
+<Element entity_link at 0x232cc88>
+<Element entity_link at 0x232cc88> [('link_type', 'enemy'), ('entity_id', '35')]
+<Element entity_link at 0x232caf8>
+<Element entity_link at 0x232caf8> [('link_type', 'enemy'), ('entity_id', '36')]
+<Element entity_link at 0x232c850>
+<Element entity_link at 0x232c850> [('link_type', 'enemy'), ('entity_id', '37')]
+<Element entity_link at 0x232cb48>
+<Element entity_link at 0x232cb48> [('link_type', 'enemy'), ('entity_id', '38')]
+<Element entity_link at 0x232c968>
+<Element entity_link at 0x232c968> [('link_type', 'enemy'), ('entity_id', '39')]
+<Element entity_link at 0x232ca30>
+<Element entity_link at 0x232ca30> [('link_type', 'enemy'), ('entity_id', '40')]
+<Element entity_link at 0x232cb98>
+<Element entity_link at 0x232cb98> [('link_type', 'enemy'), ('entity_id', '30')]
+<Element entity_link at 0x232cdf0>
+<Element entity_link at 0x232cdf0> [('link_type', 'enemy'), ('entity_id', '41')]
+<Element entity_link at 0x232cfa8>
+<Element entity_link at 0x232cfa8> [('link_type', 'enemy'), ('entity_id', '42')]
+<Element entity_link at 0x232cbc0>
+<Element entity_link at 0x232cbc0> [('link_type', 'enemy'), ('entity_id', '43')]
+<Element entity_link at 0x232c8f0>
+<Element entity_link at 0x232c8f0> [('link_type', 'enemy'), ('entity_id', '26')]
+<Element entity_link at 0x232ce40>
+<Element entity_link at 0x232ce40> [('link_type', 'enemy'), ('entity_id', '44')]
+<Element entity_link at 0x232c9b8>
+<Element entity_link at 0x232c9b8> [('link_type', 'enemy'), ('entity_id', '24')]
+<Element site_link at 0x232cc60>
+<Element site_link at 0x232cc60> [('link_type', 'lair'), ('site_id', '32')]
+<Element hf_skill at 0x232cb70>
+<Element hf_skill at 0x232cb70> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x232cd00>
+<Element hf_skill at 0x232cd00> [('skill', 'DODGING'), ('total_ip', '6700')]
+<Element hf_skill at 0x232c828>
+<Element hf_skill at 0x232c828> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x232cee0>
+<Element hf_skill at 0x232cee0> [('skill', 'STANCE_STRIKE'), ('total_ip', '5226')]
+<Element hf_skill at 0x232cd28>
+<Element hf_skill at 0x232cd28> [('skill', 'GRASP_STRIKE'), ('total_ip', '5226')]
+<Element hf_skill at 0x232cdc8>
+<Element hf_skill at 0x232cdc8> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x232cc10>
+<Element hf_skill at 0x232cc10> [('skill', 'WRESTLING'), ('total_ip', '5226')]
+<Element hf_skill at 0x232cf80>
+<Element hf_skill at 0x232cf80> [('skill', 'ARMOR'), ('total_ip', '2200')]
+<Element hf_skill at 0x232cc38>
+<Element hf_skill at 0x232cc38> [('skill', 'SHIELD'), ('total_ip', '2200')]
+[('id', '54'), ('name', 'obi urnfate the skull of dying'), ('race', 'NIGHT_CREATURE_6'), ('caste', 'MALE'), ('appeared', '1'), ('birth_year', '-174'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('entity_link', [('link_type', 'enemy'), ('entity_id', '25')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '27')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '29')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '28')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '31')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '34')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '35')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '36')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '37')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '38')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '39')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '40')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '30')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '41')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '42')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '43')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '26')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '44')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '24')]), ('site_link', [('link_type', 'lair'), ('site_id', '32')]), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '6700')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '5226')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '5226')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '5226')]), ('hf_skill', [('skill', 'ARMOR'), ('total_ip', '2200')]), ('hf_skill', [('skill', 'SHIELD'), ('total_ip', '2200')])]
+<Element entity_link at 0x2329490>
+<Element entity_link at 0x2329490> [('link_type', 'enemy'), ('entity_id', '31')]
+<Element entity_link at 0x2327d28>
+<Element entity_link at 0x2327d28> [('link_type', 'enemy'), ('entity_id', '33')]
+<Element entity_link at 0x2327da0>
+<Element entity_link at 0x2327da0> [('link_type', 'enemy'), ('entity_id', '32')]
+<Element entity_link at 0x2327148>
+<Element entity_link at 0x2327148> [('link_type', 'enemy'), ('entity_id', '27')]
+<Element entity_link at 0x2327e40>
+<Element entity_link at 0x2327e40> [('link_type', 'enemy'), ('entity_id', '29')]
+<Element entity_link at 0x2327300>
+<Element entity_link at 0x2327300> [('link_type', 'enemy'), ('entity_id', '28')]
+<Element entity_link at 0x23273c8>
+<Element entity_link at 0x23273c8> [('link_type', 'enemy'), ('entity_id', '35')]
+<Element entity_link at 0x2327558>
+<Element entity_link at 0x2327558> [('link_type', 'enemy'), ('entity_id', '36')]
+<Element entity_link at 0x2327b20>
+<Element entity_link at 0x2327b20> [('link_type', 'enemy'), ('entity_id', '37')]
+<Element entity_link at 0x2327058>
+<Element entity_link at 0x2327058> [('link_type', 'enemy'), ('entity_id', '38')]
+<Element entity_link at 0x2327b70>
+<Element entity_link at 0x2327b70> [('link_type', 'enemy'), ('entity_id', '39')]
+<Element entity_link at 0x23272b0>
+<Element entity_link at 0x23272b0> [('link_type', 'enemy'), ('entity_id', '40')]
+<Element entity_link at 0x2327490>
+<Element entity_link at 0x2327490> [('link_type', 'enemy'), ('entity_id', '30')]
+<Element entity_link at 0x2327350>
+<Element entity_link at 0x2327350> [('link_type', 'enemy'), ('entity_id', '41')]
+<Element entity_link at 0x2327670>
+<Element entity_link at 0x2327670> [('link_type', 'enemy'), ('entity_id', '42')]
+<Element entity_link at 0x2327698>
+<Element entity_link at 0x2327698> [('link_type', 'enemy'), ('entity_id', '43')]
+<Element entity_link at 0x2327760>
+<Element entity_link at 0x2327760> [('link_type', 'enemy'), ('entity_id', '26')]
+<Element entity_link at 0x2327508>
+<Element entity_link at 0x2327508> [('link_type', 'enemy'), ('entity_id', '44')]
+<Element entity_link at 0x23271e8>
+<Element entity_link at 0x23271e8> [('link_type', 'enemy'), ('entity_id', '24')]
+<Element site_link at 0x2327288>
+<Element site_link at 0x2327288> [('link_type', 'lair'), ('site_id', '31')]
+<Element hf_skill at 0x2327580>
+<Element hf_skill at 0x2327580> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x23275d0>
+<Element hf_skill at 0x23275d0> [('skill', 'DODGING'), ('total_ip', '5300')]
+<Element hf_skill at 0x2327df0>
+<Element hf_skill at 0x2327df0> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x2327990>
+<Element hf_skill at 0x2327990> [('skill', 'STANCE_STRIKE'), ('total_ip', '4764')]
+<Element hf_skill at 0x2327530>
+<Element hf_skill at 0x2327530> [('skill', 'GRASP_STRIKE'), ('total_ip', '4764')]
+<Element hf_skill at 0x2327710>
+<Element hf_skill at 0x2327710> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x2327210>
+<Element hf_skill at 0x2327210> [('skill', 'WRESTLING'), ('total_ip', '4764')]
+<Element hf_skill at 0x2327e68>
+<Element hf_skill at 0x2327e68> [('skill', 'ARMOR'), ('total_ip', '800')]
+<Element hf_skill at 0x2327120>
+<Element hf_skill at 0x2327120> [('skill', 'SHIELD'), ('total_ip', '800')]
+[('id', '55'), ('name', 'mondul fatecavern'), ('race', 'NIGHT_CREATURE_5'), ('caste', 'FEMALE'), ('appeared', '1'), ('birth_year', '-177'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('entity_link', [('link_type', 'enemy'), ('entity_id', '31')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '33')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '32')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '27')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '29')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '28')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '35')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '36')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '37')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '38')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '39')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '40')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '30')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '41')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '42')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '43')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '26')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '44')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '24')]), ('site_link', [('link_type', 'lair'), ('site_id', '31')]), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '5300')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4764')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4764')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4764')]), ('hf_skill', [('skill', 'ARMOR'), ('total_ip', '800')]), ('hf_skill', [('skill', 'SHIELD'), ('total_ip', '800')])]
+<Element hf_link at 0x232cf58>
+<Element hf_link at 0x232cf58> [('link_type', 'child'), ('hfid', '139')]
+<Element entity_link at 0x232c238>
+<Element entity_link at 0x232c238> [('link_type', 'enemy'), ('entity_id', '29')]
+<Element entity_link at 0x232cd50>
+<Element entity_link at 0x232cd50> [('link_type', 'enemy'), ('entity_id', '28')]
+<Element entity_link at 0x232c558>
+<Element entity_link at 0x232c558> [('link_type', 'enemy'), ('entity_id', '27')]
+<Element entity_link at 0x232cd78>
+<Element entity_link at 0x232cd78> [('link_type', 'enemy'), ('entity_id', '31')]
+<Element entity_link at 0x232ca80>
+<Element entity_link at 0x232ca80> [('link_type', 'enemy'), ('entity_id', '34')]
+<Element entity_link at 0x232c6e8>
+<Element entity_link at 0x232c6e8> [('link_type', 'enemy'), ('entity_id', '35')]
+<Element entity_link at 0x232c288>
+<Element entity_link at 0x232c288> [('link_type', 'enemy'), ('entity_id', '37')]
+<Element entity_link at 0x232c1c0>
+<Element entity_link at 0x232c1c0> [('link_type', 'enemy'), ('entity_id', '38')]
+<Element entity_link at 0x232c2d8>
+<Element entity_link at 0x232c2d8> [('link_type', 'enemy'), ('entity_id', '40')]
+<Element entity_link at 0x232cf08>
+<Element entity_link at 0x232cf08> [('link_type', 'enemy'), ('entity_id', '30')]
+<Element entity_link at 0x232c030>
+<Element entity_link at 0x232c030> [('link_type', 'enemy'), ('entity_id', '42')]
+<Element entity_link at 0x232c2b0>
+<Element entity_link at 0x232c2b0> [('link_type', 'enemy'), ('entity_id', '43')]
+<Element entity_link at 0x232ce90>
+<Element entity_link at 0x232ce90> [('link_type', 'enemy'), ('entity_id', '26')]
+<Element site_link at 0x232c440>
+<Element site_link at 0x232c440> [('link_type', 'lair'), ('site_id', '30')]
+<Element hf_skill at 0x232c260>
+<Element hf_skill at 0x232c260> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x232c350>
+<Element hf_skill at 0x232c350> [('skill', 'DODGING'), ('total_ip', '5600')]
+<Element hf_skill at 0x232c3a0>
+<Element hf_skill at 0x232c3a0> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x232c378>
+<Element hf_skill at 0x232c378> [('skill', 'STANCE_STRIKE'), ('total_ip', '4863')]
+<Element hf_skill at 0x232c3c8>
+<Element hf_skill at 0x232c3c8> [('skill', 'GRASP_STRIKE'), ('total_ip', '4863')]
+<Element hf_skill at 0x232c508>
+<Element hf_skill at 0x232c508> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x232c418>
+<Element hf_skill at 0x232c418> [('skill', 'WRESTLING'), ('total_ip', '4863')]
+<Element hf_skill at 0x232c580>
+<Element hf_skill at 0x232c580> [('skill', 'ARMOR'), ('total_ip', '1100')]
+<Element hf_skill at 0x232c7d8>
+<Element hf_skill at 0x232c7d8> [('skill', 'SHIELD'), ('total_ip', '1100')]
+[('id', '56'), ('name', 'nekol umbraldied'), ('race', 'NIGHT_CREATURE_4'), ('caste', 'FEMALE'), ('appeared', '1'), ('birth_year', '-273'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('hf_link', [('link_type', 'child'), ('hfid', '139')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '29')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '28')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '27')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '31')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '34')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '35')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '37')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '38')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '40')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '30')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '42')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '43')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '26')]), ('site_link', [('link_type', 'lair'), ('site_id', '30')]), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '5600')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4863')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4863')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4863')]), ('hf_skill', [('skill', 'ARMOR'), ('total_ip', '1100')]), ('hf_skill', [('skill', 'SHIELD'), ('total_ip', '1100')])]
+<Element hf_link at 0x232cd00>
+<Element hf_link at 0x232cd00> [('link_type', 'child'), ('hfid', '194')]
+<Element entity_link at 0x232cfd0>
+<Element entity_link at 0x232cfd0> [('link_type', 'enemy'), ('entity_id', '27')]
+<Element entity_link at 0x232ce68>
+<Element entity_link at 0x232ce68> [('link_type', 'enemy'), ('entity_id', '31')]
+<Element entity_link at 0x232c5a8>
+<Element entity_link at 0x232c5a8> [('link_type', 'enemy'), ('entity_id', '30')]
+<Element entity_link at 0x232c4b8>
+<Element entity_link at 0x232c4b8> [('link_type', 'enemy'), ('entity_id', '35')]
+<Element entity_link at 0x232c620>
+<Element entity_link at 0x232c620> [('link_type', 'enemy'), ('entity_id', '37')]
+<Element entity_link at 0x232c788>
+<Element entity_link at 0x232c788> [('link_type', 'enemy'), ('entity_id', '38')]
+<Element entity_link at 0x232c5f8>
+<Element entity_link at 0x232c5f8> [('link_type', 'enemy'), ('entity_id', '42')]
+<Element entity_link at 0x232c490>
+<Element entity_link at 0x232c490> [('link_type', 'enemy'), ('entity_id', '43')]
+<Element entity_link at 0x232cc38>
+<Element entity_link at 0x232cc38> [('link_type', 'enemy'), ('entity_id', '26')]
+<Element site_link at 0x232cf80>
+<Element site_link at 0x232cf80> [('link_type', 'lair'), ('site_id', '29')]
+<Element hf_skill at 0x232ccd8>
+<Element hf_skill at 0x232ccd8> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x232c120>
+<Element hf_skill at 0x232c120> [('skill', 'DODGING'), ('total_ip', '4800')]
+<Element hf_skill at 0x232c918>
+<Element hf_skill at 0x232c918> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x232c5d0>
+<Element hf_skill at 0x232c5d0> [('skill', 'STANCE_STRIKE'), ('total_ip', '4599')]
+<Element hf_skill at 0x232c328>
+<Element hf_skill at 0x232c328> [('skill', 'GRASP_STRIKE'), ('total_ip', '4599')]
+<Element hf_skill at 0x232c8a0>
+<Element hf_skill at 0x232c8a0> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x232c4e0>
+<Element hf_skill at 0x232c4e0> [('skill', 'WRESTLING'), ('total_ip', '4599')]
+<Element hf_skill at 0x232c710>
+<Element hf_skill at 0x232c710> [('skill', 'ARMOR'), ('total_ip', '300')]
+<Element hf_skill at 0x232c8c8>
+<Element hf_skill at 0x232c8c8> [('skill', 'SHIELD'), ('total_ip', '300')]
+[('id', '57'), ('name', 'iquila'), ('race', 'NIGHT_CREATURE_3'), ('caste', 'MALE'), ('appeared', '1'), ('birth_year', '-172'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('hf_link', [('link_type', 'child'), ('hfid', '194')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '27')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '31')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '30')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '35')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '37')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '38')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '42')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '43')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '26')]), ('site_link', [('link_type', 'lair'), ('site_id', '29')]), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4800')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4599')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4599')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4599')]), ('hf_skill', [('skill', 'ARMOR'), ('total_ip', '300')]), ('hf_skill', [('skill', 'SHIELD'), ('total_ip', '300')])]
+<Element hf_skill at 0x232c940>
+<Element hf_skill at 0x232c940> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x232c800>
+<Element hf_skill at 0x232c800> [('skill', 'DODGING'), ('total_ip', '4500')]
+<Element hf_skill at 0x232c878>
+<Element hf_skill at 0x232c878> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x232caa8>
+<Element hf_skill at 0x232caa8> [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x232cda0>
+<Element hf_skill at 0x232cda0> [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]
+<Element hf_skill at 0x232c850>
+<Element hf_skill at 0x232c850> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x232cb20>
+<Element hf_skill at 0x232cb20> [('skill', 'WRESTLING'), ('total_ip', '4500')]
+[('id', '58'), ('name', 'muthro the skull of crypts'), ('race', 'NIGHT_CREATURE_2'), ('caste', 'FEMALE'), ('appeared', '1'), ('birth_year', '-272'), ('birth_seconds72', '-1'), ('death_year', '12'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4500')])]
+<Element entity_link at 0x232cbc0>
+<Element entity_link at 0x232cbc0> [('link_type', 'enemy'), ('entity_id', '39')]
+<Element entity_link at 0x232cad0>
+<Element entity_link at 0x232cad0> [('link_type', 'enemy'), ('entity_id', '25')]
+<Element entity_link at 0x232cfa8>
+<Element entity_link at 0x232cfa8> [('link_type', 'enemy'), ('entity_id', '27')]
+<Element entity_link at 0x232c9b8>
+<Element entity_link at 0x232c9b8> [('link_type', 'enemy'), ('entity_id', '31')]
+<Element entity_link at 0x232caf8>
+<Element entity_link at 0x232caf8> [('link_type', 'enemy'), ('entity_id', '34')]
+<Element entity_link at 0x232cd28>
+<Element entity_link at 0x232cd28> [('link_type', 'enemy'), ('entity_id', '35')]
+<Element entity_link at 0x232c698>
+<Element entity_link at 0x232c698> [('link_type', 'enemy'), ('entity_id', '36')]
+<Element entity_link at 0x232cb98>
+<Element entity_link at 0x232cb98> [('link_type', 'enemy'), ('entity_id', '24')]
+<Element entity_link at 0x232c828>
+<Element entity_link at 0x232c828> [('link_type', 'enemy'), ('entity_id', '37')]
+<Element entity_link at 0x232c9e0>
+<Element entity_link at 0x232c9e0> [('link_type', 'enemy'), ('entity_id', '38')]
+<Element entity_link at 0x232cb70>
+<Element entity_link at 0x232cb70> [('link_type', 'enemy'), ('entity_id', '40')]
+<Element entity_link at 0x232c8f0>
+<Element entity_link at 0x232c8f0> [('link_type', 'enemy'), ('entity_id', '30')]
+<Element entity_link at 0x232cc10>
+<Element entity_link at 0x232cc10> [('link_type', 'enemy'), ('entity_id', '42')]
+<Element entity_link at 0x232cc60>
+<Element entity_link at 0x232cc60> [('link_type', 'enemy'), ('entity_id', '43')]
+<Element entity_link at 0x232cdc8>
+<Element entity_link at 0x232cdc8> [('link_type', 'enemy'), ('entity_id', '26')]
+<Element site_link at 0x232cee0>
+<Element site_link at 0x232cee0> [('link_type', 'lair'), ('site_id', '28')]
+<Element hf_skill at 0x232c7d8>
+<Element hf_skill at 0x232c7d8> [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]
+<Element hf_skill at 0x232cc88>
+<Element hf_skill at 0x232cc88> [('skill', 'DODGING'), ('total_ip', '5200')]
+<Element hf_skill at 0x232c0a8>
+<Element hf_skill at 0x232c0a8> [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]
+<Element hf_skill at 0x232ce18>
+<Element hf_skill at 0x232ce18> [('skill', 'STANCE_STRIKE'), ('total_ip', '4731')]
+<Element hf_skill at 0x232c738>
+<Element hf_skill at 0x232c738> [('skill', 'GRASP_STRIKE'), ('total_ip', '4731')]
+<Element hf_skill at 0x232c760>
+<Element hf_skill at 0x232c760> [('skill', 'BITE'), ('total_ip', '4500')]
+<Element hf_skill at 0x232ce40>
+<Element hf_skill at 0x232ce40> [('skill', 'WRESTLING'), ('total_ip', '4731')]
+<Element hf_skill at 0x232cb20>
+<Element hf_skill at 0x232cb20> [('skill', 'ARMOR'), ('total_ip', '700')]
+<Element hf_skill at 0x232c648>
+<Element hf_skill at 0x232c648> [('skill', 'SHIELD'), ('total_ip', '700')]
+[('id', '59'), ('name', 'nar ashenshadows'), ('race', 'NIGHT_CREATURE_1'), ('caste', 'FEMALE'), ('appeared', '1'), ('birth_year', '-206'), ('birth_seconds72', '-1'), ('death_year', '-1'), ('death_seconds72', '-1'), ('associated_type', 'STANDARD'), ('entity_link', [('link_type', 'enemy'), ('entity_id', '39')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '25')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '27')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '31')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '34')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '35')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '36')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '24')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '37')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '38')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '40')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '30')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '42')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '43')]), ('entity_link', [('link_type', 'enemy'), ('entity_id', '26')]), ('site_link', [('link_type', 'lair'), ('site_id', '28')]), ('hf_skill', [('skill', 'SITUATIONAL_AWARENESS'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'DODGING'), ('total_ip', '5200')]), ('hf_skill', [('skill', 'MELEE_COMBAT'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'STANCE_STRIKE'), ('total_ip', '4731')]), ('hf_skill', [('skill', 'GRASP_STRIKE'), ('total_ip', '4731')]), ('hf_skill', [('skill', 'BITE'), ('total_ip', '4500')]), ('hf_skill', [('skill', 'WRESTLING'), ('total_ip', '4731')]), ('hf_skill', [('skill', 'ARMOR'), ('total_ip', '700')]), ('hf_skill', [('skill', 'SHIELD'), ('total_ip', '700')])]
