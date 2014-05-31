@@ -16,12 +16,17 @@ class BufferedIterator:
         return  self
 
     def __next__(self):
+        #print(self.buf)
         if len(self.buf) > 0:
             t = self.buf[0]
             self.buf = self.buf[1:]
-            return t
+            self.current_item = t
+
         else:
-            return next(self._iterable)
+            self.current_item = next(self._iterable)
+
+        return self.current_item
+
 
     def peek(self):
         try:
@@ -29,11 +34,37 @@ class BufferedIterator:
             self.buf.append(t)
             return t
         except StopIteration:
-            return None
+            raise StopParser(
+
+
+                    )
+    def current(self):
+        return self.current_item
 
 class StopParser(Exception):
     def __init__(self, msg=None):
         super(StopParser, self).__init__('StopParser: {}'.format(msg or ''))
+
+def create_simple_handler(data_keys, context_key=None, **kwargs):
+    make_list = kwargs.get('make_list', False)
+    def f(iterable, data, context):
+        d = as_dict(data_keys, data)
+        if context_key is None:
+            context.update(d)
+        else:
+            if make_list:
+                try:
+                    context[context_key].append(d)
+
+                except KeyError:
+                    context[context_key] = [d]
+            else:
+                context[context_key] = d
+
+        return d
+
+    return f
+
 
 class BaseParser:
     def __init__(self, name, data_handlers=None, discard_blank_lines=True):
@@ -48,38 +79,57 @@ class BaseParser:
 
         self.data_handlers.append((name, pattern, func))
 
-    def parse(self, obj):
+    def parse(self, iterable, data=None, context=None):
         done = False
-        data = []
-        context = {}
+        data = data or []
+        context = context or {}
 
         while not done:
             try:
-                line = next(obj)
-                print('\t`{}`'.format(line.strip()))
-                if self.discard_blank_lines and line.strip() == '':
+                i, line = iterable.peek()
+                line_strip = line.strip()
+
+                if self.discard_blank_lines and line_strip == '':
+                    next(iterable)
                     continue
 
+                print('<{}> [{:05d}] `{}`'.format(self.name, i, line_strip), end='')
                 for n, p, f in self.data_handlers:
                     res = p.search(line)
                     if res:
+                        print(' match `{}`'.format(n), end='')
+                        next(iterable)
                         data = list(map(lambda x: x.strip(), res.groups()))
-                        f_res = f(obj, line, data, context)
+                        f_res = f(iterable, data, context)
+                        print(' returned `{}`'.format(f_res))
+                        break
+                    else:
+                        print()
             except StopIteration:
                 done = True
                 continue
+
             except StopParser:
                 data = context
                 done = True
                 continue
 
+            except TypeError:
+                import pdb; pdb.set_trace()
         return data
 
-    def default_handler(self, obj, line, data=None, context=None):
+    def default_handler(self, iterable, data=None, context=None):
         return
 
-    def end_parse(self, obj, line, data=None, context=None):
+
+    def end_parse(self, iterable, data=None, context=None):
+        print('End {}'.format(self.name))
+
         raise StopParser()
+
+    def __str__(self):
+        return self.name
+
 
 def as_dict(keys, vals, base=None):
     if base is None:
@@ -89,33 +139,67 @@ def as_dict(keys, vals, base=None):
 
     return base
 
-population_dict = functools.partial(as_dict, ('count', 'type'))
 
-
-class PopulationListParser(BaseParser):
+class PopulationParser(BaseParser):
     def __init__(self):
-        super(PopulationListParser, self).__init__('PopulationListParser')
-        self.add_handler('default', r'^\t(\d+) (.+)$', self.default_handler)
-        self.add_handler('total', r'\t(Total): (\d+)', self.total_handler)
+        super(PopulationParser, self).__init__('PopulationListParser')
+        self.add_handler(
+                'default',
+                r'^\t(\d+) (.+)$',
+                create_simple_handler(('type', 'count'), 'population', make_list=True))
+        self.add_handler(
+                'total',
+                r'\t(Total): (\d+)',
+                create_simple_handler(('count', 'type'), 'population', make_list=True))
         self.add_handler('end', r'^[^\t].*', self.end_parse)
 
-    def default_handler(self, iterable, line, data, context):
-        pd = population_dict(data)
 
-        try:
-            context['population'].append(pd)
-        except KeyError:
-            context['population'] = [pd]
+class SitesParser(BaseParser):
+    def __init__(self):
+        super(SitesParser, self).__init__('SitesHandler')
+        self.add_handler(
+                'header',
+                r'^(\d+): ([\w\s]+), "(.*)", (\w+)$',
+                create_simple_handler(('id', 'real_name', 'name', 'type')))
+        self.add_handler(
+                'owner',
+                r'^\tOwner: ([\w\s]+), (\w+)$',
+                create_simple_handler(('name', 'race'), 'owner'))
+        self.add_handler(
+                'parent',
+                r'^\tParent Civ: ([\w\s]+), (\w+)$',
+                create_simple_handler(('name', 'race'), 'parent'))
+        self.add_handler(
+                'population',
+                r'^\t(\d+) (.*)$',
+                create_simple_handler(('count', 'type'), 'population', make_list=True))
+        self.add_handler('end', r'^[^\t].*', self.end_parse)
 
-        return pd
 
-    def total_handler(self, iterable, line, data, context):
-        """ Simply call default handler with the data items reversed"""
-        return self.default_handler(iterable, line, data[::-1], context)
+class WorldSitesAndPopsParser(BaseParser):
+    def __init__(self):
+        super(WorldSitesAndPopsParser, self).__init__('WorldSitesAndPops')
 
-    def __str__(self):
-        return self.name
+        self.add_handler(
+            'world_pops',
+            r'^Civilized World Population',
+            self.population_handler)
+        self.add_handler(
+            'sites',
+            r'^Sites$',
+            self.sites_handler)
 
+    def population_handler(self, iterable, data, context):
+        p = PopulationParser()
+        d = p.parse(iterable, data, {})
+        print(d)
+        return d
+
+    def sites_handler(self, iterable, data, context):
+        p = SitesParser()
+        d = p.parse(iterable, data, {})
+        print(d)
+        return d
 
 @contextmanager
 def open_cp437(fn, mode='r'):
@@ -123,25 +207,8 @@ def open_cp437(fn, mode='r'):
         yield inf
 
 if __name__ == '__main__':
-    parsers = [
-            (regexp(r'^Civilized World Population'), PopulationListParser()),
-            ]
-
     with open_cp437('data/worlds/test/world_sites_and_pops.txt') as inf:
-        rdr = BufferedIterator(inf)
-
-        for i, line in enumerate(rdr):
-            if i == 10:
-                break
-
-            print("line: {:05d} {}".format(i, line.strip()))
-
-            for start_pat, handler in parsers:
-                res = start_pat.search(line)
-                print("\tTesting pattern /{}/ ...".format(start_pat.pattern), end='')
-
-                if res:
-                    print("Matched.\n\tCalling handler `{}` with data `{}`".format(handler, res.groups()))
-                    d = handler.parse(rdr)
-                    print("\tHandler returned `{}`".format(d))
-            print()
+        rdr = BufferedIterator(enumerate(inf))
+        parser = WorldSitesAndPopsParser()
+        data = parser.parse(rdr)
+        print(data)
