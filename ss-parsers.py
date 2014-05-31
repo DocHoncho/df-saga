@@ -7,13 +7,26 @@ from contextlib import contextmanager
 def regexp(pattern, flags=None):
     return re.compile(pattern, flags or 0)
 
+def add_item(_dict, key, data):
+    try:
+        _dict[key].append(data)
+    except KeyError:
+        _dict[key] = [data]
+
+    return _dict
+
+
+
+
 class BufferedIterator:
     def __init__(self, iterable):
         self.buf = []
         self._iterable = iterable
 
+
     def __iter__(self):
         return  self
+
 
     def __next__(self):
         #print(self.buf)
@@ -41,11 +54,12 @@ class BufferedIterator:
     def current(self):
         return self.current_item
 
+
 class StopParser(Exception):
     def __init__(self, msg=None):
-        super(StopParser, self).__init__('StopParser: {}'.format(msg or ''))
+       super(StopParser, self).__init__('StopParser: {}'.format(msg or ''))
 
-def create_simple_handler(data_keys, context_key=None, **kwargs):
+def create_simple_handler(data_keys, context_key=None, *, make_list=False):
     make_list = kwargs.get('make_list', False)
     def f(iterable, data, context):
         d = as_dict(data_keys, data)
@@ -66,6 +80,22 @@ def create_simple_handler(data_keys, context_key=None, **kwargs):
     return f
 
 
+def create_parser_handler(data_keys, context_key, parser_class, *, make_list=False):
+    def f(iterable, data, context):
+        new_context = as_dict(data_keys, dat)
+        parser = parser_class()
+        result = parser.parse(iterable, [], new_context)
+        new_context.update(result)
+
+        if make_list:
+            add_item(context, context_key, new_context)
+        else:
+            context[context_key] = new_context
+
+        return result
+    return f
+
+
 class BaseParser:
     def __init__(self, name, data_handlers=None, discard_blank_lines=True):
         self.name = name
@@ -78,6 +108,7 @@ class BaseParser:
             pattern = re.compile(pattern)
 
         self.data_handlers.append((name, pattern, func))
+
 
     def parse(self, iterable, data=None, context=None):
         done = False
@@ -105,6 +136,7 @@ class BaseParser:
                         break
                     else:
                         print()
+
             except StopIteration:
                 done = True
                 continue
@@ -126,6 +158,7 @@ class BaseParser:
         print('End {}'.format(self.name))
 
         raise StopParser()
+
 
     def __str__(self):
         return self.name
@@ -153,14 +186,18 @@ class PopulationParser(BaseParser):
                 create_simple_handler(('count', 'type'), 'population', make_list=True))
         self.add_handler('end', r'^[^\t].*', self.end_parse)
 
-
 class SitesParser(BaseParser):
     def __init__(self):
         super(SitesParser, self).__init__('SitesHandler')
         self.add_handler(
                 'header',
                 r'^(\d+): ([\w\s]+), "(.*)", (\w+)$',
-                create_simple_handler(('id', 'real_name', 'name', 'type')))
+                create_parser_handler(('id', 'real_name', 'name', type'), 'sites', SiteParser, make_list=True))
+
+
+class SiteParser(BaseParser):
+    def __init__(self):
+        super(SiteParser, self).__init__('SiteParser')
         self.add_handler(
                 'owner',
                 r'^\tOwner: ([\w\s]+), (\w+)$',
