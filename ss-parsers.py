@@ -29,12 +29,11 @@ class BufferedIterator:
 
 
     def __next__(self):
-        #print(self.buf)
         if len(self.buf) > 0:
             t = self.buf[0]
             self.buf = self.buf[1:]
             self.current_item = t
-
+            print('Took `{}` from buffer, leaving `{}`'.format(self.current_item, self.buf))
         else:
             self.current_item = next(self._iterable)
 
@@ -43,14 +42,17 @@ class BufferedIterator:
 
     def peek(self):
         try:
-            t = next(self._iterable)
-            self.buf.append(t)
-            return t
+            self.current_item = next(self._iterable)
+            self.buf.append(self.current_item)
+            return self.current_item
         except StopIteration:
-            raise StopParser(
+            raise StopParser()
 
 
-                    )
+    def cancel(self):
+        self.buf.append(self.current_item)
+
+
     def current(self):
         return self.current_item
 
@@ -60,7 +62,6 @@ class StopParser(Exception):
        super(StopParser, self).__init__('StopParser: {}'.format(msg or ''))
 
 def create_simple_handler(data_keys, context_key=None, *, make_list=False):
-    make_list = kwargs.get('make_list', False)
     def f(iterable, data, context):
         d = as_dict(data_keys, data)
         if context_key is None:
@@ -117,25 +118,22 @@ class BaseParser:
 
         while not done:
             try:
-                i, line = iterable.peek()
+                i, line = next(iterable)
                 line_strip = line.strip()
-
                 if self.discard_blank_lines and line_strip == '':
-                    next(iterable)
                     continue
 
                 print('<{}> [{:05d}] `{}`'.format(self.name, i, line_strip), end='')
                 for n, p, f in self.data_handlers:
                     res = p.search(line)
                     if res:
-                        print(' match `{}`'.format(n), end='')
-                        next(iterable)
+                        print(' match `{}`'.format(n))
                         data = list(map(lambda x: x.strip(), res.groups()))
                         f_res = f(iterable, data, context)
-                        print(' returned `{}`'.format(f_res))
+                        print('\treturned `{}`'.format(f_res), end='')
                         break
-                    else:
-                        print()
+
+                print()
 
             except StopIteration:
                 done = True
@@ -143,11 +141,11 @@ class BaseParser:
 
             except StopParser:
                 data = context
+                iterable.cancel()
+
                 done = True
                 continue
 
-            except TypeError:
-                import pdb; pdb.set_trace()
         return data
 
     def default_handler(self, iterable, data=None, context=None):
@@ -184,7 +182,7 @@ class PopulationParser(BaseParser):
                 'total',
                 r'\t(Total): (\d+)',
                 create_simple_handler(('count', 'type'), 'population', make_list=True))
-        self.add_handler('end', r'^[^\t].*', self.end_parse)
+        self.add_handler('end', r'^[^\t].+', self.end_parse)
 
 class SitesParser(BaseParser):
     def __init__(self):
@@ -192,7 +190,7 @@ class SitesParser(BaseParser):
         self.add_handler(
                 'header',
                 r'^(\d+): ([\w\s]+), "(.*)", (\w+)$',
-                create_parser_handler(('id', 'real_name', 'name', type'), 'sites', SiteParser, make_list=True))
+                create_parser_handler(('id', 'real_name', 'name', 'type'), 'sites', SiteParser, make_list=True))
 
 
 class SiteParser(BaseParser):
@@ -200,17 +198,26 @@ class SiteParser(BaseParser):
         super(SiteParser, self).__init__('SiteParser')
         self.add_handler(
                 'owner',
-                r'^\tOwner: ([\w\s]+), (\w+)$',
+                r'^\tOwner: ([\w\s]+), (\w+)',
                 create_simple_handler(('name', 'race'), 'owner'))
         self.add_handler(
                 'parent',
-                r'^\tParent Civ: ([\w\s]+), (\w+)$',
+                r'^\tParent Civ: ([\w\s]+), (\w+)',
                 create_simple_handler(('name', 'race'), 'parent'))
         self.add_handler(
                 'population',
-                r'^\t(\d+) (.*)$',
+                r'^\t(\d+) (.*)',
                 create_simple_handler(('count', 'type'), 'population', make_list=True))
-        self.add_handler('end', r'^[^\t].*', self.end_parse)
+        self.add_handler('end', r'^[^\t].+', self.end_parse)
+
+
+    def header_handler(self, iterable, data, context):
+        if context:
+            iterable.cancel()
+            raise StopParser()
+
+        else:
+            return as_dict(('id', 'real_name', 'name', 'type'), data)
 
 
 class WorldSitesAndPopsParser(BaseParser):
@@ -223,19 +230,17 @@ class WorldSitesAndPopsParser(BaseParser):
             self.population_handler)
         self.add_handler(
             'sites',
-            r'^Sites$',
+            r'^Sites',
             self.sites_handler)
 
     def population_handler(self, iterable, data, context):
         p = PopulationParser()
         d = p.parse(iterable, data, {})
-        print(d)
         return d
 
     def sites_handler(self, iterable, data, context):
         p = SitesParser()
         d = p.parse(iterable, data, {})
-        print(d)
         return d
 
 @contextmanager
@@ -244,6 +249,7 @@ def open_cp437(fn, mode='r'):
         yield inf
 
 if __name__ == '__main__':
+
     with open_cp437('data/worlds/test/world_sites_and_pops.txt') as inf:
         rdr = BufferedIterator(enumerate(inf))
         parser = WorldSitesAndPopsParser()
