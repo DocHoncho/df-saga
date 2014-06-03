@@ -1,0 +1,321 @@
+Volcanic Island
+Volcanic Island
+
+Olm men
+Serpent men
+Cave fish men
+Bat men
+The Lost Armors, Dwarves
+ Worship List
+  Stettad, deity: wealth
+  Tholtig Coverguards, deity: fortresses, mountains
+  Deler Cookblockade, deity: minerals, metals, crafts, labor
+  Engig, deity: jewels
+  ShilrÖr, deity: wisdom, scholarship, writing, poetry, song, revelry, festivals, music
+ king List
+  [*] ãngiz Claspnourish (b.??? d. 18, Reign Began: 1), *** Original Line, Married
+      3 Children -- Ages at death: 15 14 13
+      Worshipped Deler Cookblockade (95%)
+  [*] Imush Ceilingzeals (b.5, Reign Began: 19), Inherited from father, Married (d. 19)
+      1 Child -- Ages: 19
+      Worships Deler Cookblockade (100%)
+Jligragus, Kobolds
+The Tree of Pages, Elves
+ Worship List
+  RÇnuna, force: nature, rivers
+ druid List
+  [*] Fela Safetyphoons (b.???, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worships RÇnuna (30%)
+ princess List
+  [*] Yarare Shorthawk (b.???, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worships RÇnuna (71%)
+ queen List
+  [*] Arane Snakestree (b.???, Reign Began: 1), *** Original Line, Married (d. 29)
+      8 Children -- Ages: 32 31 30 26 24 23 22 18
+      Worships RÇnuna (61%)
+The Maroon Kingdom, Humans
+ Worship List
+  Ejem Lambstunts the Low Hex, deity: jealousy
+  Akul Seasontaken the Young Controllers, deity: youth, longevity
+  Mukca the Obscure Subtleties, deity: darkness
+  Gel, deity: song, the sun
+  Stralir the Kind Bravery of Helping, deity: revelry
+  Itvid, deity: oceans, lakes
+ law-giver List
+  [*] Nocam Foldsprung (b.???, Reign Began: 15), *** Original Line, Married
+      6 Children -- Ages: 36 35 32 30 29 14
+      Worships Ejem Lambstunts the Low Hex (9%)
+The Nightmares of Inching, Goblins
+ law-giver List
+  [*] StÉsost Nightmarevessels (b.??? d. 22, Reign Began: 11), *** Original Line, Never Married
+      No Children
+  [*] Gozru Blackfrozen (b.???, Reign Began: 23), *** New Line, Never Married
+      No Children
+The Courageous Nation, Humans
+ Worship List
+  Osman, deity: the sky, the stars
+  Busbel Earlyseed, deity: fertility
+  Abe, deity: rivers, lakes
+  †g the Noble of Loving, deity: mercy, rulership
+  Lasiv the Defense of Mirth, deity: loyalty, oaths, marriage, birth
+  Thuthu, deity: the dawn, the sun, nature, the weather
+  Spothrib, deity: suicide, death, blight, disease
+  Egu Springsslops the Bunch of Apples, deity: courage, labor, crafts, creation
+  Bora the Earthen Iron, deity: mountains
+  Omsuth Boilugly, deity: deformity
+  Radir, deity: trickery
+ law-giver List
+  [*] Diso Sharkrooms (b.5, Reign Began: 20), *** Original Line, Never Married
+      No Children
+      Worships Radir (85%)
+The Bolt of Jails, Dwarves
+ Worship List
+  Kib, deity: minerals, metals, crafts
+  Likot the Sienna Silver-Lilac, deity: wealth, jewels
+  £tost, deity: mountains
+  Kurik the Absolute Bristles, deity: fortresses, war, chaos
+  CenÑth, deity: storms
+  Omet, deity: luck
+  Mothram, deity: jealousy, discipline
+  Nabreth the Venerable Smile, deity: poetry
+  ìtthat, deity: strength, courage
+  Allas Wildesteem, deity: trees, the rain, thunder, lightning
+  Thocit, deity: nightmares, the night, darkness
+  Ral Cradledpage, deity: painting, inspiration, oaths
+ king List
+  [*] Adil Hamenotches (b.???, Reign Began: 1), *** Original Line, Married
+      6 Children -- Ages: 36 35 34 31 27 16
+      Worships Thocit (42%)
+The Poetry of Furnaces, Elves
+ Worship List
+  RÇnuna, force: nature, rivers
+ druid List
+  [*] òalómi Lacytaught (b.??? d. 27, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped RÇnuna (78%)
+  [*] Masami Squaretusks (b.??? d. 28, Reign Began: 28), *** New Line, Married (d. 28)
+      No Children
+      Worshipped RÇnuna (53%)
+  [*] Caraca Woodenscaled (b.??? d. 29, Reign Began: 29), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (61%)
+  [*] Amiòa Lizardwet (b.???, Reign Began: 30), *** New Line, Never Married
+      No Children
+      Worships RÇnuna (25%)
+ princess List
+  [*] Ricote Springfire (b.??? d. 27, Reign Began: 1), *** Original Line, Married (d. 27)
+      10 Children (out-lived 1 of them) -- Ages at death: 19 (d. 22) 17 14 13 10 7 6 2 1
+      Worshipped RÇnuna (83%)
+  [*] Ithith° Flowerthinned (b.??? d. 28, Reign Began: 28), *** New Line, Married (d. 28)
+      No Children
+      Worshipped RÇnuna (20%)
+  [*] Nine Groupedviper (b.??? d. 29, Reign Began: 29), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (26%)
+  [*] Iwethi Umberpassed (b.???, Reign Began: 30), *** New Line, Never Married
+      No Children
+      Worships RÇnuna (77%)
+ queen List
+  [*] Cequova Lobsterpondered (b.??? d. 27, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped RÇnuna (18%)
+  [*] Camela Squidgulf (b.??? d. 28, Reign Began: 28), *** New Line, Married (d. 28)
+      No Children
+      Worshipped RÇnuna (35%)
+  [*] Mimale Skirtbeast (b.??? d. 29, Reign Began: 29), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (41%)
+  [*] Ale Lureblazes (b.???, Reign Began: 30), *** New Line, Never Married
+      No Children
+      Worships RÇnuna (15%)
+Drusiris, Kobolds
+The Seducer of Midnights, Goblins
+ law-giver List
+  [*] Osnun Fellcyst (b.???, Reign Began: 9), *** Original Line, Never Married
+      No Children
+The Nourishing Mists, Elves
+ Worship List
+  RÇnuna, force: nature, rivers
+ druid List
+  [*] Enure Sunsnight (b.???, Reign Began: 1), *** Original Line, Married
+      8 Children -- Ages: 36 35 34 28 23 22 18 12
+      Worships RÇnuna (62%)
+ princess List
+  [*] Are Beaklocked (b.???, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worships RÇnuna (3%)
+ queen List
+  [*] °lime Sharkzenith (b.???, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worships RÇnuna (9%)
+The Golden Realms, Humans
+ Worship List
+  Turot the Jaw of Blazing, deity: revenge, balance
+  Dosla the Scholarly Letter, deity: wisdom, scholarship
+  Mel Growthbuds, deity: pregnancy
+  Ases Violencematch, deity: valor, war
+  Asa the Just Top, deity: youth, longevity
+  Ikim, deity: duty, order
+  Shato the Tunnel of Dreams, deity: the stars, the night, dreams
+ law-giver List
+  [*] •absiz Razorabbeys (b.???, Reign Began: 2), *** Original Line, Never Married
+      No Children
+      Worships Mel Growthbuds (13%)
+The Monster of Intensity, Goblins
+ law-giver List
+  [*] Olngî Foundspider (b.???, Reign Began: 3), *** Original Line, Married (d. 24)
+      7 Children -- Ages: 35 34 29 28 25 23 21
+The Rim of Tours, Dwarves
+ Worship List
+  Limul Fingergem, deity: earth, mountains
+  Mestthos, deity: jewels, wealth, trade, fortresses
+  Kun, deity: dreams
+  Alod, deity: the dawn, the sun, the sky, the stars
+  Isden, deity: poetry, persuasion
+  Eser, deity: day, order
+  Istrath the Seed of Quests, deity: youth
+ king List
+  [*] Fikod Chamberfocus (b.???, Reign Began: 1), *** Original Line, Married
+      5 Children -- Ages: 36 35 34 33 28
+      Worships Istrath the Seed of Quests (42%)
+The Palace of Treaties, Dwarves
+ Worship List
+  Zas Tinearthen the Canyon of Crystals, deity: metals
+  Deler Crystalochre, deity: minerals
+  Onget, deity: jewels
+  Urem, deity: fortresses, war, valor
+  Urdim, deity: mountains
+  Domas Tradepriced, deity: wealth, trade
+  ¢s Greatersparks the Cloudy Power, deity: the sun, fire
+ king List
+  [*] Edâm Roughlungs (b.???, Reign Began: 1), *** Original Line, Married
+      6 Children -- Ages: 34 33 32 30 26 23
+      Worships Urem (61%)
+The Lion of Meshes, Elves
+ Worship List
+  RÇnuna, force: nature, rivers
+ druid List
+  [*] Are Destinedhawks (b.???, Reign Began: 1), *** Original Line, Married
+      10 Children -- Ages: 31 30 29 27 26 25 20 19 16 10
+      Worships RÇnuna (30%)
+ princess List
+  [*] Rofa Pristinesomber (b.???, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worships RÇnuna (50%)
+ queen List
+  [*] Mimale Cactusprices (b.???, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worships RÇnuna (2%)
+The Seducer of Lancers, Goblins
+ law-giver List
+  [*] BÜx Doomdwelled (b.???, Reign Began: 4), *** Original Line, Never Married
+      No Children
+The Realms of Sloshing, Humans
+ Worship List
+  Zoku, deity: persuasion
+  Gabe Sprysweat, deity: disease, death, creation
+  Xaki, deity: gambling
+  Ared Sneakedperplexes, deity: treachery, trickery
+  Emung the Larks of Paging, deity: writing, poetry
+  Rakbin, deity: plants, animals
+  Testri, deity: speech
+The Merchant of Counsellors, Dwarves
+ Worship List
+  Stettad Inksteels the Mines of Diamond, deity: jewels, wealth
+  Stågil Daggerstrike the Shields of Roasting, deity: fortresses, war
+  Obok the Flag of Warmth, deity: mountains, volcanos, metals, crafts
+  R£bal Crystalboulder, deity: minerals, water
+  Orshar, deity: fate, coasts
+  Reg the Friendly Honesties, deity: generosity, sacrifice, charity
+  Vesh the Larval Louse, deity: blight, death, balance
+  Stalkïb Snarlblossom the New Mange of Larvae, deity: muck, creation, rebirth, birth
+ king List
+  [*] Bim Wheelscalded (b.???, Reign Began: 1), *** Original Line, Married (d. 20)
+      5 Children -- Ages: 34 33 32 31 30
+      Worships Vesh the Larval Louse (84%)
+The Squeezing Fish, Elves
+ Worship List
+  RÇnuna, force: nature, rivers
+ druid List
+  [*] Nämile Closedrams (b.??? d. 18, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped RÇnuna (87%)
+  [*] Mame Fleshrain (b.??? d. 19, Reign Began: 19), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (33%)
+  [*] Ar° Rainglories (b.??? d. 20, Reign Began: 20), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (53%)
+  [*] Osime Mauvecavern (b.??? d. 21, Reign Began: 21), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (5%)
+  [*] Ririli Tellblazes (b.??? d. 22, Reign Began: 22), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (99%)
+  [*] Rayali Beardedbridge (b.??? d. 23, Reign Began: 23), *** New Line, Married (d. 23)
+      No Children
+      Worshipped RÇnuna (44%)
+  [*] °lathe Rosywhiskers (b.??? d. 24, Reign Began: 24), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (4%)
+  [*] °lime Squidfires (b.??? d. 25, Reign Began: 25), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (67%)
+ princess List
+  [*] Ithith° Sealutters (b.??? d. 19, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped RÇnuna (65%)
+  [*] Acithi Shellclams (b.??? d. 19, Reign Began: 19), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (59%)
+  [*] Iferi Immortalitygrowl (b.??? d. 20, Reign Began: 20), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (33%)
+  [*] Quathari Headcloud (b.??? d. 21, Reign Began: 21), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (94%)
+  [*] Nisa Finderwoods (b.??? d. 22, Reign Began: 22), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (62%)
+  [*] Cata Taillace (b.??? d. 23, Reign Began: 23), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (41%)
+  [*] Oda Furman (b.??? d. 24, Reign Began: 24), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (54%)
+  [*] L°ceyi Mirroredadores (b.??? d. 25, Reign Began: 25), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (92%)
+  [*] Omo Cuspnature (b.??? d. 26, Reign Began: 26), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (16%)
+ queen List
+  [*] Yawo Fragrancetress (b.??? d. 18, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped RÇnuna (98%)
+  [*] Ithith° Sealutters (b.??? d. 19, Reign Began: 19), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (65%)
+  [*] Ar° Waxygifts (b.??? d. 20, Reign Began: 20), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (38%)
+  [*] Liyçòi Glimmerrace (b.??? d. 21, Reign Began: 21), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (85%)
+  [*] Nemo Weatherrhyming (b.??? d. 22, Reign Began: 22), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (36%)
+  [*] Thone Roastedseason (b.??? d. 23, Reign Began: 23), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (34%)
+  [*] Fale Sculptedsuns (b.???, Reign Began: 24), *** New Line, Never Married
+      No Children
+      Worships RÇnuna (82%)
+  [*] òonali Rhymedroplet (b.??? d. 25, Reign Began: 25), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (2%)
+  [*] Alala Skylance (b.??? d. 26, Reign Began: 26), *** New Line, Never Married
+      No Children
+      Worshipped RÇnuna (75%)

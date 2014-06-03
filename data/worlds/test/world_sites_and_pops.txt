@@ -1,0 +1,893 @@
+ Civilized World Population
+
+	1882 Dwarves
+	1466 Humans
+	1273 Elves
+	729 Goblins
+	298 Kobolds
+
+	Total: 5648
+
+Sites
+
+1: Gor Memrut, "The Pits of Crucifixion", cave
+	Owner: Thalapronkus, kobolds
+	Parent Civ: Jligragus, kobolds
+	148 kobolds
+	6 kobold outcasts
+2: Vathsithgosmer Astelurrith, "Squareumbras the Allied Scar", cave
+	5 kobolds
+	5 naked mole dogs
+	437 cave spiders
+	410 bats
+3: Norfensast Melagalka, "Coldscar the White Deep", cave
+	Owner: Tlogamin, kobolds
+	Parent Civ: Drusiris, kobolds
+	134 kobolds
+	5 kobold outcasts
+4: Okangezum, "Yorhames", mountain halls
+	Owner: The Boot of Trailing, dwarves
+	Parent Civ: The Lost Armors, dwarves
+	301 dwarves
+	42 dogs
+	32 cats
+	2 mules
+	2 donkeys
+	20 horses
+	2 cows
+	2 sheep
+	3 pigs
+	2 goats
+	12 chickens
+	4 cavies
+	4 ducks
+	2 water buffalos
+	2 reindeer
+	3 geese
+	5 yaks
+	2 llamas
+	3 alpacas
+	4 guineafowls
+	4 blue peafowls
+	44 turkeys
+	2 rabbits
+	7 dwarf outcasts
+	5 wagon outcasts
+	4 horse outcasts
+	1 yak outcast
+5: Elethamima, "Thundercolored", forest retreat
+	Owner: The Viper of Cherishing, elves
+	Parent Civ: The Tree of Pages, elves
+	381 elves
+	9 mules
+	10 donkeys
+	9 horses
+	11 water buffalos
+	11 yaks
+	3 yak outcasts
+	3 elf outcasts
+	2 horse outcasts
+6: Dofusel, "Dentfights", hamlet
+	Owner: The Elder Society, humans
+	Parent Civ: The Maroon Kingdom, humans
+	340 humans
+	35 dogs
+	49 cats
+	2 mules
+	4 donkeys
+	2 horses
+	10 cows
+	2 sheep
+	8 pigs
+	2 goats
+	24 chickens
+	2 cavies
+	6 ducks
+	15 water buffalos
+	2 reindeer
+	8 geese
+	2 yaks
+	3 llamas
+	2 alpacas
+	29 guineafowls
+	6 blue peafowls
+	3 turkeys
+	2 rabbits
+	11 wagon outcasts
+	15 human outcasts
+	2 yak outcasts
+	2 horse outcasts
+	1 elf slave
+7: Serstosbub, "Lurehate", dark fortress
+	Owner: The Faithful Deceiver, goblins
+	Parent Civ: The Nightmares of Inching, goblins
+	382 goblins
+	37 goblin outcasts
+	5 troll outcasts
+	2 dwarf prisoners
+	1 elf prisoner
+	1 human prisoner
+8: Athruarat, "Maroondrill", hamlet
+	Owner: The Embraced Society of Meditation, humans
+	Parent Civ: The Courageous Nation, humans
+	274 humans
+	33 dogs
+	35 cats
+	3 mules
+	2 donkeys
+	2 horses
+	6 cows
+	3 sheep
+	10 pigs
+	2 goats
+	3 chickens
+	2 cavies
+	3 ducks
+	2 water buffalos
+	2 reindeer
+	32 geese
+	2 yaks
+	2 llamas
+	8 alpacas
+	2 guineafowls
+	16 blue peafowls
+	2 turkeys
+	14 rabbits
+	4 wagon outcasts
+	1 horse outcast
+	6 yak outcasts
+	11 human outcasts
+	1 elf slave
+9: Dodokthikut, "Claspedbooks", mountain halls
+	Owner: The Willful Helm, dwarves
+	Parent Civ: The Bolt of Jails, dwarves
+	284 dwarves
+	33 dogs
+	42 cats
+	2 mules
+	2 donkeys
+	16 horses
+	2 cows
+	2 sheep
+	15 pigs
+	8 goats
+	12 chickens
+	2 cavies
+	2 ducks
+	2 water buffalos
+	5 reindeer
+	32 geese
+	2 yaks
+	2 llamas
+	2 alpacas
+	4 guineafowls
+	8 blue peafowls
+	2 turkeys
+	3 rabbits
+	4 wagon outcasts
+	11 dwarf outcasts
+	1 yak outcast
+	4 horse outcasts
+10: Ulanelime, "Growllover", forest retreat
+	Owner: The Safe Hurricane, elves
+	Parent Civ: The Poetry of Furnaces, elves
+	113 elves
+	9 mules
+	10 donkeys
+	9 horses
+	11 water buffalos
+	11 yaks
+	3 horse outcasts
+	4 yak outcasts
+	5 elf outcasts
+11: Odotngoso, "Gangvice", dark fortress
+	Owner: The Wild Fly, goblins
+	Parent Civ: The Seducer of Midnights, goblins
+	82 goblins
+	1 human
+	1 elf
+	39 goblin outcasts
+	11 troll outcasts
+12: Riquicome, "Shockcherishs", forest retreat
+	Owner: The Strong Mother, elves
+	Parent Civ: The Nourishing Mists, elves
+	357 elves
+	9 mules
+	10 donkeys
+	9 horses
+	11 water buffalos
+	11 yaks
+	3 yak outcasts
+	6 elf outcasts
+	2 horse outcasts
+13: Pibunbeh, "Chirpedsmoothness", hamlet
+	Owner: The Fierce Coalition, humans
+	Parent Civ: The Golden Realms, humans
+	432 humans
+	59 dogs
+	48 cats
+	22 mules
+	2 donkeys
+	2 horses
+	2 cows
+	4 sheep
+	2 pigs
+	2 goats
+	2 chickens
+	2 cavies
+	16 ducks
+	2 water buffalos
+	4 reindeer
+	22 geese
+	2 yaks
+	2 llamas
+	2 alpacas
+	31 guineafowls
+	10 blue peafowls
+	24 turkeys
+	2 rabbits
+	15 human outcasts
+	5 horse outcasts
+	5 wagon outcasts
+	6 yak outcasts
+	2 elf slaves
+14: Bosanako, "Dungeontorment", dark fortress
+	Owner: The Deceiver of Torments, goblins
+	Parent Civ: The Monster of Intensity, goblins
+	26 goblins
+	39 goblin outcasts
+15: Saziratis, "Bridgedstakes", mountain halls
+	Owner: The Rooms of Dance, dwarves
+	Parent Civ: The Rim of Tours, dwarves
+	341 dwarves
+	44 dogs
+	39 cats
+	2 mules
+	2 donkeys
+	2 horses
+	2 cows
+	2 sheep
+	2 pigs
+	2 goats
+	2 chickens
+	2 cavies
+	15 ducks
+	2 water buffalos
+	2 reindeer
+	2 geese
+	2 yaks
+	21 llamas
+	2 alpacas
+	28 guineafowls
+	28 blue peafowls
+	6 turkeys
+	7 rabbits
+	4 horse outcasts
+	7 dwarf outcasts
+	2 wagon outcasts
+	1 yak outcast
+16: Rodemsazir, "Peltbridged", mountain halls
+	Owner: The Balanced Crafts, dwarves
+	Parent Civ: The Palace of Treaties, dwarves
+	393 dwarves
+	41 dogs
+	56 cats
+	2 mules
+	3 donkeys
+	8 horses
+	2 cows
+	4 sheep
+	2 pigs
+	2 goats
+	16 chickens
+	9 cavies
+	2 ducks
+	2 water buffalos
+	6 reindeer
+	29 geese
+	4 yaks
+	4 llamas
+	2 alpacas
+	42 guineafowls
+	4 blue peafowls
+	2 turkeys
+	2 rabbits
+	3 horse outcasts
+	7 dwarf outcasts
+	2 wagon outcasts
+	2 yak outcasts
+17: Amiyaase, "Sunnyspotted", forest retreat
+	Owner: The Ecru Aquamarine, elves
+	Parent Civ: The Lion of Meshes, elves
+	389 elves
+	9 mules
+	10 donkeys
+	9 horses
+	11 water buffalos
+	11 yaks
+	5 elf outcasts
+	2 yak outcasts
+	1 horse outcast
+18: Bemspostnal, "Werehail", dark fortress
+	Owner: The Dungeon of Storms, goblins
+	Parent Civ: The Seducer of Lancers, goblins
+	85 goblins
+	38 goblin outcasts
+	8 troll outcasts
+19: Memimemoth, "Muffinequal", hamlet
+	Owner: The Council of Incinerating, humans
+	Parent Civ: The Realms of Sloshing, humans
+	366 humans
+	38 dogs
+	51 cats
+	6 mules
+	4 donkeys
+	2 horses
+	4 cows
+	4 sheep
+	2 pigs
+	4 goats
+	2 chickens
+	3 cavies
+	31 ducks
+	8 water buffalos
+	4 reindeer
+	8 geese
+	3 yaks
+	2 llamas
+	4 alpacas
+	7 guineafowls
+	25 blue peafowls
+	14 turkeys
+	2 rabbits
+	3 wagon outcasts
+	11 human outcasts
+	4 yak outcasts
+20: Melbilinash, "Tomeorgan", mountain halls
+	Owner: The Sabres of Singing, dwarves
+	Parent Civ: The Merchant of Counsellors, dwarves
+	391 dwarves
+	56 dogs
+	39 cats
+	2 mules
+	2 donkeys
+	2 horses
+	2 cows
+	4 sheep
+	4 pigs
+	4 goats
+	59 chickens
+	3 cavies
+	2 ducks
+	8 water buffalos
+	3 reindeer
+	4 geese
+	2 yaks
+	10 llamas
+	4 alpacas
+	10 guineafowls
+	14 blue peafowls
+	2 turkeys
+	4 rabbits
+	12 dwarf outcasts
+	3 yak outcasts
+	4 wagon outcasts
+	2 horse outcasts
+21: Fathanawara, "Roadtwilight", forest retreat
+	13 horses
+	15 yaks
+	8 elves
+	9 mules
+	11 donkeys
+	9 water buffalos
+22: Stobsagozru, "The Courageous Hell", lair
+	1 giant lion outcast
+23: Lushobzanor, "The Low Heart", lair
+	1 blind cave ogre outcast
+24: Evaayanu, "Unionsabyss", lair
+	1 giant dingo outcast
+25: Conngimas Tabarustuth, "Suitorcaves the Faithful Fence", lair
+	1 troll outcast
+26: Stizashgosmer, "Kindleumbras", lair
+	1 cave dragon outcast
+	1 goblin outcast
+27: Uzod Smoxut, "The Conqueror of Savages", labyrinth
+28: Umstostungu, "The Rosy Waxes", shrine
+	1 hill titan outcast
+29: Idalaethithi, "Glensaffron", lair
+	1 roc outcast
+30: Datangikut, "Irondabbled", mountain halls
+
+Outdoor Animal Populations (Including Undead)
+	138 sea serpents
+	3726 gigantic squids
+	6348 squid men
+	825 sea otters
+	2346 giant nautiluses
+	4554 nautilus men
+	551 giant harp seals
+	760 harp seal men
+	399 harp seals
+	456 giant elephant seals
+	950 elephant seal men
+	513 elephant seals
+	4140 giant sperm whales
+	6624 sperm whale men
+	2622 sperm whales
+	52026 giant horseshoe crabs
+	5796 horseshoe crab men
+	68586 horseshoe crabs
+	67896 giant sponges
+	6762 sponge men
+	2070 giant orcas
+	6348 orca men
+	4002 orcas
+	2484 giant cuttlefish
+	4968 cuttlefish men
+	247 giant leopard seals
+	684 leopard seal men
+	228 leopard seals
+	1656 giant crabs
+	4692 crab men
+	41676 crabs
+	2208 giant octopuses
+	5106 octopus men
+	10212 octopuses
+	513 giant narwhals
+	798 narwhal men
+	437 narwhals
+	5520 bluefin tuna
+	1144 great barracudas
+	2820 halibut
+	2618 marlins
+	2499 swordfish
+	3213 ocean sunfish
+	2499 bluefish
+	880 giant groupers
+	2737 opah
+	1410 cod
+	1320 milkfish
+	2444 conger eels
+	2068 sturgeons
+	1012 coelacanths
+	704 stingrays
+	1320 manta rays
+	3451 common skates
+	3332 angelsharks
+	1904 hammerhead sharks
+	3036 blue sharks
+	1320 whitetip reef sharks
+	1320 blacktip reef sharks
+	792 bull sharks
+	1320 tiger sharks
+	3213 longfin mako sharks
+	1785 shortfin mako sharks
+	1650 nurse sharks
+	2250 basking sharks
+	1232 whale sharks
+	2618 spotted wobbegongs
+	2261 spiny dogfish
+	3588 frill sharks
+	1785 great white sharks
+	2350 sea lampreys
+	437 walruses
+	1125 giant moon snails
+	3075 moon snail men
+	3312 giant albatrosses
+	5106 albatross men
+	2484 albatrosses
+	4140 giant ospreys
+	6762 osprey men
+	4002 ospreys
+	589 giant puffins
+	836 puffin men
+	779 puffins
+	570 giant penguins
+	589 penguin men
+	532 emperor penguins
+	418 little penguins
+	456 penguins
+	20 giant snowy owls
+	37 snowy owl men
+	19 snowy owls
+	47 stoat men
+	122 porcupine men
+	30 coyote men
+	759 giant great horned owls
+	297 yetis
+	3 polar bears
+	723 wolves
+	24 elk
+	18 muskoxen
+	18 reindeer
+	2 giant lynx
+	39 lynx men
+	3 lynx
+	27 giant stoats
+	30 stoats
+	36 grizzly bears
+	691 giant dingoes
+	2085 dingo men
+	149 cougars
+	88 sasquatches
+	32 black bears
+	100 giant coatis
+	634 weasels
+	612 giant rattlesnakes
+	644 giant skunks
+	1302 skunk men
+	936 giant kingsnakes
+	908 echidna men
+	932 adder men
+	854 giant snails
+	2322 snail men
+	1582 giant mosquitos
+	2507 mosquito men
+	1414 slug men
+	1354 giant thrips
+	2225 thrips men
+	853 giant lice
+	2754 louse men
+	970 giant ticks
+	2484 tick men
+	2417 mantis men
+	981 giant grasshoppers
+	2606 grasshopper men
+	598 giant moths
+	274 bushtit men
+	1500 giant eagles
+	740 great horned owls
+	990 emu men
+	2487 wren men
+	492 giant barn owls
+	1068 giant sparrows
+	668 giant ravens
+	1602 crow men
+	580 giant kiwis
+	70 giant peregrine falcons
+	1596 dingoes
+	1397 giant wombats
+	480 giant weasels
+	904 giant porcupines
+	1020 giant echidnas
+	380 giant adders
+	557 adders
+	883 kangaroo men
+	356 coyotes
+	1577 hedgehog men
+	508 giant badgers
+	216 buzzards
+	882 groundhogs
+	696 rhesus macaques
+	524 turkeys
+	229 horses
+	746 giant slugs
+	1797 giant mantises
+	3859 great horned owl men
+	908 giant kestrels
+	853 kestrels
+	338 giant magpies
+	1282 magpie men
+	623 giant peach-faced lovebirds
+	1416 peach-faced lovebird men
+	663 giant emus
+	1078 kakapo men
+	1258 barn owl men
+	1219 sparrow men
+	2403 kea men
+	1457 kea
+	1416 raven men
+	1348 giant crows
+	1128 kiwi men
+	2810 peregrine falcon men
+	2680 peregrine falcons
+	35 opossum men
+	21 giant gray langurs
+	19 giant hedgehogs
+	50 wombat men
+	209 kiwis
+	22 coatis
+	182 porcupines
+	323 echidnas
+	3 bobcats
+	300 gray langurs
+	1685 eagles
+	46 giant opossums
+	86 weasel men
+	86 rattlesnake men
+	90 bobcat men
+	58 giant wild boars
+	22 giant hamsters
+	90 badger men
+	66 moth men
+	56 giant bushtits
+	100 coati men
+	58 giant flying squirrels
+	130 skunks
+	733 wombats
+	1052 wild boars
+	9722 ravens
+	57 red pandas
+	72 moose
+	39 raccoons
+	57 foxes
+	54 deer
+	62 flying squirrel men
+	52 giant moose
+	78 moose men
+	44 giant kakapo
+	144 black mambas
+	88 copperhead snakes
+	234 gorillas
+	624 capybaras
+	672 ducks
+	210 swans
+	144 anacondas
+	33 tigers
+	42 leopards
+	42 saltwater crocodiles
+	489 rattlesnakes
+	433 honey badgers
+	39 jaguars
+	90 alligators
+	250 geese
+	138 water buffalos
+	360 barn owls
+	624 white storks
+	864 giant chinchillas
+	648 yaks
+	1368 eagle men
+	1863 kingsnake men
+	914 kingsnakes
+	648 giant coyotes
+	1332 chinchilla men
+	580 chinchillas
+	684 giant wolverines
+	1404 wolverine men
+	394 wolverines
+	622 hoary marmots
+	900 mountain goats
+	1008 giant kea
+	31 gray langur men
+	47 kestrel men
+	22 giant wrens
+	17 giant hares
+	44 hare men
+	19 hares
+	112 giant kangaroos
+	52 giant jumping spiders
+	140 jumping spider men
+	835 hamster men
+	214 emus
+	172 opossums
+	247 kangaroos
+	279 kakapo
+	187 giant aardvarks
+	396 aardvark men
+	111 impala men
+	81 impalas
+	100 giant black mambas
+	440 black mamba men
+	154 giant pangolins
+	396 pangolin men
+	110 giant jackals
+	352 jackal men
+	9 giant ocelots
+	123 ocelot men
+	88 giant monitor lizards
+	539 monitor lizard men
+	160 giant mongooses
+	400 mongoose men
+	46 giant ibexes
+	55 giant cheetahs
+	22 giant jaguars
+	264 giant armadillos
+	429 armadillo men
+	75 gazelles
+	184 elephants
+	30 giant cockatiels
+	220 giant parakeets
+	32 giant white storks
+	98 white stork men
+	60 giant ostriches
+	138 ostrich men
+	75 ostriches
+	553 hyena men
+	240 giant hyenas
+	16 giant tigers
+	72 tigermen
+	198 aardvarks
+	66 giant impalas
+	125 monitor lizards
+	90 ibex men
+	60 ibexes
+	894 wild boar men
+	116 giant lions
+	246 armadillos
+	220 gigantic tortoises
+	340 giant tortoise men
+	352 rhinoceroses
+	130 vultures
+	150 badgers
+	231 cavies
+	154 giant bark scorpions
+	407 bark scorpion men
+	69 cockatiel men
+	369 parakeet men
+	24 rabbits
+	2 giant bobcats
+	23 two-humped camels
+	29 one-humped camels
+	5 giant gila monsters
+	30 gila monster men
+	7 gila monsters
+	21 giant desert tortoises
+	11 giant leopard geckos
+	35 leopard gecko men
+	7 giant desert scorpions
+	5 giant leopards
+	41 desert tortoise men
+	46 pythons
+	30 bushmasters
+	12 sloth bears
+	108 pangolins
+	40 spider monkeys
+	84 sloths
+	138 capuchins
+	108 king cobras
+	94 white-browed gibbons
+	92 silvery gibbons
+	92 gray gibbons
+	54 white-handed gibbons
+	88 siamangs
+	34 blue peafowls
+	132 hornbills
+	40 grey parrots
+	46 tapirs
+	26 aye-ayes
+	100 orangutans
+	111 cassowaries
+	20 jackals
+	10 mongooses
+	29 warthogs
+	21 giraffes
+	36 chimpanzees
+	14 cheetahs
+	29 hyenas
+	132 black-crested gibbons
+	66 black-handed gibbons
+	81 bonobos
+	72 mandrills
+	9 ocelots
+	81 bilous
+	60 pileated gibbons
+	9 lions
+	55890 squids
+	6225 sea nettle jellyfish
+	30174 mackerel
+	31800 flounders
+	41642 sole
+	18568 white-spotted puffers
+	17072 glasseye
+	51051 seahorses
+	38540 hake
+	29516 steelhead trout
+	44475 anchovies
+	43710 shads
+	52828 herrings
+	31950 spotted ratfish
+	49147 thornback rays
+	53431 bat rays
+	36675 brook lampreys
+	30362 hagfish
+	18260 clownfish
+	33450 salmon
+	48438 nautiluses
+	47472 cuttlefish
+	30460 dragonflies
+	31807 damselflies
+	207537 acorn flies
+	27427 pond turtles
+	373913 flies
+	455374 mosquitos
+	15318 toads
+	32989 lizards
+	8921 moghoppers
+	1104 fox squirrels
+	8905 jumping spiders
+	2823 mantises
+	36067 moths
+	39519 wrens
+	13841 hedgehogs
+	38377 rats
+	33373 two-legged rhino lizards
+	37007 fireflies
+	13268 magpies
+	18328 peach-faced lovebirds
+	28369 sparrows
+	2214 grackles
+	16950 cardinals
+	16958 blue jays
+	13818 hamsters
+	16212 monarch butterflies
+	8806 crows
+	3120 flying squirrels
+	2870 chipmunks
+	3049 bushtits
+	1140 gray squirrels
+	1354 green tree frogs
+	906 red squirrels
+	90072 pixies
+	9672 fairies
+	11736 fluffy wamblers
+	4910 red-winged blackbirds
+	9764 large roaches
+	10283 lungfish
+	2937 bark scorpions
+	276 cockatiels
+	320 leopard geckos
+	1596 masked lovebirds
+	2850 parakeets
+	830 lion tamarins
+	2208 lorikeets
+	Unnumbered oysters
+	Unnumbered mussels
+	Unnumbered moon snails
+	Unnumbered worms
+	Unnumbered slugs
+	Unnumbered beetles
+	Unnumbered snails
+	Unnumbered thrips
+	Unnumbered lice
+	Unnumbered ticks
+	Unnumbered bumblebees
+	Unnumbered honey bees
+	Unnumbered ants
+	Unnumbered termites
+
+Underground Animal Populations (Including Undead)
+	240 gorlaks
+	4043 creeping eyes
+	1035 blood men
+	240 reachers
+	240 cave dragons
+	474 blind cave ogres
+	240 trolls
+	242 maneras
+	240 giant cave spiders
+	660 rutherers
+	1655 troglodytes
+	45 cave floaters
+	22 jabberers
+	170 large rats
+	21 voracious cave crawlers
+	1218 cave blobs
+	308 flesh balls
+	240 giant toads
+	240 giant olms
+	240 cave crocodiles
+	994 pond grabbers
+	834 plump helmet men
+	3954 crundles
+	426 dralthas
+	149 giant rats
+	724 naked mole dogs
+	97 giant moles
+	768 elk birds
+	128 green devourers
+	70 blind cave bears
+	70 giant cave swallows
+	246 fire men
+	248 magma men
+	820 fire imps
+	991 magma crabs
+	1328 creepy crawlers
+	1386 purring maggots
+	1418 cave swallows
+	991 bats
+	1491 cave spiders
+	1186 cap hoppers
+	959 olms
+	1731 cave fish
+	1445 cave lobsters
+	1319 fire snakes
