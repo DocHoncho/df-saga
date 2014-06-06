@@ -36,11 +36,8 @@ class BufferedIterator:
 # I'm having a hard time believing it would be so simple
 # Thanks, lxml.objectify!  You're swell!
 def parse_legends(root, func=dict):
-    data = {}
-
     def f(elem, func):
         d = list((f(child, func) for child in elem.iterchildren()))
-
         try:
             r =  func(d) or (elem.tag, elem.text)
 
@@ -64,14 +61,16 @@ if __name__ == '__main__':
     import sys
 
     import os
+    from saga.parsers._legends import parse_legends
 
     def usage():
-        print('Usage: {} <filename> <format:worldsites|worldhistory|legends>'.format(sys.argv[0]))
+        print('Usage: {} <filename> <format:worldsites|worldhistory|legends> <output filename>'.format(sys.argv[0]))
         sys.exit(2)
 
     try:
         in_fn = sys.argv[1]
         fmt = sys.argv[2]
+        out_fn = sys.argv[3]
     except IndexError:
         usage()
 
@@ -89,10 +88,12 @@ if __name__ == '__main__':
             parser=WorldHistoryParser()
             data = parser.parse(rdr)
         elif fmt == 'legends':
-            root = objectify.parse(inf)
-            data = parse_legends(root)
+            print('Loading XML...', flush=True)
+#            root = objectify.parse(inf)
+            data = parse_legends(inf)
         else:
             usage()
 
-#    print(data)
-    print(json.dumps(data, sort_keys=True, indent=2, separators=(',', ': ')))
+    with open(out_fn, 'w') as outf:
+        outf.write(json.dumps(data, sort_keys=True, indent=2, separators=(',', ': ')))
+
