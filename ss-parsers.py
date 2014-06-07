@@ -2,8 +2,9 @@
 import codecs
 from contextlib import contextmanager
 from saga.parsers.world import WorldSitesAndPopsParser, WorldHistoryParser
+from saga.core.handlers import FileWrapper
 
-from lxml import objectify
+from lxml import objectify, etree
 
 class BufferedIterator:
     def __init__(self, iterable):
@@ -54,45 +55,191 @@ def parse_legends(root, func=dict):
 
     return dict(( (item.tag, f(item, func)) for item in root.findall('./') ))
 
+def dictify(node):
+    items = node.findall('./*')
+    d = []
+    for x in items:
+        tag = x.tag
+        try:
+            text = x.text.strip()
+        except AttributeError:
+            continue
+
+        if text == '':
+            p = dictify(x)
+            if p:
+                d.append((tag, p))
+        else:
+            d.append((tag,text))
+
+    t = dict()
+    for k, v in d:
+        if k in t:
+            try:
+                t[k].append(v)
+            except AttributeError:
+                t[k] = [v]
+        else:
+            t[k] = v
+    return t
+
+
+def parse_legends(filelike):
+    data = {
+            'artifacts': {
+                'tag': 'artifact',
+                'data': [],
+                },
+            'entities': {
+                'tag': 'entity',
+                'data': [],
+                },
+            'entity_populations': {
+                'tag': 'entity_population',
+                'data': [],
+                },
+            'historical_eras': {
+                'tag': 'historical_era',
+                'data': [],
+                },
+            'historical_event_collections': {
+                'tag': 'historical_event_collection',
+                'data': [],
+                },
+            'historical_figures': {
+                'tag': 'historical_figure',
+                'data': [],
+                },
+            'historical_figures': {
+                'tag': 'historical_figure',
+                'data': [],
+                },
+            'regions': {
+                'tag': 'region',
+                'data': [],
+                },
+            'sites': {
+                'tag': 'site',
+                'data': [],
+                },
+            'underground_regions': {
+                'tag': 'underground_region',
+                'data': [],
+                },
+            }
+    def df_workflow_sucks(filelike):
+        for x in filelike:
+            print(x)
+            yield x
+
+    keys = list(x['tag'] for _, x in data.items())
+    for event, element in etree.iterparse(FileWrapper(filelike), events=['end']):
+        if element.tag in keys:
+            d = dictify(element)
+            data[element.getparent().tag]['data'].append(d)
+    return data
+
 @contextmanager
-def open_cp437(fn, mode='r'):
-    with codecs.open(fn, mode, 'cp437') as inf:
-        yield inf
+def open_cp437(fn, mode='rb'):
+    with open(fn, mode) as inf:
+        yield codecs.EncodedFile(inf, 'cp437', 'utf-8')
 
 if __name__ == '__main__':
+    import argparse
     import json
-    import sys
-
     import os
+    import sys
+    import yaml
 
-    def usage():
-        print('Usage: {} <filename> <format:worldsites|worldhistory|legends>'.format(sys.argv[0]))
-        sys.exit(2)
+    argp = argparse.ArgumentParser(description='Read and convert several types of exported Dwarf Fortress data files..')
+    argp.add_argument(
+            '-t', '--type',
+            choices=['legends', 'worldsites', 'worldhistory'],
+            dest='file_type',
+            help='Specify type of data to process',
+            required=True,
+            )
+    argp.add_argument(
+            '-o', '--output',
+            default=None,
+            dest='output_file',
+            help='Output filename, if omitted output goes to stdout',
+            required=False,
+            )
+    argp.add_argument(
+            '-f', '--format',
+            choices=['json', 'yaml', 'csv'],
+            default='json',
+            dest='format',
+            help='Format to use for output',
+            required=False,
+            )
+    argp.add_argument(
+            '--indent',
+            default=2,
+            dest='indent',
+            help='Specify indent to use for output',
+            required=False,
+            )
+    argp.add_argument(
+            '--pretty',
+            action='store_true',
+            dest='emit_pretty',
+            default=False,
+            help='Prettify converted output, if format supports it',
+            required=False,
+            )
+    argp.add_argument(
+            '--sorted',
+            action='store_true',
+            dest='emit_sorted',
+            default=False,
+            help='Sort output',
+            required=False
+            )
 
-    try:
-        in_fn = sys.argv[1]
-        fmt = sys.argv[2]
-    except IndexError:
-        usage()
+    argp.add_argument(
+            'input_file',
+            metavar='FILE',
+            help='File to process',
+            )
 
-    if not os.path.exists(in_fn):
-        print('File `{}` does not exist!'.format(in_fn))
+    args = argp.parse_args()
+    print(args.input_file)
+    if not os.path.exists(args.input_file):
+        print('File `{}` does not exist!'.format(args.input_file))
         sys.exit(3)
 
-    with open_cp437(in_fn) as inf:
-        if fmt == 'worldsites':
+    with open_cp437(args.input_file) as inf:
+        if args.file_type == 'worldsites':
             rdr = BufferedIterator(enumerate(inf))
             parser = WorldSitesAndPopsParser()
             data = parser.parse(rdr)
-        elif fmt == 'worldhistory':
+        elif args.file_type == 'worldhistory':
             rdr = BufferedIterator(enumerate(inf))
             parser=WorldHistoryParser()
             data = parser.parse(rdr)
-        elif fmt == 'legends':
-            root = objectify.parse(inf)
-            data = parse_legends(root)
-        else:
-            usage()
+        elif args.file_type == 'legends':
+            data = parse_legends(inf)
 
-#    print(data)
-    print(json.dumps(data, sort_keys=True, indent=2, separators=(',', ': ')))
+    if args.output_file is None:
+        out_file = sys.stdout
+    else:
+        out_file = codecs.open(args.output_file, 'wb', 'utf-8')
+
+    if args.format == 'json':
+        if args.emit_pretty:
+            formatted_data = json.dumps(data, sort_keys=args.emit_sorted, indent=args.indent, seperators=(',', ':'))
+        else:
+            formatted_data = json.dumps(data, sort_keys=args.emit_sorted)
+        out_file.write(formatted_data)
+
+    elif args.format == 'yaml':
+        flow_style = not (args.emit_pretty)
+        out_file.write(yaml.dump(data, default_flow_style=flow_style, indent=args.indent))
+
+    elif args.format == 'csv':
+        print('Not yet supported!')
+        sys.exit(2)
+
+

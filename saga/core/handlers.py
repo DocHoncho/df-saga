@@ -247,8 +247,9 @@ class FileWrapper(object):
     def read(self, *args):
         t = self.data.read(*args)
         n = []
-
-        for x in filter(lambda x: x not in bad_chars, t):
+        print(t)
+        for x in filter(lambda y: y not in bad_chars, t):
+            print(x)
             k = ord(x)
             if k > 255:
                 k = 255
