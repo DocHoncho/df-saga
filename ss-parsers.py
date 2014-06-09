@@ -140,7 +140,7 @@ def parse_legends(filelike):
     return data
 
 @contextmanager
-def open_cp437(fn, mode='rb'):
+def open_cp437(fn, mode='r'):
     with open(fn, mode) as inf:
         yield codecs.EncodedFile(inf, 'cp437', 'utf-8')
 
@@ -205,12 +205,11 @@ if __name__ == '__main__':
             )
 
     args = argp.parse_args()
-    print(args.input_file)
     if not os.path.exists(args.input_file):
         print('File `{}` does not exist!'.format(args.input_file))
         sys.exit(3)
 
-    with open_cp437(args.input_file) as inf:
+    with open_cp437(args.input_file, 'rb') as inf:
         if args.file_type == 'worldsites':
             rdr = BufferedIterator(enumerate(inf))
             parser = WorldSitesAndPopsParser()
@@ -229,7 +228,7 @@ if __name__ == '__main__':
 
     if args.format == 'json':
         if args.emit_pretty:
-            formatted_data = json.dumps(data, sort_keys=args.emit_sorted, indent=args.indent, seperators=(',', ':'))
+            formatted_data = json.dumps(data, sort_keys=args.emit_sorted, indent=args.indent, separators=(',', ':'))
         else:
             formatted_data = json.dumps(data, sort_keys=args.emit_sorted)
         out_file.write(formatted_data)

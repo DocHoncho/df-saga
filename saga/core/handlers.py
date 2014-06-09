@@ -245,16 +245,12 @@ class FileWrapper(object):
         self.data = data
 
     def read(self, *args):
-        t = self.data.read(*args)
+        line = self.data.readline()
         n = []
-        print(t)
-        for x in filter(lambda y: y not in bad_chars, t):
-            print(x)
-            k = ord(x)
-            if k > 255:
-                k = 255
-            n.append(k)
-
+        for x in line:
+            if x > 255:
+                x=255
+            n.append(x)
         return bytes(n)
 
 
