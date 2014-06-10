@@ -245,7 +245,7 @@ class FileWrapper(object):
         self.data = data
 
     def read(self, *args):
-        line = self.data.readline()
+        line = self.data.readline().strip()
         n = []
         for x in line:
             if x > 255:
