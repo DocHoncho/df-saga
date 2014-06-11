@@ -2,9 +2,11 @@ from lxml import etree
 from saga.core.handlers import FileWrapper
 import sys
 
+from collections import deque
+
 class Target:
     def __init__(self):
-        self.stack = []
+        self.stack = deque()
 
 
     def start(self, tag, attrib):
@@ -12,25 +14,30 @@ class Target:
 
 
     def end(self, tag):
-        if len(self.stack) < 1:
+        t = self.stack.pop()
+        if len(self.stack) == 0:
+            print('only one item on stack at end')
+            self.stack.append(t)
             return
 
-        t = self.stack[-1]
-        self.stack = self.stack[:-1]
+        t2 = self.stack.pop()
 
-        k = self.stack[-1]
-
-        if k[1] is None:
-            self.stack[-1] = (k[0], t)
+        if t2[1] is None:
+            self.stack.append((t2[0], t))
         else:
             try:
-                k[1].append(t)
+                t2[1].append(t)
+                self.stack.append(t2)
+
             except AttributeError:
-                k[1] = [k[1], t]
+                self.stack.append((t2[0], [t]))
+
 
 
     def data(self, data):
-        self.stack[-1] = (stack[-1][0], data)
+        t = self.stack.pop()
+        t = (t[0], data)
+        self.stack.append(t)
 
 
     def comment(self, text):
