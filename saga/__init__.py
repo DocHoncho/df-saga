@@ -23,20 +23,6 @@ def templated(template=None):
         return decorated_function
     return decorator
 
-@app.context_processor
-def utility_processor():
-    def format_price(amount, currency=u'€'):
-        return u'{0:.2f}{1}'.format(amount, currency)
-    def say_cheese(cheese):
-        return "You cheesed ({})".format(cheese)
-    def asset(url):
-        return url_for('static', filename=url)
-
-    return dict(
-            format_price=format_price,
-            say_cheese=say_cheese,
-            asset=asset,
-            )
 
 @app.route('/')
 def index():
