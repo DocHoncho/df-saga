@@ -76,11 +76,8 @@ file_type_map = {
 
 with open_cp437(args.input_file, 'rb') as inf:
     parser_cls = file_type_map[args.file_type]
-    parser = parser_cls(inf)
-
-    import pdb; pdb.set_trace()
-
-    data = parser.parse()
+    parser = parser_cls()
+    data = parser.parse(inf)
 
 if args.output_file is None:
     out_file = sys.stdout

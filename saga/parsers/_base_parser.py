@@ -1,5 +1,4 @@
 import re
-from saga.util.io import BufferedIterator
 
 
 class StopParser(Exception):
@@ -7,17 +6,13 @@ class StopParser(Exception):
        super(StopParser, self).__init__('StopParser: {}'.format(msg or ''))
 
 
-class BaseParser(object):
-    def __init__(self, name, key, iterable, *, rules=None, discard_blank_lines=True):
+class BaseParser:
+    def __init__(self, name, key, *, rules=None, discard_blank_lines=True):
         self.name = name
         self.discard_blank_lines = discard_blank_lines
         self.key = key
         self.rules = []
         self.add_rules(rules or [])
-        if type(iterable) != BufferedIterator:
-            self.iterable = BufferedIterator(enumerate(iterable))
-        else:
-            self.iterable = iterable
 
 
     def add_rule(self, name, pattern, func):
@@ -29,13 +24,13 @@ class BaseParser(object):
             self.add_rule(*rule)
 
 
-    def parse(self):
+    def parse(self, iterable, data=None):
         done = False
         context = {}
 
         while not done:
             try:
-                i, line = next(self.iterable)
+                i, line = next(iterable)
                 if self.discard_blank_lines and line.strip() == '':
                     continue
 
@@ -43,7 +38,7 @@ class BaseParser(object):
                     res = rule_pattern.search(line.rstrip())
                     if res:
                         res_data = [x.strip() for x in res.groups()]
-                        rule_result = rule_func(self.iterable, res_data)
+                        rule_result = rule_func(iterable, res_data)
                         #import pdb; pdb.set_trace()
                         if self.key is None:
                             # With key==None, merge results with context.
@@ -73,7 +68,7 @@ class BaseParser(object):
                 continue
 
             except StopParser:
-                self.terable.cancel()
+                iterable.cancel()
                 done = True
                 continue
 

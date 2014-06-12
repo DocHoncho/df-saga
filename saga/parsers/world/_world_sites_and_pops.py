@@ -83,11 +83,10 @@ class SitesParser(BaseParser):
 
 
 class WorldSitesAndPopsParser(BaseParser):
-    def __init__(self, filelike):
+    def __init__(self):
         super(WorldSitesAndPopsParser, self).__init__(
                 'world_sites_and_pops',
                 'world_sites_and_pops',
-                BufferedIterator(enumerate(filelike)),
                 rules = [
                     (
                         'world_pops',
@@ -111,6 +110,12 @@ class WorldSitesAndPopsParser(BaseParser):
                         ),
                     ],
                 )
+
+
+    def parse(self, iterable, data=[]):
+        wrapped_iterable = BufferedIterator(enumerate(iterable))
+        return super(WorldSitesAndPopsParser, self).parse(wrapped_iterable, data)
+
 
     def pops_handler(self, name):
         def f(iterable, data):

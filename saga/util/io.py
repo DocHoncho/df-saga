@@ -46,6 +46,6 @@ class CleanedLineReader(object):
 
 @contextmanager
 def open_cp437(fn, mode='r'):
-    with open(fn, mode) as inf:
-        yield codecs.EncodedFile(inf, 'cp437', 'utf-8')
+    with codecs.open(fn, mode, 'cp437') as inf:
+        yield inf
 
