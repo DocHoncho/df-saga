@@ -1,5 +1,6 @@
 from saga.parsers import BaseParser
 from saga.parsers.helpers import create_simple_handler, create_parser_handler
+from saga.util.io import BufferedIterator
 
 
 class PopulationParser(BaseParser):
@@ -82,10 +83,11 @@ class SitesParser(BaseParser):
 
 
 class WorldSitesAndPopsParser(BaseParser):
-    def __init__(self):
+    def __init__(self, filelike):
         super(WorldSitesAndPopsParser, self).__init__(
                 'world_sites_and_pops',
                 'world_sites_and_pops',
+                BufferedIterator(enumerate(filelike)),
                 rules = [
                     (
                         'world_pops',
@@ -107,8 +109,8 @@ class WorldSitesAndPopsParser(BaseParser):
                         r'^Underground Animal Populations.*$',
                         self.pops_handler('underground_populations')
                         ),
-                    ])
-
+                    ],
+                )
 
     def pops_handler(self, name):
         def f(iterable, data):

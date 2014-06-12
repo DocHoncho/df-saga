@@ -1,26 +1,14 @@
-#!/bin/env python3
+#! python3
 import argparse
 import codecs
 import json
 import os
 import sys
-from saga.util.io import open_cp437, BufferedIterator, CleanedLineReader
-from saga.parsers import parse_legends
+import yaml
+
+from saga.util.io import open_cp437
+from saga.parsers.legends import LegendsParser
 from saga.parsers.world import WorldSitesAndPopsParser, WorldHistoryParser
-
-def usage():
-    print('Usage: {} <filename> <format:worldsites|worldhistory|legends> <output filename>'.format(sys.argv[0]))
-    sys.exit(2)
-
-try:
-    in_fn = sys.argv[1]
-    fmt = sys.argv[2]
-    out_fn = sys.argv[3]
-except IndexError:
-    usage()
-
-if not os.path.exists(in_fn):
-    print('File `{}` does not exist!'.format(in_fn))
 
 argp = argparse.ArgumentParser(description='Read and convert several types of exported Dwarf Fortress data files..')
 argp.add_argument(
@@ -80,21 +68,19 @@ if not os.path.exists(args.input_file):
     print('File `{}` does not exist!'.format(args.input_file))
     sys.exit(3)
 
+file_type_map = {
+        'worldsites': WorldSitesAndPopsParser,
+        'legends': LegendsParser,
+        'worldhistory': WorldHistoryParser,
+        }
+
 with open_cp437(args.input_file, 'rb') as inf:
-    if args.file_type == 'worldsites':
-        rdr = BufferedIterator(enumerate(inf))
-        parser = WorldSitesAndPopsParser()
-        data = parser.parse(rdr)
-    elif args.file_type == 'worldhistory':
-        rdr = BufferedIterator(enumerate(inf))
-        parser=WorldHistoryParser()
-        data = parser.parse(rdr)
-    elif fmt == 'legends':
-        print('Loading XML...', flush=True)
-#            root = objectify.parse(inf)
-        data = parse_legends(inf)
-    elif args.file_type == 'legends':
-        data = parse_legends(inf)
+    parser_cls = file_type_map[args.file_type]
+    parser = parser_cls(inf)
+
+    import pdb; pdb.set_trace()
+
+    data = parser.parse()
 
 if args.output_file is None:
     out_file = sys.stdout
@@ -117,6 +103,6 @@ elif args.format == 'csv':
     sys.exit(2)
 
 
-with open(out_fn, 'w') as outf:
+with open(args.output_file, 'w') as outf:
     outf.write(json.dumps(data, sort_keys=True, indent=2, separators=(',', ': ')))
 

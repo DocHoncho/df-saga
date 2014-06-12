@@ -4,7 +4,7 @@ import sys
 
 from collections import deque
 
-class XMLEventTarget:
+class LegendsEventTarget:
     def __init__(self):
         self.stack = deque()
 
@@ -47,18 +47,21 @@ class XMLEventTarget:
         return "Closed"
 
 
-def parse_legends(filelike):
-    wrapped_file = CleanedLineReader(filelike)
-    parser = etree.XMLParser(target=XMLEventTarget())
+class LegendsParser(object):
+    def __init__(self, filelike):
+        self.wrapped_file = CleanedLineReader(filelike)
+        self.parser = etree.XMLParser(target=LegendsEventTarget())
 
-    while True:
-        try:
-            etree.parse(wrapped_file, parser)
-        except etree.XMLSyntaxError as e:
-            print(e)
-            sys.exit(1)
 
-    return parser.target.stack
+    def parse(self):
+        while True:
+            try:
+                etree.parse(self.wrapped_file, self.parser)
+            except etree.XMLSyntaxError as e:
+                print(e)
+                sys.exit(1)
+
+        return self.parser.target.stack
 
 
 """
