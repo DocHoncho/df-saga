@@ -1,0 +1,34 @@
+version: 1
+disable_previous_loggers: yes
+formatters:
+    brief: 
+        format: "[%(asctime)s] %(name)s.%(levelname)s - %(message)s"
+    precise: 
+        format: "[%(asctime)s] - %(name)s.%(levelname)s - %(filename)s:%(lineno)s - %(message)s"
+
+handlers:
+    console:
+        class: logging.StreamHandler
+        formatter: brief
+        level: INFO
+        stream: ext://sys.stdout
+
+    default_file:
+        class: logging.handlers.RotatingFileHandler
+        formatter: precise
+        filename: './logs/saga.log'
+        mode: a
+        maxBytes: 102400
+        backupCount: 3
+
+loggers:
+    saga:
+        handlers: [console]
+        level: DEBUG
+
+root:
+    handlers: [default_file]
+    level: DEBUG
+    propagate: no
+
+

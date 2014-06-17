@@ -1,6 +1,7 @@
 import re
 
 
+
 class StopParser(Exception):
     def __init__(self, msg=None):
        super(StopParser, self).__init__('StopParser: {}'.format(msg or ''))

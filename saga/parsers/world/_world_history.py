@@ -1,5 +1,9 @@
 from saga.parsers import BaseParser
+from saga.parsers.rules import Rule
 from saga.parsers.helpers import create_simple_handler, create_parser_handler
+from saga.util.io import BufferedIterator
+
+
 
 
 class BareNamesParser(BaseParser):
@@ -8,6 +12,11 @@ class BareNamesParser(BaseParser):
                 'bare_names',
                 'bare_names',
                 rules = [
+                    RegexRule(
+                        'item',
+                        r'^([\w\s]+$',
+                        lambda i, d: d[0])m
+                    EndParseRule(r'^.*\,')
                     ('bare_name',
                         r'^([\w\s]+)$',
                         lambda i, d: d[0]
@@ -41,6 +50,8 @@ class WorldHistoryParser(BaseParser):
 
 
     def parse(self, iterable, data=None):
-        result = super(WorldHistoryParser, self).parse(iterable, data)
+        wrapped = BufferedIterator(enumerate(iterable))
+        x = {}
+        result = super(WorldHistoryParser, self).parse(wrapped, data)
 
         return result

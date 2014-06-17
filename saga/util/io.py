@@ -26,6 +26,7 @@ class BufferedIterator(object):
         self.buf.append(self.current_item)
 
 
+    @property
     def current(self):
         return self.current_item
 

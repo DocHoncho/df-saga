@@ -48,20 +48,18 @@ class LegendsEventTarget:
 
 
 class LegendsParser(object):
-    def __init__(self, filelike):
-        self.wrapped_file = CleanedLineReader(filelike)
-        self.parser = etree.XMLParser(target=LegendsEventTarget())
+    def parse(self, iterable, data=[]):
+        wrapped = CleanedLineReader(iterable)
+        parser = etree.XMLParser(target=LegendsEventTarget())
 
-
-    def parse(self):
         while True:
             try:
-                etree.parse(self.wrapped_file, self.parser)
+                etree.parse(wrapped, parser)
             except etree.XMLSyntaxError as e:
                 print(e)
                 sys.exit(1)
 
-        return self.parser.target.stack
+        return parser.target.stack
 
 
 """
