@@ -4,7 +4,7 @@ import os
 
 class Repo(object):
     def __init__(self, home=None, debug=False):
-        self.home = home or os.abspath(home or '.')
+        self.home = home or os.path.abspath(home or '.')
         self.debug = debug
 pass_repo = click.make_pass_decorator(Repo)
 

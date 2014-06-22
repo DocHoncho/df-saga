@@ -15,7 +15,5 @@ map_type_regexps = [
         ]
 
 if __name__ == '__main__':
-    :w
-
-
+    pass
 

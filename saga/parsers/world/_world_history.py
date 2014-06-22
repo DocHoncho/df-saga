@@ -15,7 +15,7 @@ class BareNamesParser(BaseParser):
                     RegexRule(
                         'item',
                         r'^([\w\s]+$',
-                        lambda i, d: d[0])m
+                        lambda i, d: d[0]),
                     EndParseRule(r'^.*\,')
                     ('bare_name',
                         r'^([\w\s]+)$',
