@@ -11,23 +11,84 @@ from saga.parsers.legends import LegendsParser
 from saga.parsers.world import WorldSitesAndPopsParser, WorldHistoryParser
 
 class CliContext(object):
-    def __init__(self, verbose=False):
+    def __init__(self, format='yaml', pretty=True, verbose=False, output=sys.stdout, indent=4):
         self.verbose = verbose
-pass_context = click.make_pass_decorator(CliContext)
+        self.pretty = pretty
+        self.format = format
+        self.indent = indent
+    
+        try:
+            self.output = output.open()
+        except AttributeError:
+            self.output = output
+
+
+    def format_output(self, data):
+        if self.format == 'yaml':
+            output = yaml.dumps(data, default_flow_style=not self.pretty, indent=self.indent)
+
+        elif self.format == 'json':
+            output = json.dumps(data,
+                               sort_keys=True,
+                               indent=self.indent,
+                               separators=(',', ':'))
+        elif self.format == 'csv':
+            output = 'Nah, I don\'t feel like it...'
+
+        return output
+    
+
+    def echo(self, msg, *args):
+        msg %= args
+
+        click.echo(msg, file=self.output)
+
+
+    def vecho(self, msg, *args):
+        if self.verbose:
+            msg %= args
+            click.echo(msg, file=sys.stderr)
+
+
+take_context = click.make_pass_decorator(CliContext)
+
 
 @click.group()
 @click.option('-f', '--format', default='yaml', metavar="FORMAT", type=click.Choice(['csv', 'json', 'yaml']))
-@click.option('--pretty/--ugly', default=True, metavar="STYLE")
-@click.option('-v', '--verbose', default=False)
+@click.option('--pretty/--ugly', default=True, help="Generate human or machine friendly output")
+@click.option('-v', '--verbose', default=False, is_flag=True)
+@click.option('-o', '--output', default=sys.stdout, type=click.File('w'), metavar="FILE", help="File to write generated output to.  Default STDOUT")
+@click.option('--indent', default=4, help='Indent width for formats that accept it')
 @click.pass_context
-def cli(ctx, verbose):
-    pass
+def cli(ctx, format, pretty, output, verbose, indent):
+    ctx.obj = CliContext(format, pretty, verbose, output, indent)
+    ctx.obj.vecho('Initialized Context (format=%s, pretty=%s, verbose=%s, indent=%s)', format, pretty, verbose, indent)
 
 
 @cli.command(help='Work with legends data')
-@pass_context
-def legends(ctx):
-    pass
+@click.argument('file', metavar='FILE', type=click.Path(dir_okay=False, exists=True))
+@take_context
+def legends(ctx, file):
+    ctx.vecho('Processing legends file `%s`, with output to `%s`...', file, ctx.output.name)
+    with open_cp437(file, 'rb') as inf:
+        parser = LegendsParser()
+        data = parser.parse(inf)
+        ctx.vecho('Formatting output...')
+        output = ctx.format_output(data)
+        ctx.echo(output)    
+
+
+@cli.command(help='Work with world history data')
+@click.argument('file', metavar='FILE', type=click.Path(dir_okay=False, exists=True))
+@take_context
+def worldhistory(ctx, file):
+    ctx.vecho('Processing world history file `%s, with output to `%s`...', file, ctx.output.name)
+    parser = WorldHistoryParser()
+    data = parser.parse(file)
+    ctx.vecho('Preparing output...')
+    output = ctx.format_output(data)
+    ctx.echo(output)
+
 
 if __name__ == '__main__':
     cli()

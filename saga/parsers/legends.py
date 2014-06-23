@@ -1,8 +1,17 @@
-from lxml import etree
-from saga.util.io import CleanedLineReader
+import types
 import sys
 
 from collections import deque
+from lxml import etree
+from saga.util.io import CleanedLineReader
+
+
+xml_sections = [
+        'regions',
+        'underground_regions',
+        '',
+        ]
+
 
 class LegendsEventTarget:
     def __init__(self):
@@ -10,33 +19,40 @@ class LegendsEventTarget:
 
 
     def start(self, tag, attrib):
-        self.stack.append({tag: None})
+        self.stack.append((tag, None))
 
 
     def end(self, tag):
         t = self.stack.pop()
         if len(self.stack) == 0:
-            print('only one item on stack at end')
             self.stack.append(t)
             return
 
         t2 = self.stack.pop()
-        print(t, t2)
-        if t2[1] is None:
-            self.stack.append((t2[0], t))
+        try:
+            k2, v2 = t2
+        except ValueError:
+            import pdb; pdb.set_trace()
+
+#        print('tag: %s t: %s t2: %s'%(tag, t, t2))
+
+        if v2 is None:
+            self.stack.append((k2, t))
+
         else:
             try:
-                t2[1].append(t)
+                v2.append(t)
                 self.stack.append(t2)
 
             except AttributeError:
-                self.stack.append((t2[0], [t]))
+                self.stack.append((k2, [t]))
 
 
     def data(self, data):
         t = self.stack.pop()
-        t = (t[0], data)
-        self.stack.append(t)
+        k, _ = t
+
+        self.stack.append((k, data))
 
 
     def comment(self, text):
@@ -55,12 +71,11 @@ class LegendsParser(object):
         while True:
             try:
                 etree.parse(wrapped, parser)
-            except etree.XMLSyntaxError as e:
-                print(e)
-                sys.exit(1)
+            except etree.XMLSyntaxError:
+                break
 
-        return parser.target.stack
-
+        d = parser.target.stack[0]
+        return d
 
 """
 

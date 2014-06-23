@@ -39,9 +39,12 @@ class CleanedLineReader(object):
         line = self.data.readline().strip()
         n = []
         for x in line:
-            if x > 255:
-                x=255
-            n.append(x)
+            ox = ord(x)
+
+            if ox > 255:
+                ox = 255
+
+            n.append(ox)
         return bytes(n)
 
 
