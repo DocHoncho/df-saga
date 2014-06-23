@@ -1,0 +1,36 @@
+#! python3
+import codecs
+import json
+import os
+import sys
+import yaml
+import click
+
+from saga.util.io import open_cp437
+from saga.parsers.legends import LegendsParser
+from saga.parsers.world import WorldSitesAndPopsParser, WorldHistoryParser
+
+class CliContext(object):
+    def __init__(self, verbose=False):
+        self.verbose = verbose
+pass_context = click.make_pass_decorator(CliContext)
+
+@click.group()
+@click.option('-f', '--format', default='yaml', metavar="FORMAT", type=click.Choice(['csv', 'json', 'yaml']))
+@click.option('--pretty/--ugly', default=True, metavar="STYLE")
+@click.option('-v', '--verbose', default=False)
+@click.pass_context
+def cli(ctx, verbose):
+    pass
+
+
+@cli.command(help='Work with legends data')
+@pass_context
+def legends(ctx):
+    pass
+
+if __name__ == '__main__':
+    cli()
+    sys.exit()
+
+

@@ -113,7 +113,7 @@ class WorldSitesAndPopsParser(BaseParser):
 
 
     def parse(self, iterable, data=[]):
-        wrapped_iterable = BufferedIterator(enumerate(iterable))
+        wrapped_iterable = BufferedIteror(enumerate(iterable))
         return super(WorldSitesAndPopsParser, self).parse(wrapped_iterable, data)
 
 
