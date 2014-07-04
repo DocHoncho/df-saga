@@ -2,51 +2,39 @@
 from saga.util.io import open_cp437
 from saga.parsers.legends import LegendsParser
 
-def bootstrap(n=0):
+def bootstrap(fn):
     t = LegendsParser()
-    with open_cp437('data/worlds/test/legends.xml') as inf:
+    with open_cp437(fn) as inf:
         d = t.parse(inf)
 
     return d
-data = bootstrap()
 
-def f(k):
-    try:
-        head, tail = k
-    except ValueError:
-        return k
+def proc(x, n=0):
+    head, *rest = x
+    if type(rest) == list and len(rest) > 0:
+        rest  = rest[0]
+    print("{}: h:{} r:{}".format(n, head, rest))
+    if rest:
+        if type(rest) == str:
+            return x
 
-    if type(tail) == str:
-        return {head: tail}
-    elif tail is None:
-        return head
-    else:
-        data = {}
-        for item in tail:
-            r = f(item)
-            items = None
+        return proc(rest, n+1)
 
-            try:
-                items = r.items()
-            except AttributeError as e:
-                try:
-                    data[r] = []
-                    items = []
-                except TypeError:
-                    items = r
+if __name__ == '__main__':
+    import json
+    data = ('entities',
+            ('entity',
+                ('id', '1'),
+                ('name', 'wakka wakka wakka')),
+            ('entity',
+                ('id', '2')),
+            ('entity',
+                ('id', '3'),
+                ('name', 'Blorrt')))
 
-            for k, v in items:
-                if k in data:
-                    try:
-                        data[k].append(v)
-                    except AttributeError:
-                        data[k] = [data[k], v]
-                else:
-                    data[k] = v
-
-        return {head: data}
-
-import json
-with open('foo', 'w') as outf:
-    outf.write(json.dumps(f(data), indent=2, separators=(',', ':'), sort_keys=True))
-
+    ree = { 'entity': [
+        {'id': '1', 'name': 'wakka wakka wakka'},
+        {'id': '2'},
+        {'id': '3', 'name': 'Blorrt'}
+        ]}
+    proc(data)

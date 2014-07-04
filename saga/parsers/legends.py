@@ -4,14 +4,7 @@ import sys
 from collections import deque
 from lxml import etree
 from saga.util.io import CleanedLineReader
-
-
-xml_sections = [
-        'regions',
-        'underground_regions',
-        '',
-        ]
-
+from saga.util import dictify
 
 class LegendsEventTarget:
     def __init__(self):
@@ -23,36 +16,31 @@ class LegendsEventTarget:
 
 
     def end(self, tag):
-        t = self.stack.pop()
+        import pdb; pdb.set_trace()
+        obj = self.stack.pop()
         if len(self.stack) == 0:
-            self.stack.append(t)
+            self.stack.append(obj)
             return
+        obj_dict = dictify(obj)
 
-        t2 = self.stack.pop()
-        try:
-            k2, v2 = t2
-        except ValueError:
-            import pdb; pdb.set_trace()
+        operand = self.stack.pop()
+        op_key, op_val = operand
 
-#        print('tag: %s t: %s t2: %s'%(tag, t, t2))
-
-        if v2 is None:
-            self.stack.append((k2, t))
+        if op_val is None:
+            self.stack.append((op_key, obj_dict))
 
         else:
             try:
-                v2.append(t)
-                self.stack.append(t2)
+                op_val.append(obj_dict)
+                self.stack.append(operand)
 
             except AttributeError:
-                self.stack.append((k2, [t]))
+                self.stack.append((op_key, [op_val, obj_dict]))
 
 
     def data(self, data):
-        t = self.stack.pop()
-        k, _ = t
-
-        self.stack.append((k, data))
+        obj = self.stack.pop()
+        self.stack.append((obj[0], data))
 
 
     def comment(self, text):
@@ -64,109 +52,40 @@ class LegendsEventTarget:
 
 
 class LegendsParser(object):
-    def parse(self, iterable, data=[]):
+    def _do_parse(self, iterable):
+        """Perform actual XML parsing, returning results which should be a nested set of tuples
+        """
         wrapped = CleanedLineReader(iterable)
         parser = etree.XMLParser(target=LegendsEventTarget())
 
         while True:
             try:
                 etree.parse(wrapped, parser)
-            except etree.XMLSyntaxError:
+            except etree.XMLSyntaxError as e:
+                print(e)
                 break
 
-        d = parser.target.stack[0]
-        return d
+        return parser.target.stack[0]
 
-"""
 
-# I'm having a hard time believing it would be so simple
-# Thanks, lxml.objectify!  You're swell!
-# Annnd it was too good to be true.  This version uses extreme amounts
-# or memory.  But it's pretty cool anyway
-def parse_legends(root, func=dict):
-    data = {}
+    def _fix_parse_output(self, data):
+        """Strips df_world and the container keys out of the result dictionary.
 
-    def f(elem, func):
-        d = list((f(child, func) for child in elem.iterchildren()))
-
-        try:
-            r =  func(d) or (elem.tag, elem.text)
-
-        # ValueError should be thrown by func when it cannot process the data given to it
-        # In the default case, dict throws an error when passed a list of other dicts, which
-        # indicates that all items in the original root have been processed.
-        except ValueError:
-            return d
-
-        return r
-
-    return dict(( (item.tag, f(item, func)) for item in root.findall('./') ))
-
-def dictify(node):
-    items = node.findall('./*')
-    d = []
-    for x in items:
-        tag = x.tag
-        try:
-            text = x.text.strip()
-        except AttributeError:
-            continue
-
-        if text == '':
-            p = dictify(x)
-            if p:
-                d.append((tag, p))
-        else:
-            d.append((tag,text))
-
-    t = dict()
-    for k, v in d:
-        if k in t:
+        E.g., given { 'words': { 'word': [ "cat", "dog", "mouse"]}}
+        return { "word": [ "cat", "dog", "mouse"]
+    """
+        nd = {}
+        for k, v in data[1]:
             try:
-                t[k].append(v)
-            except AttributeError:
-                t[k] = [v]
-        else:
-            t[k] = v
-    return t
+                nd.update(**v)
+            except TypeError:
+                nd[k] = v[1]
 
-import json
-def dump_json(fn, data):
-    with open(fn, 'w') as outf:
-        outf.write(json.dumps(data, indent=2, separators=(',', ': '), sort_keys=True))
+        return nd
 
-def unique(func, data):
-    s = set()
-    for d in data:
-        s.add(func(d))
 
-    return sorted(s)
+    def parse(self, iterable, data=None):
+        data = self._do_parse(iterable)
+        return self._fix_parse_output(data)
 
-def events_by_type(t, data):
-    return filter(lambda x: x['type'] == t, data)
-
-def parse_legends(f, **kwargs):
-    verbose = kwargs.get('verbose', False)
-
-    dat = {}
-    root = etree.parse(f)
-
-    top_levels = root.find('.')
-    for x in top_levels:
-        items = x.find('.')
-        td = []
-        if verbose:
-            print('Processing "{}" ({} items)'.format(x.tag, len(items)))
-
-        sig_set = set()
-        for item in items:
-            d = dictify(item)
-            sig = get_sig(item)
-            d['sig'] = sig
-            sig_set.add(sig)
-
-            td.append(d)
-        dat[x.tag] = {'sigs': sorted(sig_set), 'data': td}
-    return dat
-"""
 
