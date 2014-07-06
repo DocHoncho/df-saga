@@ -6,3 +6,4 @@ old_data/
 build/
 __pycache__/
 *.pyc
+*.egg-info

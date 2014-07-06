@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<df_world>
+<regions>
+	<region>
+		<id>0</id>
+		<name>the seas of society</name>
+		<type>Ocean</type>
+	</region>
+	<region>
+		<id>1</id>
+		<name>the foggy winter</name>
+		<type>Tundra</type>
+	</region>
+	<region>
+		<id>2</id>
+		<name>the prestigious jungle</name>
+		<type>Forest</type>
+	</region>
+	<region>
+		<id>3</id>
+		<name>the hill of men</name>
+		<type>Hills</type>
+	</region>
+	<region>
+		<id>4</id>
+		<name>the hills of decency</name>
+		<type>Hills</type>
+	</region>
+	<region>
+		<id>5</id>
+		<name>the eternal forest</name>
+		<type>Forest</type>
+	</region>
+	<region>
+		<id>6</id>
+		<name>the hills of touch</name>
+		<type>Hills</type>
+	</region>
+	<region>
+		<id>7</id>
+		<name>the soaked hill</name>
+		<type>Hills</type>
+	</region>
+	<region>
+		<id>8</id>
+		<name>the present jungle</name>
+		<type>Forest</type>
+	</region>
+	<region>
+		<id>9</id>
+		<name>the prairie of deer</name>
+		<type>Grassland</type>
+	</region>
+	<region>
+		<id>10</id>
+		<name>the forests of tin</name>
+		<type>Forest</type>
+	</region>
+	<region>
+		<id>11</id>
+		<name>the hill of trails</name>
+		<type>Hills</type>
+	</region>
+	<region>
+		<id>12</id>
+		<name>the dented forests</name>
+		<type>Forest</type>
+	</region>
+	<region>
+		<id>13</id>
+		<name>the beloved murk</name>
+		<type>Wetland</type>
+	</region>
+	<region>
+		<id>14</id>
+		<name>the spine of consideration</name>
+		<type>Mountains</type>
+	</region>
+	<region>
+		<id>15</id>
+		<name>the calm field</name>
+		<type>Grassland</type>
+	</region>
+	<region>
+		<id>16</id>
+		<name>the steppe of diversion</name>
+		<type>Grassland</type>
+	</region>
+	<region>
+		<id>17</id>
+		<name>the adorable steppe</name>
+		<type>Grassland</type>
+	</region>
+	<region>
+		<id>18</id>
+		<name>the roasted hill</name>
+		<type>Hills</type>
+	</region>
+	<region>
+		<id>19</id>
+		<name>the ferocious plain</name>
+		<type>Grassland</type>
+	</region>
+	<region>
+		<id>20</id>
+		<name>the finger of squirming</name>
+		<type>Mountains</type>
+	</region>
+	<region>
+		<id>21</id>
+		<name>the dunes of sorcery</name>
+		<type>Desert</type>
+	</region>
+	<region>
+		<id>22</id>
+		<name>the wooden forests</name>
+		<type>Forest</type>
+	</region>
+	<region>
+		<id>23</id>
+		<name>the plain of owners</name>
+		<type>Grassland</type>
+	</region>
+	<region>
+		<id>24</id>
+		<name>the contested jungles</name>
+		<type>Forest</type>
+	</region>
+	<region>
+		<id>25</id>
+		<name>the fed hills</name>
+		<type>Hills</type>
+	</region>
+	<region>
+		<id>26</id>
+		<name>the occult hills</name>
+		<type>Hills</type>
+	</region>
+</regions>
+</df_world>

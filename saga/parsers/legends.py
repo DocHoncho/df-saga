@@ -16,12 +16,12 @@ class LegendsEventTarget:
 
 
     def end(self, tag):
-        import pdb; pdb.set_trace()
         obj = self.stack.pop()
-        if len(self.stack) == 0:
-            self.stack.append(obj)
-            return
         obj_dict = dictify(obj)
+
+        if len(self.stack) == 0:
+            self.stack.append(obj_dict)
+            return
 
         operand = self.stack.pop()
         op_key, op_val = operand
@@ -75,12 +75,14 @@ class LegendsParser(object):
         return { "word": [ "cat", "dog", "mouse"]
     """
         nd = {}
-        for k, v in data[1]:
+        for item in data[1]:
             try:
+                k, v = item
                 nd.update(**v)
             except TypeError:
                 nd[k] = v[1]
-
+            except ValueError:
+                nd[item] = data[1][item]
         return nd
 
 
