@@ -1,7 +1,0 @@
-README
-setup.py
-saga/__init__.py
-saga.egg-info/PKG-INFO
-saga.egg-info/SOURCES.txt
-saga.egg-info/dependency_links.txt
-saga.egg-info/top_level.txt
